@@ -1513,3 +1513,266 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.11.23-16.40.47:909][577]LogEditorActor: Deleted Actor: BP_Rifle_C
 [2022.11.23-16.40.47:921][577]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
 [2022.11.23-16.40.47:923][577]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2022.11.23-16.42.50:427][478]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.11.23-16.48.16:385][503]LogSlate: Took 0.015476 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.11.23-16.48.16:385][503]LogSlate: Last resort fallback font was requested. Font: '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf', Character: 'አ (U+12a0)'
+[2022.11.23-16.48.16:406][503]LogSlate: Took 0.018985 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2022.11.23-16.48.19:551][687]LogSlate: Took 0.008199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/NotoNaskhArabicUI-Regular.ttf' (144K)
+[2022.11.23-16.48.26:467][ 96]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.008932 seconds
+[2022.11.23-16.48.26:471][ 96]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2022.11.23-16.48.26:472][ 96]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2022.11.23-16.48.26:916][ 96]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.23-16.48.26:922][ 97]LogSlate: Took 0.000396 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.11.23-16.48.26:927][ 97]LogSlate: Took 0.000331 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.11.23-16.48.26:935][ 97]LogSlate: Took 0.000224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.11.23-16.48.27:643][127]LogSlate: Took 0.001611 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.11.23-16.48.31:797][368]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.005059 seconds
+[2022.11.23-16.48.31:797][368]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2022.11.23-16.48.32:033][368]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.23-16.48.32:038][369]LogSlate: Took 0.000323 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.11.23-16.48.32:042][369]LogSlate: Took 0.000332 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.11.23-16.48.32:049][369]LogSlate: Took 0.000324 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.11.23-16.48.39:849][826]LogSlate: Window 'Editor Preferences' being destroyed
+[2022.11.23-16.48.39:856][826]LogSlate: Window 'Editor Preferences' being destroyed
+[2022.11.23-16.49.38:344][130]LogSlate: Took 0.000509 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.11.23-16.50.04:580][585]MapCheck: New page: Map Check
+[2022.11.23-16.50.04:612][585]LogSlate: Took 0.000255 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.11.23-16.50.04:653][585]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2022.11.23-16.50.04:654][585]MapCheck: New page: FirstPersonMap - Nov 23, 2022, 6:50:04 PM
+[2022.11.23-16.50.04:658][585]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 4.193ms to complete.
+[2022.11.23-16.50.04:659][585]LogEditorBuildUtils: Build time 0:00
+[2022.11.23-16.50.35:656][357]MapCheck: New page: Map Check
+[2022.11.23-16.50.35:719][357]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2022.11.23-16.50.35:719][357]MapCheck: New page: FirstPersonMap - Nov 23, 2022, 6:50:35 PM
+[2022.11.23-16.50.35:721][357]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.173ms to complete.
+[2022.11.23-16.50.35:721][357]LogEditorBuildUtils: Build time 0:00
+[2022.11.23-16.50.37:852][474]LogSlate: Took 0.000223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.11.23-16.50.37:899][477]LogSlate: Took 0.000243 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.11.23-16.50.41:501][671]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2022.11.23-16.50.41:508][671]LogContentBrowser: Creating deferred item: NewWorld
+[2022.11.23-16.50.41:518][672]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2022.11.23-16.50.42:229][712]LogContentBrowser: Attempting asset rename: NewWorld -> NewWorld
+[2022.11.23-16.50.42:230][712]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.23-16.50.42:232][712]LogContentBrowser: End creating deferred item NewWorld
+[2022.11.23-16.50.42:872][748]LogWorldPartition: Warning: Actor /Game/Cosas/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_60F677A5D628784C01_1176079535 is unreachable without properly detaching object /Game/__ExternalActors__/Cosas/FirstPersonMap/6/3W/LHS8UU6VOTG7HR2UDCKJRN.PackageMetaData in its package
+[2022.11.23-16.50.42:872][748]LogWorldPartition: Warning: Actor /Game/Cosas/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_20 is unreachable without properly detaching object /Game/__ExternalActors__/Cosas/FirstPersonMap/F/2F/0SPQG8P507LI9VUAFG20OA.PackageMetaData in its package
+[2022.11.23-16.50.42:872][748]LogWorldPartition: Warning: Actor /Game/Cosas/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_9 is unreachable without properly detaching object /Game/__ExternalActors__/Cosas/FirstPersonMap/E/UE/YUZ9741T50O1SYRX90OB0S.PackageMetaData in its package
+[2022.11.23-16.50.42:872][748]LogWorldPartition: Warning: Actor /Game/Cosas/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_29 is unreachable without properly detaching object /Game/__ExternalActors__/Cosas/FirstPersonMap/C/P8/0GJ9TLQE2YKOIFZ6YHG33H.PackageMetaData in its package
+[2022.11.23-16.50.42:872][748]LogWorldPartition: Warning: Actor /Game/Cosas/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_38 is unreachable without properly detaching object /Game/__ExternalActors__/Cosas/FirstPersonMap/B/YQ/KT6JL4FVCNJJ9VFOCSF32J.PackageMetaData in its package
+[2022.11.23-16.50.42:873][748]LogWorldPartition: Warning: Actor /Game/Cosas/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_36 is unreachable without properly detaching object /Game/__ExternalActors__/Cosas/FirstPersonMap/B/EF/G3O7YJR3QU51OHQGRYB635.PackageMetaData in its package
+[2022.11.23-16.50.42:873][748]LogWorldPartition: Warning: Actor /Game/Cosas/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_27 is unreachable without properly detaching object /Game/__ExternalActors__/Cosas/FirstPersonMap/B/DD/654T6CAPVSXAN1LXEX71EI.PackageMetaData in its package
+[2022.11.23-16.50.42:873][748]LogWorldPartition: Warning: Actor /Game/Cosas/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_28 is unreachable without properly detaching object /Game/__ExternalActors__/Cosas/FirstPersonMap/B/51/6JKB4DNGJP09QUHY23FHRV.PackageMetaData in its package
+[2022.11.23-16.50.42:873][748]LogWorldPartition: Warning: Actor /Game/Cosas/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_10 is unreachable without properly detaching object /Game/__ExternalActors__/Cosas/FirstPersonMap/A/XJ/HL558UUAGCS9HVVOI0S7PX.PackageMetaData in its package
+[2022.11.23-16.50.42:873][748]LogWorldPartition: Warning: Actor /Game/Cosas/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_35 is unreachable without properly detaching object /Game/__ExternalActors__/Cosas/FirstPersonMap/A/RJ/Z7CLKO8GGJ7RXH5PUAF4T4.PackageMetaData in its package
+[2022.11.23-16.50.42:873][748]LogWorldPartition: Warning: Actor /Game/Cosas/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_51 is unreachable without properly detaching object /Game/__ExternalActors__/Cosas/FirstPersonMap/A/91/64ROQWZ22CQVFJMU4XABML.PackageMetaData in its package
+[2022.11.23-16.50.42:873][748]LogWorldPartition: Warning: Actor /Game/Cosas/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_37 is unreachable without properly detaching object /Game/__ExternalActors__/Cosas/FirstPersonMap/A/2W/U0XT0R08XQA6C15NK8ILFA.PackageMetaData in its package
+[2022.11.23-16.50.42:873][748]LogWorldPartition: Warning: Actor /Game/Cosas/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_16 is unreachable without properly detaching object /Game/__ExternalActors__/Cosas/FirstPersonMap/9/VP/FVTPO8KZ0WPMCSQLVJE6O9.PackageMetaData in its package
+[2022.11.23-16.50.42:873][748]LogWorldPartition: Warning: Actor /Game/Cosas/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_31 is unreachable without properly detaching object /Game/__ExternalActors__/Cosas/FirstPersonMap/9/Q2/TOKV0KMMZ7RIQ78R0UEDQL.PackageMetaData in its package
+[2022.11.23-16.50.42:873][748]LogWorldPartition: Warning: Actor /Game/Cosas/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_32 is unreachable without properly detaching object /Game/__ExternalActors__/Cosas/FirstPersonMap/9/OJ/9MHHMH0XHVZ04YDZ7NPC32.PackageMetaData in its package
+[2022.11.23-16.50.42:873][748]LogWorldPartition: Warning: Actor /Game/Cosas/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_19 is unreachable without properly detaching object /Game/__ExternalActors__/Cosas/FirstPersonMap/9/JW/IY5R6I5N0YWU9LYWKXFXH9.PackageMetaData in its package
+[2022.11.23-16.50.42:873][748]LogWorldPartition: Warning: Actor /Game/Cosas/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_18 is unreachable without properly detaching object /Game/__ExternalActors__/Cosas/FirstPersonMap/9/6K/53TOYTOLDEUBMS5SLUFP3V.PackageMetaData in its package
+[2022.11.23-16.50.42:873][748]LogWorldPartition: Warning: Actor /Game/Cosas/FirstPersonMap.FirstPersonMap:PersistentLevel.PlayerStart_0 is unreachable without properly detaching object /Game/__ExternalActors__/Cosas/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.PackageMetaData in its package
+[2022.11.23-16.50.42:873][748]LogWorldPartition: Warning: Actor /Game/Cosas/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_46 is unreachable without properly detaching object /Game/__ExternalActors__/Cosas/FirstPersonMap/8/Y4/KY9ZXT77SAVGWBRTNCFCSC.PackageMetaData in its package
+[2022.11.23-16.50.42:873][748]LogWorldPartition: Warning: Actor /Game/Cosas/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_8 is unreachable without properly detaching object /Game/__ExternalActors__/Cosas/FirstPersonMap/8/SZ/D1AHM62WL9TXSNPYQDXQMZ.PackageMetaData in its package
+[2022.11.23-16.50.42:873][748]LogWorldPartition: Warning: Actor /Game/Cosas/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_14 is unreachable without properly detaching object /Game/__ExternalActors__/Cosas/FirstPersonMap/8/CW/6HT16P8P5RAXNJG3EVYWE9.PackageMetaData in its package
+[2022.11.23-16.50.42:873][748]LogWorldPartition: Warning: Actor /Game/Cosas/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_44 is unreachable without properly detaching object /Game/__ExternalActors__/Cosas/FirstPersonMap/8/CF/ZNIOCRD90Z70MMV9NMW778.PackageMetaData in its package
+[2022.11.23-16.50.42:873][748]LogWorldPartition: Warning: Actor /Game/Cosas/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_41 is unreachable without properly detaching object /Game/__ExternalActors__/Cosas/FirstPersonMap/8/80/RCXALNT3NG94XMV0V6D4XE.PackageMetaData in its package
+[2022.11.23-16.50.42:873][748]LogWorldPartition: Warning: Actor /Game/Cosas/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_49 is unreachable without properly detaching object /Game/__ExternalActors__/Cosas/FirstPersonMap/7/WS/X084A70TPBKFLJDCV2U5PN.PackageMetaData in its package
+[2022.11.23-16.50.42:873][748]LogWorldPartition: Warning: Actor /Game/Cosas/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_0 is unreachable without properly detaching object /Game/__ExternalActors__/Cosas/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB.PackageMetaData in its package
+[2022.11.23-16.50.42:873][748]LogWorldPartition: Warning: Actor /Game/Cosas/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_43 is unreachable without properly detaching object /Game/__ExternalActors__/Cosas/FirstPersonMap/7/GI/GZM47KS5FPIQH5TLSYC1ME.PackageMetaData in its package
+[2022.11.23-16.50.42:873][748]LogWorldPartition: Warning: Actor /Game/Cosas/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_22 is unreachable without properly detaching object /Game/__ExternalActors__/Cosas/FirstPersonMap/7/DF/1GID8P6B00XRWKYCXU7HT1.PackageMetaData in its package
+[2022.11.23-16.50.42:873][748]LogWorldPartition: Warning: Actor /Game/Cosas/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_21 is unreachable without properly detaching object /Game/__ExternalActors__/Cosas/FirstPersonMap/7/5X/6EW8RE9VA2GGHRWK614FCI.PackageMetaData in its package
+[2022.11.23-16.50.42:873][748]LogWorldPartition: Warning: Actor /Game/Cosas/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_17 is unreachable without properly detaching object /Game/__ExternalActors__/Cosas/FirstPersonMap/6/HC/FI3CQDKJY4J00D2B21FYQZ.PackageMetaData in its package
+[2022.11.23-16.50.42:873][748]LogWorldPartition: Warning: Actor /Game/Cosas/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_4 is unreachable without properly detaching object /Game/__ExternalActors__/Cosas/FirstPersonMap/6/AJ/2XZ3RUK0LFB63FVNQE7P5R.PackageMetaData in its package
+[2022.11.23-16.50.42:873][748]LogWorldPartition: Warning: Actor /Game/Cosas/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_34 is unreachable without properly detaching object /Game/__ExternalActors__/Cosas/FirstPersonMap/6/7Z/7EHFAZ5HVWXAWQ04QO5TH0.PackageMetaData in its package
+[2022.11.23-16.50.42:873][748]LogWorldPartition: Warning: Actor /Game/Cosas/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_33 is unreachable without properly detaching object /Game/__ExternalActors__/Cosas/FirstPersonMap/5/DI/1JZHHCOBVQ2F5XRUWSES1X.PackageMetaData in its package
+[2022.11.23-16.50.42:873][748]LogWorldPartition: Warning: Actor /Game/Cosas/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Rifle_C_1 is unreachable without properly detaching object /Game/__ExternalActors__/Cosas/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.PackageMetaData in its package
+[2022.11.23-16.50.42:873][748]LogWorldPartition: Warning: Actor /Game/Cosas/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_15 is unreachable without properly detaching object /Game/__ExternalActors__/Cosas/FirstPersonMap/5/80/QQN0UFFAA797E1UT4IMD29.PackageMetaData in its package
+[2022.11.23-16.50.42:873][748]LogWorldPartition: Warning: Actor /Game/Cosas/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_24 is unreachable without properly detaching object /Game/__ExternalActors__/Cosas/FirstPersonMap/4/PT/ZXUQMNLL9GZ2UNQ5D0R4A4.PackageMetaData in its package
+[2022.11.23-16.50.42:873][748]LogWorldPartition: Warning: Actor /Game/Cosas/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_42 is unreachable without properly detaching object /Game/__ExternalActors__/Cosas/FirstPersonMap/4/G2/DXY1ROMU8NVTUPH999VNGV.PackageMetaData in its package
+[2022.11.23-16.50.42:873][748]LogWorldPartition: Warning: Actor /Game/Cosas/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_47 is unreachable without properly detaching object /Game/__ExternalActors__/Cosas/FirstPersonMap/3/YY/ZEL6NJUQJU43LAD9X3NXTT.PackageMetaData in its package
+[2022.11.23-16.50.42:873][748]LogWorldPartition: Warning: Actor /Game/Cosas/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_5 is unreachable without properly detaching object /Game/__ExternalActors__/Cosas/FirstPersonMap/3/CP/XRLOR3HVYVHJA3N9PKGXZH.PackageMetaData in its package
+[2022.11.23-16.50.42:873][748]LogWorldPartition: Warning: Actor /Game/Cosas/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_1 is unreachable without properly detaching object /Game/__ExternalActors__/Cosas/FirstPersonMap/3/C8/Z38FT77DKZLKDXTQ7PZNM4.PackageMetaData in its package
+[2022.11.23-16.50.42:873][748]LogWorldPartition: Warning: Actor /Game/Cosas/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_3 is unreachable without properly detaching object /Game/__ExternalActors__/Cosas/FirstPersonMap/3/AI/0XWE3RNM2XQC0ST1KXG02O.PackageMetaData in its package
+[2022.11.23-16.50.42:873][748]LogWorldPartition: Warning: Actor /Game/Cosas/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_6 is unreachable without properly detaching object /Game/__ExternalActors__/Cosas/FirstPersonMap/3/0O/4IRR0TBO7VGKMMYSZRQTB1.PackageMetaData in its package
+[2022.11.23-16.50.42:873][748]LogWorldPartition: Warning: Actor /Game/Cosas/FirstPersonMap.FirstPersonMap:PersistentLevel.TextRenderActor_1 is unreachable without properly detaching object /Game/__ExternalActors__/Cosas/FirstPersonMap/1/RN/55P1SMQLAF7OK6300D5I8N.PackageMetaData in its package
+[2022.11.23-16.50.42:873][748]LogWorldPartition: Warning: Actor /Game/Cosas/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_50 is unreachable without properly detaching object /Game/__ExternalActors__/Cosas/FirstPersonMap/1/QL/31H7DJTVWEX04CCMX5U1SN.PackageMetaData in its package
+[2022.11.23-16.50.42:873][748]LogWorldPartition: Warning: Actor /Game/Cosas/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_40 is unreachable without properly detaching object /Game/__ExternalActors__/Cosas/FirstPersonMap/1/OD/YPSPM063O6XAJVKSDHY2JX.PackageMetaData in its package
+[2022.11.23-16.50.42:873][748]LogWorldPartition: Warning: Actor /Game/Cosas/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_23 is unreachable without properly detaching object /Game/__ExternalActors__/Cosas/FirstPersonMap/1/JT/XIHYQ8ZTVL6F9GCUZX1AQ2.PackageMetaData in its package
+[2022.11.23-16.50.42:873][748]LogWorldPartition: Warning: Actor /Game/Cosas/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_12 is unreachable without properly detaching object /Game/__ExternalActors__/Cosas/FirstPersonMap/1/63/MG6FOV6QQX2CAZCGF7O9MM.PackageMetaData in its package
+[2022.11.23-16.50.42:873][748]LogWorldPartition: Warning: Actor /Game/Cosas/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_25 is unreachable without properly detaching object /Game/__ExternalActors__/Cosas/FirstPersonMap/1/2J/R4MRTH8FEAO7ML1BCJFIZ2.PackageMetaData in its package
+[2022.11.23-16.50.42:874][748]LogWorldPartition: Warning: Actor /Game/Cosas/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_45 is unreachable without properly detaching object /Game/__ExternalActors__/Cosas/FirstPersonMap/0/NB/NWWEVRQSGT6ARVZ8HQLCM9.PackageMetaData in its package
+[2022.11.23-16.50.42:874][748]LogWorldPartition: Warning: Actor /Game/Cosas/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_26 is unreachable without properly detaching object /Game/__ExternalActors__/Cosas/FirstPersonMap/0/7P/QZX5AESKLO855EVPT5JU20.PackageMetaData in its package
+[2022.11.23-16.50.42:874][748]LogWorldPartition: Warning: Actor /Game/Cosas/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_13 is unreachable without properly detaching object /Game/__ExternalActors__/Cosas/FirstPersonMap/0/0M/LYKU8MRWM4BO3O1FDZBG2U.PackageMetaData in its package
+[2022.11.23-16.50.42:882][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.11.23-16.50.44:111][748]LogSlate: Window 'Save Content' being destroyed
+[2022.11.23-16.50.44:629][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.11.23-16.50.44:644][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.11.23-16.50.44:660][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.11.23-16.50.44:680][748]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Cosas/FirstPersonMap/A/JH/8TTAOMHN06NOHWGDJXKH1N
+[2022.11.23-16.50.44:682][748]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/8TTAOMHN06NOHWGDJXKH1NB84AFFCF46B4D5C09E69ACB44EDC291F.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalObjects__/Cosas/FirstPersonMap/A/JH/8TTAOMHN06NOHWGDJXKH1N.uasset'
+[2022.11.23-16.50.44:686][748]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Cosas/FirstPersonMap/7/ZX/JUGNISA5MV8V8FE530PDPQ
+[2022.11.23-16.50.44:687][748]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/JUGNISA5MV8V8FE530PDPQ8789F11148E2D98711DF36A36C81AE21.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalObjects__/Cosas/FirstPersonMap/7/ZX/JUGNISA5MV8V8FE530PDPQ.uasset'
+[2022.11.23-16.50.44:692][748]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Cosas/FirstPersonMap/D/PH/WQFJJGR81PTWACYGUC1CP5
+[2022.11.23-16.50.44:693][748]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/WQFJJGR81PTWACYGUC1CP51D0BD7154E760F51D6D02F9F484AB631.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalObjects__/Cosas/FirstPersonMap/D/PH/WQFJJGR81PTWACYGUC1CP5.uasset'
+[2022.11.23-16.50.44:698][748]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Cosas/FirstPersonMap/8/9P/KRNGZ1PU2Y3ACDDE2D2XC5
+[2022.11.23-16.50.44:700][748]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/KRNGZ1PU2Y3ACDDE2D2XC50F75694B4BD4F902C7249597ACB02A24.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalObjects__/Cosas/FirstPersonMap/8/9P/KRNGZ1PU2Y3ACDDE2D2XC5.uasset'
+[2022.11.23-16.50.44:705][748]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Cosas/FirstPersonMap/E/2M/ESWAVQBPX1XK2OH2YGVZCM
+[2022.11.23-16.50.44:707][748]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/ESWAVQBPX1XK2OH2YGVZCM2563D76F4337EF24611AF0B1B751A19D.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalObjects__/Cosas/FirstPersonMap/E/2M/ESWAVQBPX1XK2OH2YGVZCM.uasset'
+[2022.11.23-16.50.44:711][748]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Cosas/FirstPersonMap/3/9Y/O1HBCAIOGYKE5W89K0N3EC
+[2022.11.23-16.50.44:714][748]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/O1HBCAIOGYKE5W89K0N3EC674C32084180113273EDB0B032868DC8.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalObjects__/Cosas/FirstPersonMap/3/9Y/O1HBCAIOGYKE5W89K0N3EC.uasset'
+[2022.11.23-16.50.44:719][748]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Cosas/FirstPersonMap/6/2R/TKXMGQLWGTB6FEH6EYY7NK
+[2022.11.23-16.50.44:720][748]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/TKXMGQLWGTB6FEH6EYY7NKB7F2BED344714FE8340C55A7583B181A.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalObjects__/Cosas/FirstPersonMap/6/2R/TKXMGQLWGTB6FEH6EYY7NK.uasset'
+[2022.11.23-16.50.44:726][748]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/__ExternalActors__/Cosas/FirstPersonMap/C/ZU/PDQ0AB8RLNMVID876FD49G
+/Game/__ExternalActors__/Cosas/FirstPersonMap/4/CR/SRVPLA8UNZ8XIIP0E036DI
+[2022.11.23-16.50.44:730][748]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap/C/ZU/PDQ0AB8RLNMVID876FD49G
+[2022.11.23-16.50.44:731][748]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/PDQ0AB8RLNMVID876FD49G373AFE684EC8B4B37ACA33854751392E.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap/C/ZU/PDQ0AB8RLNMVID876FD49G.uasset'
+[2022.11.23-16.50.44:736][748]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap/4/CR/SRVPLA8UNZ8XIIP0E036DI
+[2022.11.23-16.50.44:738][748]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/SRVPLA8UNZ8XIIP0E036DIFA133A0A4C76ADF0034709ABD5034658.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap/4/CR/SRVPLA8UNZ8XIIP0E036DI.uasset'
+[2022.11.23-16.50.44:741][748]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/__ExternalActors__/Cosas/FirstPersonMap/C/ZU/PDQ0AB8RLNMVID876FD49G
+/Game/__ExternalActors__/Cosas/FirstPersonMap/4/CR/SRVPLA8UNZ8XIIP0E036DI
+[2022.11.23-16.50.44:757][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.11.23-16.50.44:765][748]LogSavePackage: Moving output files for package: /Game/Cosas/FirstPersonMap
+[2022.11.23-16.50.44:767][748]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/FirstPersonMap78B96F2841C8752D6F9659ADB27C2BE2.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/Cosas/FirstPersonMap.umap'
+[2022.11.23-16.50.44:788][748]LogFileHelpers: Saving map 'FirstPersonMap' took 0.062
+[2022.11.23-16.50.44:789][748]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cosas/NewWorld" FILE="../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/Cosas/NewWorld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.23-16.50.44:802][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2022.11.23-16.50.44:806][748]LogSavePackage: Moving output files for package: /Game/Cosas/NewWorld
+[2022.11.23-16.50.44:806][748]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/NewWorld988B09394E8150D90BB87FA283EDA2A7.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/Cosas/NewWorld.umap'
+[2022.11.23-16.50.44:813][748]LogFileHelpers: Saving map 'NewWorld' took 0.025
+[2022.11.23-16.50.44:815][748]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap/C/ZU/PDQ0AB8RLNMVID876FD49G
+[2022.11.23-16.50.44:816][748]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/PDQ0AB8RLNMVID876FD49G33372DE243F29ACB753D258537A3E627.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap/C/ZU/PDQ0AB8RLNMVID876FD49G.uasset'
+[2022.11.23-16.50.44:818][748]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap/4/CR/SRVPLA8UNZ8XIIP0E036DI
+[2022.11.23-16.50.44:819][748]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/SRVPLA8UNZ8XIIP0E036DI462BC91C4E6DF8AD734A5F9FF8FFF593.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap/4/CR/SRVPLA8UNZ8XIIP0E036DI.uasset'
+[2022.11.23-16.50.44:831][748]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Cosas/NewWorld.NewWorld
+[2022.11.23-16.50.44:831][748]Cmd: MAP LOAD FILE="../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/Cosas/NewWorld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.23-16.50.44:831][748]LightingResults: New page: Lighting Build
+[2022.11.23-16.50.44:831][748]LoadErrors: New page: Loading map: NewWorld.umap
+[2022.11.23-16.50.44:834][748]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.23-16.50.44:834][748]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.23-16.50.44:840][748]MapCheck: New page: Map Check
+[2022.11.23-16.50.44:840][748]LightingResults: New page: Lighting Build
+[2022.11.23-16.50.44:849][748]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.23-16.50.44:851][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.11.23-16.50.44:852][748]LogWorld: UWorld::CleanupWorld for NewWorld, bSessionEnded=true, bCleanupResources=true
+[2022.11.23-16.50.44:852][748]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.23-16.50.44:862][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.11.23-16.50.44:872][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.11.23-16.50.44:873][748]LogAudio: Display: Audio Device (ID: 1) registered with world 'NewWorld'.
+[2022.11.23-16.50.44:874][748]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.23-16.50.44:874][748]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.23-16.50.44:874][748]LogAIModule: Creating AISystem for world NewWorld
+[2022.11.23-16.50.44:891][748]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.23-16.50.44:903][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.11.23-16.50.44:915][748]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.23-16.50.44:915][748]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.164ms to complete.
+[2022.11.23-16.50.44:915][748]LogFileHelpers: Loading map 'NewWorld' took 0.084
+[2022.11.23-16.50.44:931][748]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.23-16.50.44:931][748]LogContentValidation: Display: Validating World /Game/Cosas/NewWorld.NewWorld
+[2022.11.23-16.50.44:931][748]LogContentValidation: Display: Validating ActorFolder /Game/Cosas/FirstPersonMap.FirstPersonMap:PersistentLevel.ActorFolder_UID_5710F103-4B6DC7FB-D588718E-283EB93C
+[2022.11.23-16.50.44:939][748]LogContentValidation: Display: Validating ActorFolder /Game/Cosas/FirstPersonMap.FirstPersonMap:PersistentLevel.ActorFolder_UID_275232DB-4A90E8B2-799B29BD-69C59B9E
+[2022.11.23-16.50.44:939][748]LogContentValidation: Display: Validating ActorFolder /Game/Cosas/FirstPersonMap.FirstPersonMap:PersistentLevel.ActorFolder_UID_0C5AB369-45998C19-C9EA9283-402A8E02
+[2022.11.23-16.50.44:939][748]LogContentValidation: Display: Validating ActorFolder /Game/Cosas/FirstPersonMap.FirstPersonMap:PersistentLevel.ActorFolder_UID_D00C3F32-4D055BED-943FA6B0-235C7FA2
+[2022.11.23-16.50.44:939][748]LogContentValidation: Display: Validating ActorFolder /Game/Cosas/FirstPersonMap.FirstPersonMap:PersistentLevel.ActorFolder_UID_98EA6984-416B46BD-4E6349A7-D9A13307
+[2022.11.23-16.50.44:939][748]LogContentValidation: Display: Validating ActorFolder /Game/Cosas/FirstPersonMap.FirstPersonMap:PersistentLevel.ActorFolder_UID_6C02BB50-4B69D1F3-D7A624B1-30C18E5B
+[2022.11.23-16.50.44:939][748]LogContentValidation: Display: Validating ActorFolder /Game/Cosas/FirstPersonMap.FirstPersonMap:PersistentLevel.ActorFolder_UID_9AEEADCB-4DC6C647-D6E7C0B4-EDA1744F
+[2022.11.23-16.50.44:939][748]LogContentValidation: Display: Validating StaticMeshActor /Game/Cosas/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A4AE111137DC5EFB00_2001720423
+[2022.11.23-16.50.44:940][748]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Cosas/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A4AE111137DC5EFB00_2001720423'
+[2022.11.23-16.50.44:940][748]LogContentValidation: Display: Validating WorldPartitionMiniMap /Game/Cosas/FirstPersonMap.FirstPersonMap:PersistentLevel.WorldPartitionMiniMap_0
+[2022.11.23-16.50.44:940][748]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Cosas/FirstPersonMap.FirstPersonMap:PersistentLevel.WorldPartitionMiniMap_0'
+[2022.11.23-16.50.44:940][748]LogContentValidation: Display: Validating World /Game/Cosas/FirstPersonMap.FirstPersonMap
+[2022.11.23-16.50.53:320][215]MapCheck: New page: Map Check
+[2022.11.23-16.50.53:376][215]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2022.11.23-16.50.53:377][215]MapCheck: New page: NewWorld - Nov 23, 2022, 6:50:53 PM
+[2022.11.23-16.50.53:377][215]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.307ms to complete.
+[2022.11.23-16.50.53:377][215]LogEditorBuildUtils: Build time 0:00
+[2022.11.23-16.50.54:355][272]LogEditorViewport: Clicking Background
+[2022.11.23-16.51.20:245][789]LogEditorViewport: Clicking Background
+[2022.11.23-16.52.52:537][585]Cmd: MAP CHECK
+[2022.11.23-16.52.52:538][585]MapCheck: New page: NewWorld - Nov 23, 2022, 6:52:52 PM
+[2022.11.23-16.52.52:538][585]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.365ms to complete.
+[2022.11.23-16.52.54:405][690]LogSlate: Window 'Message Log' being destroyed
+[2022.11.23-16.52.54:412][690]LogSlate: Window 'Message Log' being destroyed
+[2022.11.23-16.53.04:471][274]LogEditorViewport: Clicking Background
+[2022.11.23-16.53.08:580][510]LogEditorViewport: Clicking Background
+[2022.11.23-16.53.57:813][385]LogEditorViewport: Clicking Background
+[2022.11.23-16.54.02:354][653]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe -Mode=QueryTargets -Output="C:/Program Files/Epic Games/UE_5.0/Engine/Intermediate/TargetInfo.json"]
+[2022.11.23-16.54.02:469][653]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe -Mode=QueryTargets -Output="C:/Program Files/Epic Games/UE_5.0/Engine/Intermediate/TargetInfo.json"]
+[2022.11.23-16.54.02:574][653]LogDesktopPlatform: Warning: Unable to read target info for engine
+[2022.11.23-16.54.02:574][653]LogTurnkeySupport: Display: Adding device menu item for DESKTOP-3HH952Q
+[2022.11.23-16.54.02:574][653]LogTurnkeySupport: Running Turnkey device detection: ' -ScriptsForProject="C:/Users/Josué/Documents/Unreal Projects/MyProject/MyProject.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Josué/Documents/Unreal Projects/MyProject/Intermediate/TurnkeyReport_1.log" -log="C:/Users/Josué/Documents/Unreal Projects/MyProject/Intermediate/TurnkeyLog_1.log" -project="C:/Users/Josué/Documents/Unreal Projects/MyProject/MyProject.uproject"  -Device=Win64@DESKTOP-3HH952Q'
+[2022.11.23-16.54.02:574][653]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/Josué/Documents/Unreal Projects/MyProject/MyProject.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Josué/Documents/Unreal Projects/MyProject/Intermediate/TurnkeyReport_1.log" -log="C:/Users/Josué/Documents/Unreal Projects/MyProject/Intermediate/TurnkeyLog_1.log" -project="C:/Users/Josué/Documents/Unreal Projects/MyProject/MyProject.uproject"  -Device=Win64@DESKTOP-3HH952Q" -nocompile ]
+[2022.11.23-16.54.02:760][663]LogTurnkeySupport: Completed device detection: Code = 0
+[2022.11.23-16.54.03:223][690]LogTurnkeySupport: Display: Adding device menu item for DESKTOP-3HH952Q
+[2022.11.23-16.54.28:172][301]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.11.23-16.55.15:353][ 54]LogObjectTools: Deleting 1 worlds: /Game/Cosas/NewWorld.NewWorld
+[2022.11.23-16.55.15:354][ 54]LogObjectTools: Currently 4 active worlds: /Game/Cosas/NewWorld.NewWorld, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2
+[2022.11.23-16.55.17:098][ 54]LogSlate: Window 'Unable to delete level' being destroyed
+[2022.11.23-16.55.17:106][ 54]Message dialog closed, result: Ok, title: Unable to delete level, text: Unable to delete level while it is open
+[2022.11.23-16.55.19:257][183]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.11.23-16.55.20:309][183]LogSlate: Window 'Save Content' being destroyed
+[2022.11.23-16.55.20:406][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cosas/NewWorld" FILE="../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/Cosas/NewWorld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.23-16.55.20:419][183]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.11.23-16.55.20:423][183]LogSavePackage: Moving output files for package: /Game/Cosas/NewWorld
+[2022.11.23-16.55.20:424][183]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/NewWorldB1D2C326420109A4B52BAFB2D40D92F4.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/Cosas/NewWorld.umap'
+[2022.11.23-16.55.20:442][183]LogFileHelpers: Saving map 'NewWorld' took 0.037
+[2022.11.23-16.55.20:454][183]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Cosas/FirstPersonMap.FirstPersonMap
+[2022.11.23-16.55.20:455][183]Cmd: MAP LOAD FILE="../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/Cosas/FirstPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.23-16.55.20:455][183]LightingResults: New page: Lighting Build
+[2022.11.23-16.55.20:455][183]LoadErrors: New page: Loading map: FirstPersonMap.umap
+[2022.11.23-16.55.20:484][183]LogWorld: UWorld::CleanupWorld for NewWorld, bSessionEnded=true, bCleanupResources=true
+[2022.11.23-16.55.20:484][183]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.23-16.55.20:484][183]MapCheck: New page: Map Check
+[2022.11.23-16.55.20:484][183]LightingResults: New page: Lighting Build
+[2022.11.23-16.55.20:492][183]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.23-16.55.20:493][183]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.11.23-16.55.20:494][183]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.23-16.55.20:494][183]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.23-16.55.20:505][183]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.11.23-16.55.20:515][183]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.11.23-16.55.20:524][183]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonMap'.
+[2022.11.23-16.55.20:524][183]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.23-16.55.20:525][183]LogAIModule: Creating AISystem for world FirstPersonMap
+[2022.11.23-16.55.20:526][183]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.11.23-16.55.20:526][183]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.11.23-16.55.20:534][183]LogWorldPartition: Display: WorldPartition initialize took 8 ms
+[2022.11.23-16.55.20:551][183]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.23-16.55.20:563][183]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.11.23-16.55.20:578][183]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.23-16.55.20:578][183]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.223ms to complete.
+[2022.11.23-16.55.20:579][183]LogFileHelpers: Loading map 'FirstPersonMap' took 0.124
+[2022.11.23-16.55.20:595][183]AssetCheck: New page: Asset Save: NewWorld
+[2022.11.23-16.55.20:595][183]LogContentValidation: Display: Validating World /Game/Cosas/NewWorld.NewWorld
+[2022.11.23-16.55.22:322][276]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.23-16.55.22:323][276]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.23-16.55.22:869][307]LogObjectTools: Deleting 1 worlds: /Game/Cosas/NewWorld.NewWorld
+[2022.11.23-16.55.22:869][307]LogObjectTools: Currently 4 active worlds: /Game/Cosas/FirstPersonMap.FirstPersonMap, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2
+[2022.11.23-16.55.22:880][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.11.23-16.55.23:867][307]LogSlate: Window 'Delete Assets' being destroyed
+[2022.11.23-16.55.23:875][307]LogWorld: UWorld::CleanupWorld for NewWorld, bSessionEnded=true, bCleanupResources=true
+[2022.11.23-16.55.23:875][307]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.23-16.55.23:876][307]LogWorld: Warning: UWorld::CleanupWorld called twice or called without InitWorld called first.
+[2022.11.23-16.55.23:876][307]LogWorld: UWorld::CleanupWorld for NewWorld, bSessionEnded=true, bCleanupResources=true
+[2022.11.23-16.55.23:876][307]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.23-16.55.23:889][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.11.23-16.55.23:899][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.11.23-16.55.23:909][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.11.23-17.01.11:457][510]LogHttp: Warning: 000008B302186E00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE9D42BEA-42CD-A52E-0E4A-74B40D8DADC6%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=2cd8dfbd4af4fa1e1a82a1941aa4f7d6%7C26ebc5e754f5431daa1a44c2b5dd5fa1%7Cabc42059-6f10-4acb-9957-8bc0501ca7fa&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.11.23-17.01.11:457][510]LogHttp: Warning: 000008B302186E00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2022.11.23-17.01.11:457][510]LogHttp: Warning: 000008B302186E00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x8b2c30d0000 [can pipeline])
+[2022.11.23-17.01.11:457][510]LogHttp: Warning: 000008B302186E00: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2022.11.23-17.01.11:457][510]LogHttp: Warning: 000008B302186E00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (67.202.57.230) port 443 (#0))
+[2022.11.23-17.01.11:457][510]LogHttp: Warning: 000008B302186E00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.11.23-17.01.11:457][510]LogHttp: Warning: 000008B302186E00: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2022.11.23-17.01.11:458][510]LogHttp: Warning: 000008B302186E00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.11.23-17.01.11:458][510]LogHttp: Warning: 000008B302186E00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.11.23-17.01.11:458][510]LogHttp: Warning: 000008B302186E00: libcurl info message cache 7 (Closing connection 0)
+[2022.11.23-17.01.11:458][510]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE9D42BEA-42CD-A52E-0E4A-74B40D8DADC6%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=2cd8dfbd4af4fa1e1a82a1941aa4f7d6%7C26ebc5e754f5431daa1a44c2b5dd5fa1%7Cabc42059-6f10-4acb-9957-8bc0501ca7fa&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.11.23-17.01.15:135][521]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.11.23-17.01.52:714][633]LogHttp: Warning: 000008B302180000: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE9D42BEA-42CD-A52E-0E4A-74B40D8DADC6%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=2cd8dfbd4af4fa1e1a82a1941aa4f7d6%7C26ebc5e754f5431daa1a44c2b5dd5fa1%7Cabc42059-6f10-4acb-9957-8bc0501ca7fa&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.11.23-17.01.52:714][633]LogHttp: Warning: 000008B302180000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.11.23-17.01.52:714][633]LogHttp: Warning: 000008B302180000: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.11.23-17.01.52:714][633]LogHttp: Warning: 000008B302180000: libcurl info message cache 1 (Closing connection 1)
+[2022.11.23-17.01.52:714][633]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE9D42BEA-42CD-A52E-0E4A-74B40D8DADC6%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=2cd8dfbd4af4fa1e1a82a1941aa4f7d6%7C26ebc5e754f5431daa1a44c2b5dd5fa1%7Cabc42059-6f10-4acb-9957-8bc0501ca7fa&AppEnvironment=datacollector-binary&UploadType=eteventstream
