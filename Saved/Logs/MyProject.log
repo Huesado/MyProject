@@ -1776,3 +1776,1120 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.11.23-17.01.52:714][633]LogHttp: Warning: 000008B302180000: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
 [2022.11.23-17.01.52:714][633]LogHttp: Warning: 000008B302180000: libcurl info message cache 1 (Closing connection 1)
 [2022.11.23-17.01.52:714][633]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE9D42BEA-42CD-A52E-0E4A-74B40D8DADC6%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=2cd8dfbd4af4fa1e1a82a1941aa4f7d6%7C26ebc5e754f5431daa1a44c2b5dd5fa1%7Cabc42059-6f10-4acb-9957-8bc0501ca7fa&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.11.23-17.05.26:751][624]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.23-17.05.26:751][624]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.23-17.05.27:152][645]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.23-17.05.27:152][645]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.23-17.05.28:485][715]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.23-17.05.28:485][715]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.23-17.05.31:288][875]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Docking.TabFont'. Using FTextBlockStyle defaults instead.
+[2022.11.23-17.05.31:288][875]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Docking.TabFont'. Using FTextBlockStyle defaults instead.
+[2022.11.23-17.05.32:554][950]LogSlate: Window 'Undo History' being destroyed
+[2022.11.23-17.05.32:560][950]LogSlate: Window 'Undo History' being destroyed
+[2022.11.23-17.05.36:046][138]LogObjectTools: Deleting 1 worlds: /Game/Cosas/FirstPersonMap.FirstPersonMap
+[2022.11.23-17.05.36:046][138]LogObjectTools: Currently 4 active worlds: /Game/Cosas/FirstPersonMap.FirstPersonMap, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2
+[2022.11.23-17.05.37:192][138]LogSlate: Window 'Unable to delete level' being destroyed
+[2022.11.23-17.05.37:199][138]Message dialog closed, result: Ok, title: Unable to delete level, text: Unable to delete level while it is open
+[2022.11.23-17.05.40:854][348]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.23-17.05.40:854][348]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.23-17.05.41:050][356]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.23-17.05.41:050][356]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.23-17.05.43:467][495]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.11.23-17.05.44:185][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.11.23-17.05.45:208][515]LogSlate: Window 'Save Content' being destroyed
+[2022.11.23-17.05.45:344][515]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Cosas/FirstPersonMap_2/7/O8/6D4LCAYAV5OT40IBLQ8ZP3
+[2022.11.23-17.05.45:344][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/6D4LCAYAV5OT40IBLQ8ZP3888DA4764D975CD77A9925AECA564612.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalObjects__/Cosas/FirstPersonMap_2/7/O8/6D4LCAYAV5OT40IBLQ8ZP3.uasset'
+[2022.11.23-17.05.45:349][515]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Cosas/FirstPersonMap_2/C/9T/RE7KGF8YOKBDDEGAUAZANQ
+[2022.11.23-17.05.45:349][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/RE7KGF8YOKBDDEGAUAZANQ0FAADB3147E04577DDF7C293C8435603.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalObjects__/Cosas/FirstPersonMap_2/C/9T/RE7KGF8YOKBDDEGAUAZANQ.uasset'
+[2022.11.23-17.05.45:355][515]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Cosas/FirstPersonMap_2/6/A2/CO0DQNT0CBFLX5TFN1PIFI
+[2022.11.23-17.05.45:355][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/CO0DQNT0CBFLX5TFN1PIFI31472FD24BAE32CFC4131C8A29374489.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalObjects__/Cosas/FirstPersonMap_2/6/A2/CO0DQNT0CBFLX5TFN1PIFI.uasset'
+[2022.11.23-17.05.45:360][515]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Cosas/FirstPersonMap_2/2/RM/D8XGFQJCQWJMS32UTWXC2W
+[2022.11.23-17.05.45:360][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/D8XGFQJCQWJMS32UTWXC2WC1745E5547B8174DFC1F22B39CA79DF0.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalObjects__/Cosas/FirstPersonMap_2/2/RM/D8XGFQJCQWJMS32UTWXC2W.uasset'
+[2022.11.23-17.05.45:365][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/1/G3/Z2Y5OC8IFS5K866NYF6GT0
+[2022.11.23-17.05.45:365][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/Z2Y5OC8IFS5K866NYF6GT0484A919F494DC219AC5B41A07A85FD65.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/1/G3/Z2Y5OC8IFS5K866NYF6GT0.uasset'
+[2022.11.23-17.05.45:369][515]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Cosas/FirstPersonMap_2/E/FD/WECOKCKOCE51HSGTGKYQM4
+[2022.11.23-17.05.45:370][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/WECOKCKOCE51HSGTGKYQM4D06EC4694FC303FB78C5ECB7E9E0CB63.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalObjects__/Cosas/FirstPersonMap_2/E/FD/WECOKCKOCE51HSGTGKYQM4.uasset'
+[2022.11.23-17.05.45:374][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/0/JK/GLXHZ9UAN2630LYNCFLA1W
+[2022.11.23-17.05.45:374][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/GLXHZ9UAN2630LYNCFLA1WF539C35A40986F6E7ECEDC9D1FAFCB47.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/0/JK/GLXHZ9UAN2630LYNCFLA1W.uasset'
+[2022.11.23-17.05.45:378][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/9/M4/Z822CR0BP19MY5VSHOEP4F
+[2022.11.23-17.05.45:379][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/Z822CR0BP19MY5VSHOEP4F3C8FA99A44E948F65A43ABAA48EDAE7F.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/9/M4/Z822CR0BP19MY5VSHOEP4F.uasset'
+[2022.11.23-17.05.45:382][515]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.23-17.05.45:408][515]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/2/V2/LRE60WR8STSGQIFGDLZ026
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/4/IT/G0A8NHFW0NJX2GWXDH0L3K
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/4/UK/WGLH1T9JBIWXJ4J9BVAXHA
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/9/M4/Z822CR0BP19MY5VSHOEP4F
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/E/SV/H1DZQ1F68P3QDI1OZ53CPQ
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/2/45/0UAQETK0T5ME7Y2NATCFHT
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/0/JK/GLXHZ9UAN2630LYNCFLA1W
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/B/5H/ZU1F753Z75RHWA3MHYDD5L
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/C/M5/STCCW5M4TRMEZUBGTWCPHP
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/D/OE/9NL43LQ8BMA9OJYGHJZFIC
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/1/R1/9LI6NKAEKUZDJPRN99VW49
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/A/M4/RZ5HF98HCH0XTPUE2X2T89
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/1/W0/HUGXMJA6XH1A4C750CFPOZ
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/E/KA/UYBN94Z6JFZJ3CHAK5W5BE
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/4/O4/B867K033O8HMNR4HWI3VDG
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/0/J3/AZM48LF66POWNZHJB9XMGQ
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/E/C8/D7MQ2D4OEA36T7EA48WCZP
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/5/KR/CRLKIDND9Y3513DBD8ACW1
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/A/W3/2CXB07GE4ASK46IFHOYIUC
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/3/NG/DTK4WFTZQGDZL6K2CNHAK1
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/2/H2/SMVWPG1SQL4Q1QRGNCPW6G
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/6/9W/JOV68IQRFDT23EF94U6JWZ
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/1/G3/Z2Y5OC8IFS5K866NYF6GT0
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/9/51/WXA1TIJA9AOAPHA7E3MG7W
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/B/YC/PEJMNFU3BV4YB43NG2CO01
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/B/CQ/QPD2DXL14CRH5OYNT3VOEG
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/D/F2/6PXVG22C94ESXAUBZ6E918
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/1/AU/BTPZ9522VBTH8RLCXE9H2V
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/9/4D/K0UA8O2W9PVJPM6TT4X85I
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/5/2F/SYYWMONGIW8FT4BQK9M14Y
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/E/XS/O5XTWPL2GVAG8CCQASZ835
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/8/SO/FX4227DF2JTCUUZH4VXQ97
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/5/5J/C44T88AFGWZM4HK42RSDVI
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/2/VS/PWL2O1ZE41F7U66AG65LKK
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/3/JB/BJGCFVAOEYYOJC9DITTT74
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/4/9X/HA6XTY8MSOA2GV4VJGV6QZ
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/E/EY/97ZM385E4V2VCZ44HOI41B
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/D/NG/RL3SP4GYA6TY7GBXV2MORL
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/A/WT/U2HOKS6072JT7NT88PLG5Y
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/7/B2/AO98IIABIFMLK7Q7DN9S7N
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/0/QK/U8AWJZQRI8LB97IEMPTCC6
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/D/87/SVK5XCGYB3VA04FXBRJXIQ
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/4/A1/8G5EQLPTQHAG3GOT4H553Y
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/A/LY/GZDXM0ONIKGE4RM30LPIIV
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/C/43/4K9XLM9NYEI0WXO9AO3H1G
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/B/BH/W0VSOCHBEL1W11O13Z9T0C
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/5/R0/BCNLT3EFDWBAYK201JPSWE
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/0/LH/BRPFOE1DP8MH0KOJRTZWXW
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/6/OL/87HW84JZXOFHJ5V8LLE8US
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/9/3R/EV1Q3UXRRYAJ750KGU73BC
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/2/K7/4BWHQO7ZTDBFEQCB3YROS1
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/C/Q9/Q1M6A1A0245PGC6K77HY71
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/0/LS/8KVAS2FG76CUSEA2XLOQ3B
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/3/OY/6Q6AF2NQFM2EMEWQ7OPUW5
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/B/Z1/T7GRSW84PNMJF5EU3KPRVT
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/2/A6/9NQ8M6V0MBBMEYB4FRK1QD
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/8/40/RRIXHE778VF8JAQ1O4ZQNL
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/6/P6/29CN8QCFFD1OHWB9NWQYYZ
+/Game/__ExternalObjects__/Cosas/FirstPersonMap_2/D/RK/F5HWXJHSXOHOJBP8BZB47G
+/Game/__ExternalObjects__/Cosas/FirstPersonMap_2/8/3B/SP8ZB4ZY9485H28FRXQ2MO
+/Game/__ExternalObjects__/Cosas/FirstPersonMap_2/C/9T/RE7KGF8YOKBDDEGAUAZANQ
+/Game/__ExternalObjects__/Cosas/FirstPersonMap_2/2/RM/D8XGFQJCQWJMS32UTWXC2W
+/Game/__ExternalObjects__/Cosas/FirstPersonMap_2/7/O8/6D4LCAYAV5OT40IBLQ8ZP3
+/Game/__ExternalObjects__/Cosas/FirstPersonMap_2/6/A2/CO0DQNT0CBFLX5TFN1PIFI
+/Game/__ExternalObjects__/Cosas/FirstPersonMap_2/E/FD/WECOKCKOCE51HSGTGKYQM4
+/Game/__ExternalObjects__/Cosas/FirstPersonMap_2/6/MH/V8Z85I1DTOCMTKG2V642KT
+[2022.11.23-17.05.45:410][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/2/V2/LRE60WR8STSGQIFGDLZ026
+[2022.11.23-17.05.45:411][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/LRE60WR8STSGQIFGDLZ026036D55A2453EAB3492101E87960DA22D.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/2/V2/LRE60WR8STSGQIFGDLZ026.uasset'
+[2022.11.23-17.05.45:415][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/4/IT/G0A8NHFW0NJX2GWXDH0L3K
+[2022.11.23-17.05.45:415][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/G0A8NHFW0NJX2GWXDH0L3K9C0F4E254560B449F84552B472C655A4.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/4/IT/G0A8NHFW0NJX2GWXDH0L3K.uasset'
+[2022.11.23-17.05.45:419][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/4/UK/WGLH1T9JBIWXJ4J9BVAXHA
+[2022.11.23-17.05.45:419][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/WGLH1T9JBIWXJ4J9BVAXHA21BCA80340D72DA956D36EA3583F243A.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/4/UK/WGLH1T9JBIWXJ4J9BVAXHA.uasset'
+[2022.11.23-17.05.45:423][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/9/M4/Z822CR0BP19MY5VSHOEP4F
+[2022.11.23-17.05.45:424][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/Z822CR0BP19MY5VSHOEP4FCED3195345FF710812462D9A35970E95.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/9/M4/Z822CR0BP19MY5VSHOEP4F.uasset'
+[2022.11.23-17.05.45:428][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/E/SV/H1DZQ1F68P3QDI1OZ53CPQ
+[2022.11.23-17.05.45:429][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/H1DZQ1F68P3QDI1OZ53CPQ17685517486C2FB04698BB86E648E6EB.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/E/SV/H1DZQ1F68P3QDI1OZ53CPQ.uasset'
+[2022.11.23-17.05.45:433][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/2/45/0UAQETK0T5ME7Y2NATCFHT
+[2022.11.23-17.05.45:433][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/0UAQETK0T5ME7Y2NATCFHT25F1FB71439D2FFA5F53178676FB98EF.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/2/45/0UAQETK0T5ME7Y2NATCFHT.uasset'
+[2022.11.23-17.05.45:437][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/0/JK/GLXHZ9UAN2630LYNCFLA1W
+[2022.11.23-17.05.45:438][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/GLXHZ9UAN2630LYNCFLA1W66BB85474BA7F06E2AB5448C79DD5411.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/0/JK/GLXHZ9UAN2630LYNCFLA1W.uasset'
+[2022.11.23-17.05.45:441][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/B/5H/ZU1F753Z75RHWA3MHYDD5L
+[2022.11.23-17.05.45:441][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/ZU1F753Z75RHWA3MHYDD5L2EF7601D40D730916C697EADA44E246B.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/B/5H/ZU1F753Z75RHWA3MHYDD5L.uasset'
+[2022.11.23-17.05.45:446][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/C/M5/STCCW5M4TRMEZUBGTWCPHP
+[2022.11.23-17.05.45:446][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/STCCW5M4TRMEZUBGTWCPHP2F3D2ACC49E51BD18A941889FAE74CF2.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/C/M5/STCCW5M4TRMEZUBGTWCPHP.uasset'
+[2022.11.23-17.05.45:450][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/D/OE/9NL43LQ8BMA9OJYGHJZFIC
+[2022.11.23-17.05.45:451][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/9NL43LQ8BMA9OJYGHJZFIC03045D9A4AF5EF50F32FF2BA9139AA14.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/D/OE/9NL43LQ8BMA9OJYGHJZFIC.uasset'
+[2022.11.23-17.05.45:454][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/1/R1/9LI6NKAEKUZDJPRN99VW49
+[2022.11.23-17.05.45:454][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/9LI6NKAEKUZDJPRN99VW49919B9D104DCF2EBC52AC48BEA69E012F.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/1/R1/9LI6NKAEKUZDJPRN99VW49.uasset'
+[2022.11.23-17.05.45:458][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/A/M4/RZ5HF98HCH0XTPUE2X2T89
+[2022.11.23-17.05.45:459][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/RZ5HF98HCH0XTPUE2X2T890FA9AD664979DDE54873DC9A85CEFFCA.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/A/M4/RZ5HF98HCH0XTPUE2X2T89.uasset'
+[2022.11.23-17.05.45:463][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/1/W0/HUGXMJA6XH1A4C750CFPOZ
+[2022.11.23-17.05.45:463][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/HUGXMJA6XH1A4C750CFPOZFDD7944E4BF7CAF35FF92AA39121A547.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/1/W0/HUGXMJA6XH1A4C750CFPOZ.uasset'
+[2022.11.23-17.05.45:467][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/E/KA/UYBN94Z6JFZJ3CHAK5W5BE
+[2022.11.23-17.05.45:468][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/UYBN94Z6JFZJ3CHAK5W5BE8D5FAEFA4059CD3587543FAFC1B49B53.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/E/KA/UYBN94Z6JFZJ3CHAK5W5BE.uasset'
+[2022.11.23-17.05.45:471][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/4/O4/B867K033O8HMNR4HWI3VDG
+[2022.11.23-17.05.45:471][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/B867K033O8HMNR4HWI3VDGA5246F85486E19BD7F9C31BB6BEE2C4F.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/4/O4/B867K033O8HMNR4HWI3VDG.uasset'
+[2022.11.23-17.05.45:475][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/0/J3/AZM48LF66POWNZHJB9XMGQ
+[2022.11.23-17.05.45:476][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/AZM48LF66POWNZHJB9XMGQ528C13B24CC5744BC8CF4B9751101F35.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/0/J3/AZM48LF66POWNZHJB9XMGQ.uasset'
+[2022.11.23-17.05.45:479][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/E/C8/D7MQ2D4OEA36T7EA48WCZP
+[2022.11.23-17.05.45:479][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/D7MQ2D4OEA36T7EA48WCZP54BF048940663920C365DEBCADC5AF84.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/E/C8/D7MQ2D4OEA36T7EA48WCZP.uasset'
+[2022.11.23-17.05.45:482][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/5/KR/CRLKIDND9Y3513DBD8ACW1
+[2022.11.23-17.05.45:483][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/CRLKIDND9Y3513DBD8ACW191634C0B47D824246DF94586DB2D86F6.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/5/KR/CRLKIDND9Y3513DBD8ACW1.uasset'
+[2022.11.23-17.05.45:486][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/A/W3/2CXB07GE4ASK46IFHOYIUC
+[2022.11.23-17.05.45:486][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/2CXB07GE4ASK46IFHOYIUC5156F4744F6B078B865D2A9C6F4610FB.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/A/W3/2CXB07GE4ASK46IFHOYIUC.uasset'
+[2022.11.23-17.05.45:490][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/3/NG/DTK4WFTZQGDZL6K2CNHAK1
+[2022.11.23-17.05.45:490][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/DTK4WFTZQGDZL6K2CNHAK1B3EB71DC4F56833C86661FABAB00EAB3.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/3/NG/DTK4WFTZQGDZL6K2CNHAK1.uasset'
+[2022.11.23-17.05.45:495][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/2/H2/SMVWPG1SQL4Q1QRGNCPW6G
+[2022.11.23-17.05.45:495][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/SMVWPG1SQL4Q1QRGNCPW6G22CE90D14D1FCCF06092F1B02754D3C8.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/2/H2/SMVWPG1SQL4Q1QRGNCPW6G.uasset'
+[2022.11.23-17.05.45:499][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/6/9W/JOV68IQRFDT23EF94U6JWZ
+[2022.11.23-17.05.45:500][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/JOV68IQRFDT23EF94U6JWZ5C36A01645A795CED8D8F68AD50ACA7F.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/6/9W/JOV68IQRFDT23EF94U6JWZ.uasset'
+[2022.11.23-17.05.45:504][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/1/G3/Z2Y5OC8IFS5K866NYF6GT0
+[2022.11.23-17.05.45:505][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/Z2Y5OC8IFS5K866NYF6GT06267210F4086D3DE2BF7618CC5EA769E.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/1/G3/Z2Y5OC8IFS5K866NYF6GT0.uasset'
+[2022.11.23-17.05.45:510][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/9/51/WXA1TIJA9AOAPHA7E3MG7W
+[2022.11.23-17.05.45:510][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/WXA1TIJA9AOAPHA7E3MG7WA1C1A8E04DE1804D9698FCA6B914D9D5.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/9/51/WXA1TIJA9AOAPHA7E3MG7W.uasset'
+[2022.11.23-17.05.45:513][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/B/YC/PEJMNFU3BV4YB43NG2CO01
+[2022.11.23-17.05.45:513][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/PEJMNFU3BV4YB43NG2CO015BF424AA4C2D66EB3B4894BBD0BC99F8.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/B/YC/PEJMNFU3BV4YB43NG2CO01.uasset'
+[2022.11.23-17.05.45:517][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/B/CQ/QPD2DXL14CRH5OYNT3VOEG
+[2022.11.23-17.05.45:517][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/QPD2DXL14CRH5OYNT3VOEG421C1F174A0C3E35717DCFB9C71011AB.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/B/CQ/QPD2DXL14CRH5OYNT3VOEG.uasset'
+[2022.11.23-17.05.45:521][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/D/F2/6PXVG22C94ESXAUBZ6E918
+[2022.11.23-17.05.45:521][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/6PXVG22C94ESXAUBZ6E91853612F354864079297E69DAF24B75FFD.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/D/F2/6PXVG22C94ESXAUBZ6E918.uasset'
+[2022.11.23-17.05.45:525][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/1/AU/BTPZ9522VBTH8RLCXE9H2V
+[2022.11.23-17.05.45:525][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/BTPZ9522VBTH8RLCXE9H2VCDF0BF6C452EE373C77C14968186C3B0.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/1/AU/BTPZ9522VBTH8RLCXE9H2V.uasset'
+[2022.11.23-17.05.45:529][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/9/4D/K0UA8O2W9PVJPM6TT4X85I
+[2022.11.23-17.05.45:530][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/K0UA8O2W9PVJPM6TT4X85IE65297434BFD4B24315F0780319089AE.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/9/4D/K0UA8O2W9PVJPM6TT4X85I.uasset'
+[2022.11.23-17.05.45:535][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/5/2F/SYYWMONGIW8FT4BQK9M14Y
+[2022.11.23-17.05.45:535][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/SYYWMONGIW8FT4BQK9M14YEEDA8807473D824AA0F52D8B828BDDBB.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/5/2F/SYYWMONGIW8FT4BQK9M14Y.uasset'
+[2022.11.23-17.05.45:540][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/E/XS/O5XTWPL2GVAG8CCQASZ835
+[2022.11.23-17.05.45:540][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/O5XTWPL2GVAG8CCQASZ83553F3BB7943B614665E7FEEBE66C2AC7C.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/E/XS/O5XTWPL2GVAG8CCQASZ835.uasset'
+[2022.11.23-17.05.45:544][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/8/SO/FX4227DF2JTCUUZH4VXQ97
+[2022.11.23-17.05.45:544][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/FX4227DF2JTCUUZH4VXQ97C4D6B52643854A41DB5BCE94E003C03E.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/8/SO/FX4227DF2JTCUUZH4VXQ97.uasset'
+[2022.11.23-17.05.45:548][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/5/5J/C44T88AFGWZM4HK42RSDVI
+[2022.11.23-17.05.45:548][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/C44T88AFGWZM4HK42RSDVIEE40FF954EB9CFC274FE44A8AFA59844.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/5/5J/C44T88AFGWZM4HK42RSDVI.uasset'
+[2022.11.23-17.05.45:551][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/2/VS/PWL2O1ZE41F7U66AG65LKK
+[2022.11.23-17.05.45:551][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/PWL2O1ZE41F7U66AG65LKK998343B74549BAB2CAB41AB16AAF80A2.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/2/VS/PWL2O1ZE41F7U66AG65LKK.uasset'
+[2022.11.23-17.05.45:555][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/3/JB/BJGCFVAOEYYOJC9DITTT74
+[2022.11.23-17.05.45:555][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/BJGCFVAOEYYOJC9DITTT745566F0624155EDB09656FE9EE682AB07.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/3/JB/BJGCFVAOEYYOJC9DITTT74.uasset'
+[2022.11.23-17.05.45:559][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/4/9X/HA6XTY8MSOA2GV4VJGV6QZ
+[2022.11.23-17.05.45:559][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/HA6XTY8MSOA2GV4VJGV6QZ23174AC140BCD566C8CEFB9B1810670C.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/4/9X/HA6XTY8MSOA2GV4VJGV6QZ.uasset'
+[2022.11.23-17.05.45:563][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/E/EY/97ZM385E4V2VCZ44HOI41B
+[2022.11.23-17.05.45:563][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/97ZM385E4V2VCZ44HOI41B40689764484045B6838DA0849094263F.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/E/EY/97ZM385E4V2VCZ44HOI41B.uasset'
+[2022.11.23-17.05.45:567][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/D/NG/RL3SP4GYA6TY7GBXV2MORL
+[2022.11.23-17.05.45:567][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/RL3SP4GYA6TY7GBXV2MORL67EB54AD4222701A74740CAA5B4B77B2.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/D/NG/RL3SP4GYA6TY7GBXV2MORL.uasset'
+[2022.11.23-17.05.45:572][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/A/WT/U2HOKS6072JT7NT88PLG5Y
+[2022.11.23-17.05.45:572][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/U2HOKS6072JT7NT88PLG5Y0D3728AC4E0E53E08C76D18BF03E080C.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/A/WT/U2HOKS6072JT7NT88PLG5Y.uasset'
+[2022.11.23-17.05.45:575][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/7/B2/AO98IIABIFMLK7Q7DN9S7N
+[2022.11.23-17.05.45:575][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/AO98IIABIFMLK7Q7DN9S7N3279C58B42AD4CA236A82EA3E6712EAD.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/7/B2/AO98IIABIFMLK7Q7DN9S7N.uasset'
+[2022.11.23-17.05.45:579][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/0/QK/U8AWJZQRI8LB97IEMPTCC6
+[2022.11.23-17.05.45:579][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/U8AWJZQRI8LB97IEMPTCC695E066B14BB7FEF36594BE9CD74B1407.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/0/QK/U8AWJZQRI8LB97IEMPTCC6.uasset'
+[2022.11.23-17.05.45:583][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/D/87/SVK5XCGYB3VA04FXBRJXIQ
+[2022.11.23-17.05.45:583][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/SVK5XCGYB3VA04FXBRJXIQ5F9C953B48471EF3FE9280BB82F87998.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/D/87/SVK5XCGYB3VA04FXBRJXIQ.uasset'
+[2022.11.23-17.05.45:586][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/4/A1/8G5EQLPTQHAG3GOT4H553Y
+[2022.11.23-17.05.45:587][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/8G5EQLPTQHAG3GOT4H553YCF5611694EDD065D8B53249E8D4BC8BF.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/4/A1/8G5EQLPTQHAG3GOT4H553Y.uasset'
+[2022.11.23-17.05.45:590][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/A/LY/GZDXM0ONIKGE4RM30LPIIV
+[2022.11.23-17.05.45:590][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/GZDXM0ONIKGE4RM30LPIIV075726FD4D92C3591276B7AD37CAA3B4.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/A/LY/GZDXM0ONIKGE4RM30LPIIV.uasset'
+[2022.11.23-17.05.45:595][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/C/43/4K9XLM9NYEI0WXO9AO3H1G
+[2022.11.23-17.05.45:595][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/4K9XLM9NYEI0WXO9AO3H1G9A9296C24D9EAD001E6795BB6EEFB823.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/C/43/4K9XLM9NYEI0WXO9AO3H1G.uasset'
+[2022.11.23-17.05.45:599][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/B/BH/W0VSOCHBEL1W11O13Z9T0C
+[2022.11.23-17.05.45:599][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/W0VSOCHBEL1W11O13Z9T0C03B94D8D49A427A2161C1C923CCE9101.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/B/BH/W0VSOCHBEL1W11O13Z9T0C.uasset'
+[2022.11.23-17.05.45:603][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/5/R0/BCNLT3EFDWBAYK201JPSWE
+[2022.11.23-17.05.45:604][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/BCNLT3EFDWBAYK201JPSWE027343E0490AE0CAC2570DB7EBE20FB0.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/5/R0/BCNLT3EFDWBAYK201JPSWE.uasset'
+[2022.11.23-17.05.45:606][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/0/LH/BRPFOE1DP8MH0KOJRTZWXW
+[2022.11.23-17.05.45:607][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/BRPFOE1DP8MH0KOJRTZWXWD0DE0C0349955356E109848405FF3901.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/0/LH/BRPFOE1DP8MH0KOJRTZWXW.uasset'
+[2022.11.23-17.05.45:610][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/6/OL/87HW84JZXOFHJ5V8LLE8US
+[2022.11.23-17.05.45:610][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/87HW84JZXOFHJ5V8LLE8USDFAAF51A4872248D45B8EEAEBE10257B.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/6/OL/87HW84JZXOFHJ5V8LLE8US.uasset'
+[2022.11.23-17.05.45:614][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/9/3R/EV1Q3UXRRYAJ750KGU73BC
+[2022.11.23-17.05.45:614][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/EV1Q3UXRRYAJ750KGU73BCEC4DD84247EB3CBE6D4917A67027155F.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/9/3R/EV1Q3UXRRYAJ750KGU73BC.uasset'
+[2022.11.23-17.05.45:618][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/2/K7/4BWHQO7ZTDBFEQCB3YROS1
+[2022.11.23-17.05.45:618][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/4BWHQO7ZTDBFEQCB3YROS1E27228C647EB7D0AF17B6AB97A528336.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/2/K7/4BWHQO7ZTDBFEQCB3YROS1.uasset'
+[2022.11.23-17.05.45:622][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/C/Q9/Q1M6A1A0245PGC6K77HY71
+[2022.11.23-17.05.45:622][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/Q1M6A1A0245PGC6K77HY712ECFC61A4075BFDFC276888AB564E0DA.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/C/Q9/Q1M6A1A0245PGC6K77HY71.uasset'
+[2022.11.23-17.05.45:626][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/0/LS/8KVAS2FG76CUSEA2XLOQ3B
+[2022.11.23-17.05.45:626][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/8KVAS2FG76CUSEA2XLOQ3B0837DB51413528DC93526D88226BFB95.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/0/LS/8KVAS2FG76CUSEA2XLOQ3B.uasset'
+[2022.11.23-17.05.45:630][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/3/OY/6Q6AF2NQFM2EMEWQ7OPUW5
+[2022.11.23-17.05.45:630][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/6Q6AF2NQFM2EMEWQ7OPUW565ECB1064B1118F05B0E198B5588384D.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/3/OY/6Q6AF2NQFM2EMEWQ7OPUW5.uasset'
+[2022.11.23-17.05.45:634][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/B/Z1/T7GRSW84PNMJF5EU3KPRVT
+[2022.11.23-17.05.45:634][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/T7GRSW84PNMJF5EU3KPRVTEA6F84CB465F7D9ABA4E63AB176271C6.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/B/Z1/T7GRSW84PNMJF5EU3KPRVT.uasset'
+[2022.11.23-17.05.45:639][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/2/A6/9NQ8M6V0MBBMEYB4FRK1QD
+[2022.11.23-17.05.45:639][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/9NQ8M6V0MBBMEYB4FRK1QD45137EFF471A80B81ABEB2BB7CD4DCFA.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/2/A6/9NQ8M6V0MBBMEYB4FRK1QD.uasset'
+[2022.11.23-17.05.45:643][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/8/40/RRIXHE778VF8JAQ1O4ZQNL
+[2022.11.23-17.05.45:643][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/RRIXHE778VF8JAQ1O4ZQNL22164C0045FBF4FF93DD0E81D309EFB8.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/8/40/RRIXHE778VF8JAQ1O4ZQNL.uasset'
+[2022.11.23-17.05.45:648][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/6/P6/29CN8QCFFD1OHWB9NWQYYZ
+[2022.11.23-17.05.45:648][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/29CN8QCFFD1OHWB9NWQYYZ66618F4E47AEE3959679A68FE854BA7A.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/6/P6/29CN8QCFFD1OHWB9NWQYYZ.uasset'
+[2022.11.23-17.05.45:651][515]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Cosas/FirstPersonMap_2/D/RK/F5HWXJHSXOHOJBP8BZB47G
+[2022.11.23-17.05.45:651][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/F5HWXJHSXOHOJBP8BZB47G620E4F9244C7C94609BE519AE57904DB.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalObjects__/Cosas/FirstPersonMap_2/D/RK/F5HWXJHSXOHOJBP8BZB47G.uasset'
+[2022.11.23-17.05.45:654][515]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Cosas/FirstPersonMap_2/8/3B/SP8ZB4ZY9485H28FRXQ2MO
+[2022.11.23-17.05.45:655][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/SP8ZB4ZY9485H28FRXQ2MOC025891149FCCA716F1520A7ABE27024.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalObjects__/Cosas/FirstPersonMap_2/8/3B/SP8ZB4ZY9485H28FRXQ2MO.uasset'
+[2022.11.23-17.05.45:659][515]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Cosas/FirstPersonMap_2/C/9T/RE7KGF8YOKBDDEGAUAZANQ
+[2022.11.23-17.05.45:659][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/RE7KGF8YOKBDDEGAUAZANQ58F3471A409ED73D63F7E3AC31D57E59.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalObjects__/Cosas/FirstPersonMap_2/C/9T/RE7KGF8YOKBDDEGAUAZANQ.uasset'
+[2022.11.23-17.05.45:662][515]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Cosas/FirstPersonMap_2/2/RM/D8XGFQJCQWJMS32UTWXC2W
+[2022.11.23-17.05.45:663][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/D8XGFQJCQWJMS32UTWXC2W80680AE44CC2856CE64BDC91238DD294.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalObjects__/Cosas/FirstPersonMap_2/2/RM/D8XGFQJCQWJMS32UTWXC2W.uasset'
+[2022.11.23-17.05.45:666][515]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Cosas/FirstPersonMap_2/7/O8/6D4LCAYAV5OT40IBLQ8ZP3
+[2022.11.23-17.05.45:667][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/6D4LCAYAV5OT40IBLQ8ZP3B7E7405F4BF9147141100EBD7F774F82.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalObjects__/Cosas/FirstPersonMap_2/7/O8/6D4LCAYAV5OT40IBLQ8ZP3.uasset'
+[2022.11.23-17.05.45:669][515]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Cosas/FirstPersonMap_2/6/A2/CO0DQNT0CBFLX5TFN1PIFI
+[2022.11.23-17.05.45:670][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/CO0DQNT0CBFLX5TFN1PIFIA0EF9378474141415513D19E0DE95FF1.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalObjects__/Cosas/FirstPersonMap_2/6/A2/CO0DQNT0CBFLX5TFN1PIFI.uasset'
+[2022.11.23-17.05.45:673][515]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Cosas/FirstPersonMap_2/E/FD/WECOKCKOCE51HSGTGKYQM4
+[2022.11.23-17.05.45:673][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/WECOKCKOCE51HSGTGKYQM48D9933304EBE5708C88BBC8ACDABA553.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalObjects__/Cosas/FirstPersonMap_2/E/FD/WECOKCKOCE51HSGTGKYQM4.uasset'
+[2022.11.23-17.05.45:676][515]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Cosas/FirstPersonMap_2/6/MH/V8Z85I1DTOCMTKG2V642KT
+[2022.11.23-17.05.45:676][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/V8Z85I1DTOCMTKG2V642KT05FA5D4B48275772C6EF5E92C7880596.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalObjects__/Cosas/FirstPersonMap_2/6/MH/V8Z85I1DTOCMTKG2V642KT.uasset'
+[2022.11.23-17.05.45:684][515]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/2/V2/LRE60WR8STSGQIFGDLZ026
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/4/IT/G0A8NHFW0NJX2GWXDH0L3K
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/4/UK/WGLH1T9JBIWXJ4J9BVAXHA
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/9/M4/Z822CR0BP19MY5VSHOEP4F
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/E/SV/H1DZQ1F68P3QDI1OZ53CPQ
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/2/45/0UAQETK0T5ME7Y2NATCFHT
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/0/JK/GLXHZ9UAN2630LYNCFLA1W
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/B/5H/ZU1F753Z75RHWA3MHYDD5L
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/C/M5/STCCW5M4TRMEZUBGTWCPHP
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/D/OE/9NL43LQ8BMA9OJYGHJZFIC
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/1/R1/9LI6NKAEKUZDJPRN99VW49
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/A/M4/RZ5HF98HCH0XTPUE2X2T89
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/1/W0/HUGXMJA6XH1A4C750CFPOZ
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/E/KA/UYBN94Z6JFZJ3CHAK5W5BE
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/4/O4/B867K033O8HMNR4HWI3VDG
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/0/J3/AZM48LF66POWNZHJB9XMGQ
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/E/C8/D7MQ2D4OEA36T7EA48WCZP
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/5/KR/CRLKIDND9Y3513DBD8ACW1
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/A/W3/2CXB07GE4ASK46IFHOYIUC
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/3/NG/DTK4WFTZQGDZL6K2CNHAK1
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/2/H2/SMVWPG1SQL4Q1QRGNCPW6G
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/6/9W/JOV68IQRFDT23EF94U6JWZ
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/1/G3/Z2Y5OC8IFS5K866NYF6GT0
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/9/51/WXA1TIJA9AOAPHA7E3MG7W
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/B/YC/PEJMNFU3BV4YB43NG2CO01
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/B/CQ/QPD2DXL14CRH5OYNT3VOEG
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/D/F2/6PXVG22C94ESXAUBZ6E918
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/1/AU/BTPZ9522VBTH8RLCXE9H2V
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/9/4D/K0UA8O2W9PVJPM6TT4X85I
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/5/2F/SYYWMONGIW8FT4BQK9M14Y
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/E/XS/O5XTWPL2GVAG8CCQASZ835
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/8/SO/FX4227DF2JTCUUZH4VXQ97
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/5/5J/C44T88AFGWZM4HK42RSDVI
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/2/VS/PWL2O1ZE41F7U66AG65LKK
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/3/JB/BJGCFVAOEYYOJC9DITTT74
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/4/9X/HA6XTY8MSOA2GV4VJGV6QZ
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/E/EY/97ZM385E4V2VCZ44HOI41B
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/D/NG/RL3SP4GYA6TY7GBXV2MORL
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/A/WT/U2HOKS6072JT7NT88PLG5Y
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/7/B2/AO98IIABIFMLK7Q7DN9S7N
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/0/QK/U8AWJZQRI8LB97IEMPTCC6
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/D/87/SVK5XCGYB3VA04FXBRJXIQ
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/4/A1/8G5EQLPTQHAG3GOT4H553Y
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/A/LY/GZDXM0ONIKGE4RM30LPIIV
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/C/43/4K9XLM9NYEI0WXO9AO3H1G
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/B/BH/W0VSOCHBEL1W11O13Z9T0C
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/5/R0/BCNLT3EFDWBAYK201JPSWE
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/0/LH/BRPFOE1DP8MH0KOJRTZWXW
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/6/OL/87HW84JZXOFHJ5V8LLE8US
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/9/3R/EV1Q3UXRRYAJ750KGU73BC
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/2/K7/4BWHQO7ZTDBFEQCB3YROS1
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/C/Q9/Q1M6A1A0245PGC6K77HY71
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/0/LS/8KVAS2FG76CUSEA2XLOQ3B
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/3/OY/6Q6AF2NQFM2EMEWQ7OPUW5
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/B/Z1/T7GRSW84PNMJF5EU3KPRVT
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/2/A6/9NQ8M6V0MBBMEYB4FRK1QD
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/8/40/RRIXHE778VF8JAQ1O4ZQNL
+/Game/__ExternalActors__/Cosas/FirstPersonMap_2/6/P6/29CN8QCFFD1OHWB9NWQYYZ
+/Game/__ExternalObjects__/Cosas/FirstPersonMap_2/D/RK/F5HWXJHSXOHOJBP8BZB47G
+/Game/__ExternalObjects__/Cosas/FirstPersonMap_2/8/3B/SP8ZB4ZY9485H28FRXQ2MO
+/Game/__ExternalObjects__/Cosas/FirstPersonMap_2/C/9T/RE7KGF8YOKBDDEGAUAZANQ
+/Game/__ExternalObjects__/Cosas/FirstPersonMap_2/2/RM/D8XGFQJCQWJMS32UTWXC2W
+/Game/__ExternalObjects__/Cosas/FirstPersonMap_2/7/O8/6D4LCAYAV5OT40IBLQ8ZP3
+/Game/__ExternalObjects__/Cosas/FirstPersonMap_2/6/A2/CO0DQNT0CBFLX5TFN1PIFI
+/Game/__ExternalObjects__/Cosas/FirstPersonMap_2/E/FD/WECOKCKOCE51HSGTGKYQM4
+/Game/__ExternalObjects__/Cosas/FirstPersonMap_2/6/MH/V8Z85I1DTOCMTKG2V642KT
+[2022.11.23-17.05.45:694][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2022.11.23-17.05.45:698][515]LogSavePackage: Moving output files for package: /Game/Cosas/FirstPersonMap_2
+[2022.11.23-17.05.45:698][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/FirstPersonMap_218F400EA4F795EA379F779A211DEB082.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/Cosas/FirstPersonMap_2.umap'
+[2022.11.23-17.05.45:718][515]LogFileHelpers: Saving map 'FirstPersonMap_2' took 0.337
+[2022.11.23-17.05.45:719][515]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Cosas/FirstPersonMap_2/6/MH/V8Z85I1DTOCMTKG2V642KT
+[2022.11.23-17.05.45:720][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/V8Z85I1DTOCMTKG2V642KT335685B54D1DE7F79A3B4D98048DD5AE.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalObjects__/Cosas/FirstPersonMap_2/6/MH/V8Z85I1DTOCMTKG2V642KT.uasset'
+[2022.11.23-17.05.45:723][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/A/WT/U2HOKS6072JT7NT88PLG5Y
+[2022.11.23-17.05.45:724][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/U2HOKS6072JT7NT88PLG5Y1146B8D24EB13FC4F81923A772469E53.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/A/WT/U2HOKS6072JT7NT88PLG5Y.uasset'
+[2022.11.23-17.05.45:727][515]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Cosas/FirstPersonMap_2/D/RK/F5HWXJHSXOHOJBP8BZB47G
+[2022.11.23-17.05.45:728][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/F5HWXJHSXOHOJBP8BZB47G5CE95CB24C32344A69ACD195557EC7CB.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalObjects__/Cosas/FirstPersonMap_2/D/RK/F5HWXJHSXOHOJBP8BZB47G.uasset'
+[2022.11.23-17.05.45:732][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/2/A6/9NQ8M6V0MBBMEYB4FRK1QD
+[2022.11.23-17.05.45:733][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/9NQ8M6V0MBBMEYB4FRK1QD1501798E4D6E048BBDA2F78D24C117E7.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/2/A6/9NQ8M6V0MBBMEYB4FRK1QD.uasset'
+[2022.11.23-17.05.45:738][515]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Cosas/FirstPersonMap_2/8/3B/SP8ZB4ZY9485H28FRXQ2MO
+[2022.11.23-17.05.45:739][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/SP8ZB4ZY9485H28FRXQ2MO2515FAAA47B010F2CC05E0BF647BA8F7.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalObjects__/Cosas/FirstPersonMap_2/8/3B/SP8ZB4ZY9485H28FRXQ2MO.uasset'
+[2022.11.23-17.05.45:742][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/3/OY/6Q6AF2NQFM2EMEWQ7OPUW5
+[2022.11.23-17.05.45:743][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/6Q6AF2NQFM2EMEWQ7OPUW54CE9E6B14239D007896C02ACB754D99E.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/3/OY/6Q6AF2NQFM2EMEWQ7OPUW5.uasset'
+[2022.11.23-17.05.45:747][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/B/YC/PEJMNFU3BV4YB43NG2CO01
+[2022.11.23-17.05.45:748][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/PEJMNFU3BV4YB43NG2CO016A60ACB44243B0DDA47C8381045C0B64.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/B/YC/PEJMNFU3BV4YB43NG2CO01.uasset'
+[2022.11.23-17.05.45:752][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/0/J3/AZM48LF66POWNZHJB9XMGQ
+[2022.11.23-17.05.45:753][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/AZM48LF66POWNZHJB9XMGQ2B58D92A4D07AB82E0594F916EF0775E.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/0/J3/AZM48LF66POWNZHJB9XMGQ.uasset'
+[2022.11.23-17.05.45:757][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/3/JB/BJGCFVAOEYYOJC9DITTT74
+[2022.11.23-17.05.45:758][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/BJGCFVAOEYYOJC9DITTT74CC43B6B04F2ED49CA8EF4A8A7D5BA807.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/3/JB/BJGCFVAOEYYOJC9DITTT74.uasset'
+[2022.11.23-17.05.45:762][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/2/45/0UAQETK0T5ME7Y2NATCFHT
+[2022.11.23-17.05.45:763][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/0UAQETK0T5ME7Y2NATCFHT49C4FFBB4BB52BD3893B4D99392A1784.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/2/45/0UAQETK0T5ME7Y2NATCFHT.uasset'
+[2022.11.23-17.05.45:766][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/D/NG/RL3SP4GYA6TY7GBXV2MORL
+[2022.11.23-17.05.45:767][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/RL3SP4GYA6TY7GBXV2MORLFFC4918442594BC79B7FCBBA58B77BCA.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/D/NG/RL3SP4GYA6TY7GBXV2MORL.uasset'
+[2022.11.23-17.05.45:771][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/5/KR/CRLKIDND9Y3513DBD8ACW1
+[2022.11.23-17.05.45:772][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/CRLKIDND9Y3513DBD8ACW1C34F24954876CFD34B873BB8A46D18DB.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/5/KR/CRLKIDND9Y3513DBD8ACW1.uasset'
+[2022.11.23-17.05.45:775][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/5/5J/C44T88AFGWZM4HK42RSDVI
+[2022.11.23-17.05.45:776][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/C44T88AFGWZM4HK42RSDVIA25A46204D892E21885B8CB6DBBCE5E2.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/5/5J/C44T88AFGWZM4HK42RSDVI.uasset'
+[2022.11.23-17.05.45:779][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/A/M4/RZ5HF98HCH0XTPUE2X2T89
+[2022.11.23-17.05.45:780][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/RZ5HF98HCH0XTPUE2X2T89CE46A5FE4D223221B9630EBAC43F989E.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/A/M4/RZ5HF98HCH0XTPUE2X2T89.uasset'
+[2022.11.23-17.05.45:783][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/B/BH/W0VSOCHBEL1W11O13Z9T0C
+[2022.11.23-17.05.45:784][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/W0VSOCHBEL1W11O13Z9T0C8AAEF6F5410145279F8D35BA4E1F1E4F.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/B/BH/W0VSOCHBEL1W11O13Z9T0C.uasset'
+[2022.11.23-17.05.45:787][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/2/H2/SMVWPG1SQL4Q1QRGNCPW6G
+[2022.11.23-17.05.45:788][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/SMVWPG1SQL4Q1QRGNCPW6GFCD1CC3B45B3101410934D882054ACE5.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/2/H2/SMVWPG1SQL4Q1QRGNCPW6G.uasset'
+[2022.11.23-17.05.45:791][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/C/Q9/Q1M6A1A0245PGC6K77HY71
+[2022.11.23-17.05.45:792][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/Q1M6A1A0245PGC6K77HY715F94B7024008C239760FCBA8662219D0.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/C/Q9/Q1M6A1A0245PGC6K77HY71.uasset'
+[2022.11.23-17.05.45:795][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/6/P6/29CN8QCFFD1OHWB9NWQYYZ
+[2022.11.23-17.05.45:796][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/29CN8QCFFD1OHWB9NWQYYZ7DEBDCCE44E5789ED02D2792A477E5EB.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/6/P6/29CN8QCFFD1OHWB9NWQYYZ.uasset'
+[2022.11.23-17.05.45:800][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/E/EY/97ZM385E4V2VCZ44HOI41B
+[2022.11.23-17.05.45:801][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/97ZM385E4V2VCZ44HOI41B2A58E6A044965DFA5BBF9F8606AB5273.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/E/EY/97ZM385E4V2VCZ44HOI41B.uasset'
+[2022.11.23-17.05.45:804][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/0/LS/8KVAS2FG76CUSEA2XLOQ3B
+[2022.11.23-17.05.45:805][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/8KVAS2FG76CUSEA2XLOQ3BF7428EE1404DDB3644EE95B70FA16BF2.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/0/LS/8KVAS2FG76CUSEA2XLOQ3B.uasset'
+[2022.11.23-17.05.45:808][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/1/R1/9LI6NKAEKUZDJPRN99VW49
+[2022.11.23-17.05.45:809][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/9LI6NKAEKUZDJPRN99VW49C0AB7F444BDFE9D5A14118A671B8AEC3.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/1/R1/9LI6NKAEKUZDJPRN99VW49.uasset'
+[2022.11.23-17.05.45:813][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/E/XS/O5XTWPL2GVAG8CCQASZ835
+[2022.11.23-17.05.45:814][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/O5XTWPL2GVAG8CCQASZ8359BC967B541C20ABD0A9C1A95911C430B.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/E/XS/O5XTWPL2GVAG8CCQASZ835.uasset'
+[2022.11.23-17.05.45:817][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/8/SO/FX4227DF2JTCUUZH4VXQ97
+[2022.11.23-17.05.45:818][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/FX4227DF2JTCUUZH4VXQ9730AA91F347FEE6625025CD8AE9754D18.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/8/SO/FX4227DF2JTCUUZH4VXQ97.uasset'
+[2022.11.23-17.05.45:821][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/6/9W/JOV68IQRFDT23EF94U6JWZ
+[2022.11.23-17.05.45:822][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/JOV68IQRFDT23EF94U6JWZE122A135461EB4A0B9F977AF48D7BC3B.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/6/9W/JOV68IQRFDT23EF94U6JWZ.uasset'
+[2022.11.23-17.05.45:825][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/A/LY/GZDXM0ONIKGE4RM30LPIIV
+[2022.11.23-17.05.45:825][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/GZDXM0ONIKGE4RM30LPIIVCE825AE54CA8B9C956E64CB1C31D89FC.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/A/LY/GZDXM0ONIKGE4RM30LPIIV.uasset'
+[2022.11.23-17.05.45:828][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/0/QK/U8AWJZQRI8LB97IEMPTCC6
+[2022.11.23-17.05.45:829][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/U8AWJZQRI8LB97IEMPTCC6204C817046EE08DCE8CEAC9D219409D8.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/0/QK/U8AWJZQRI8LB97IEMPTCC6.uasset'
+[2022.11.23-17.05.45:832][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/D/OE/9NL43LQ8BMA9OJYGHJZFIC
+[2022.11.23-17.05.45:833][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/9NL43LQ8BMA9OJYGHJZFIC647688CE4FD1D8410C3964BC429771B0.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/D/OE/9NL43LQ8BMA9OJYGHJZFIC.uasset'
+[2022.11.23-17.05.45:836][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/9/51/WXA1TIJA9AOAPHA7E3MG7W
+[2022.11.23-17.05.45:837][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/WXA1TIJA9AOAPHA7E3MG7W65FB640F4FFCF1C95C5D27AB2B59F421.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/9/51/WXA1TIJA9AOAPHA7E3MG7W.uasset'
+[2022.11.23-17.05.45:839][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/B/CQ/QPD2DXL14CRH5OYNT3VOEG
+[2022.11.23-17.05.45:840][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/QPD2DXL14CRH5OYNT3VOEGDE8458924A29221A52F192B01BCEA7D7.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/B/CQ/QPD2DXL14CRH5OYNT3VOEG.uasset'
+[2022.11.23-17.05.45:843][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/C/43/4K9XLM9NYEI0WXO9AO3H1G
+[2022.11.23-17.05.45:843][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/4K9XLM9NYEI0WXO9AO3H1GAAFFDFC64104C60E4EA2A1A601440CFB.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/C/43/4K9XLM9NYEI0WXO9AO3H1G.uasset'
+[2022.11.23-17.05.45:846][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/4/O4/B867K033O8HMNR4HWI3VDG
+[2022.11.23-17.05.45:847][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/B867K033O8HMNR4HWI3VDG587539D34D6F616C31A64F9DB3D723B8.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/4/O4/B867K033O8HMNR4HWI3VDG.uasset'
+[2022.11.23-17.05.45:850][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/D/F2/6PXVG22C94ESXAUBZ6E918
+[2022.11.23-17.05.45:851][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/6PXVG22C94ESXAUBZ6E918EE8AF56A43D09FB2D1FC72BFB7EE2242.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/D/F2/6PXVG22C94ESXAUBZ6E918.uasset'
+[2022.11.23-17.05.45:854][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/E/C8/D7MQ2D4OEA36T7EA48WCZP
+[2022.11.23-17.05.45:855][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/D7MQ2D4OEA36T7EA48WCZPEF5B3F9345A5406E4A9B359C8E2DD111.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/E/C8/D7MQ2D4OEA36T7EA48WCZP.uasset'
+[2022.11.23-17.05.45:859][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/8/40/RRIXHE778VF8JAQ1O4ZQNL
+[2022.11.23-17.05.45:860][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/RRIXHE778VF8JAQ1O4ZQNL830F3901462AFE11BBFCD0B3F9789F10.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/8/40/RRIXHE778VF8JAQ1O4ZQNL.uasset'
+[2022.11.23-17.05.45:863][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/0/LH/BRPFOE1DP8MH0KOJRTZWXW
+[2022.11.23-17.05.45:864][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/BRPFOE1DP8MH0KOJRTZWXWA90DBA274985C7356267DEBC756572FC.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/0/LH/BRPFOE1DP8MH0KOJRTZWXW.uasset'
+[2022.11.23-17.05.45:867][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/C/M5/STCCW5M4TRMEZUBGTWCPHP
+[2022.11.23-17.05.45:868][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/STCCW5M4TRMEZUBGTWCPHP6BCBB77340F41D800036258F1E0E1807.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/C/M5/STCCW5M4TRMEZUBGTWCPHP.uasset'
+[2022.11.23-17.05.45:871][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/4/IT/G0A8NHFW0NJX2GWXDH0L3K
+[2022.11.23-17.05.45:872][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/G0A8NHFW0NJX2GWXDH0L3K6D302EF249A2EAA43EA91CA7029EF361.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/4/IT/G0A8NHFW0NJX2GWXDH0L3K.uasset'
+[2022.11.23-17.05.45:875][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/1/AU/BTPZ9522VBTH8RLCXE9H2V
+[2022.11.23-17.05.45:876][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/BTPZ9522VBTH8RLCXE9H2VDC97CEE340FF8AE6FBEC0580C9A3A303.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/1/AU/BTPZ9522VBTH8RLCXE9H2V.uasset'
+[2022.11.23-17.05.45:879][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/2/K7/4BWHQO7ZTDBFEQCB3YROS1
+[2022.11.23-17.05.45:880][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/4BWHQO7ZTDBFEQCB3YROS1A11482F4495229DB7EB761B1BF111803.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/2/K7/4BWHQO7ZTDBFEQCB3YROS1.uasset'
+[2022.11.23-17.05.45:883][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/B/5H/ZU1F753Z75RHWA3MHYDD5L
+[2022.11.23-17.05.45:883][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/ZU1F753Z75RHWA3MHYDD5L2E15B3AD4166845EE76EF0A334FA510E.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/B/5H/ZU1F753Z75RHWA3MHYDD5L.uasset'
+[2022.11.23-17.05.45:886][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/4/UK/WGLH1T9JBIWXJ4J9BVAXHA
+[2022.11.23-17.05.45:887][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/WGLH1T9JBIWXJ4J9BVAXHAFA2A9A7440514316859493BD4D434A15.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/4/UK/WGLH1T9JBIWXJ4J9BVAXHA.uasset'
+[2022.11.23-17.05.45:890][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/9/3R/EV1Q3UXRRYAJ750KGU73BC
+[2022.11.23-17.05.45:891][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/EV1Q3UXRRYAJ750KGU73BCE7F17F4A4A7AAA0ACF6EB39A030CE44E.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/9/3R/EV1Q3UXRRYAJ750KGU73BC.uasset'
+[2022.11.23-17.05.45:894][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/6/OL/87HW84JZXOFHJ5V8LLE8US
+[2022.11.23-17.05.45:895][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/87HW84JZXOFHJ5V8LLE8USA941416246E3EB9A91A50CA1561E8F1A.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/6/OL/87HW84JZXOFHJ5V8LLE8US.uasset'
+[2022.11.23-17.05.45:898][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/7/B2/AO98IIABIFMLK7Q7DN9S7N
+[2022.11.23-17.05.45:899][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/AO98IIABIFMLK7Q7DN9S7N896FCB0C4F37E9B1CE7FAFB9CDA65672.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/7/B2/AO98IIABIFMLK7Q7DN9S7N.uasset'
+[2022.11.23-17.05.45:903][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/9/4D/K0UA8O2W9PVJPM6TT4X85I
+[2022.11.23-17.05.45:904][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/K0UA8O2W9PVJPM6TT4X85I72CD147343D46C1E325960A5E87100EC.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/9/4D/K0UA8O2W9PVJPM6TT4X85I.uasset'
+[2022.11.23-17.05.45:907][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/5/2F/SYYWMONGIW8FT4BQK9M14Y
+[2022.11.23-17.05.45:908][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/SYYWMONGIW8FT4BQK9M14Y0798995C4B02B5C7575C61B683CFD6EE.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/5/2F/SYYWMONGIW8FT4BQK9M14Y.uasset'
+[2022.11.23-17.05.45:911][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/4/A1/8G5EQLPTQHAG3GOT4H553Y
+[2022.11.23-17.05.45:912][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/8G5EQLPTQHAG3GOT4H553YF65B6B824E9F4B6CC404F08636088147.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/4/A1/8G5EQLPTQHAG3GOT4H553Y.uasset'
+[2022.11.23-17.05.45:914][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/D/87/SVK5XCGYB3VA04FXBRJXIQ
+[2022.11.23-17.05.45:915][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/SVK5XCGYB3VA04FXBRJXIQ45A71EB8465B2A2C1F2EB2B924C01025.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/D/87/SVK5XCGYB3VA04FXBRJXIQ.uasset'
+[2022.11.23-17.05.45:918][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/5/R0/BCNLT3EFDWBAYK201JPSWE
+[2022.11.23-17.05.45:919][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/BCNLT3EFDWBAYK201JPSWEFD2559D948A9199F3FF73D8370FADA06.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/5/R0/BCNLT3EFDWBAYK201JPSWE.uasset'
+[2022.11.23-17.05.45:922][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/E/KA/UYBN94Z6JFZJ3CHAK5W5BE
+[2022.11.23-17.05.45:923][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/UYBN94Z6JFZJ3CHAK5W5BED009CB4743E5F5F51ED393AE97E33CED.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/E/KA/UYBN94Z6JFZJ3CHAK5W5BE.uasset'
+[2022.11.23-17.05.45:927][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/4/9X/HA6XTY8MSOA2GV4VJGV6QZ
+[2022.11.23-17.05.45:928][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/HA6XTY8MSOA2GV4VJGV6QZ9144D59F42CED8235F57DEA0C697563A.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/4/9X/HA6XTY8MSOA2GV4VJGV6QZ.uasset'
+[2022.11.23-17.05.45:930][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/2/VS/PWL2O1ZE41F7U66AG65LKK
+[2022.11.23-17.05.45:931][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/PWL2O1ZE41F7U66AG65LKK5A7D808D4EA42A3DB5DF77BF99E98B19.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/2/VS/PWL2O1ZE41F7U66AG65LKK.uasset'
+[2022.11.23-17.05.45:934][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/3/NG/DTK4WFTZQGDZL6K2CNHAK1
+[2022.11.23-17.05.45:935][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/DTK4WFTZQGDZL6K2CNHAK1D4562ABE4B4F2FF3AB0A6A870769D446.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/3/NG/DTK4WFTZQGDZL6K2CNHAK1.uasset'
+[2022.11.23-17.05.45:940][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/B/Z1/T7GRSW84PNMJF5EU3KPRVT
+[2022.11.23-17.05.45:941][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/T7GRSW84PNMJF5EU3KPRVT9E6C2CA545879C4A051C92B7A374E4F4.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/B/Z1/T7GRSW84PNMJF5EU3KPRVT.uasset'
+[2022.11.23-17.05.45:943][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/1/W0/HUGXMJA6XH1A4C750CFPOZ
+[2022.11.23-17.05.45:944][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/HUGXMJA6XH1A4C750CFPOZD8D229054CFF727D5F9189A52B12F9EB.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/1/W0/HUGXMJA6XH1A4C750CFPOZ.uasset'
+[2022.11.23-17.05.45:948][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/E/SV/H1DZQ1F68P3QDI1OZ53CPQ
+[2022.11.23-17.05.45:949][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/H1DZQ1F68P3QDI1OZ53CPQ4EB106A64169C3681538B586AB7A4E21.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/E/SV/H1DZQ1F68P3QDI1OZ53CPQ.uasset'
+[2022.11.23-17.05.45:952][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/2/V2/LRE60WR8STSGQIFGDLZ026
+[2022.11.23-17.05.45:953][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/LRE60WR8STSGQIFGDLZ02691A24FF04EE32B0F0C3850AF38D39969.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/2/V2/LRE60WR8STSGQIFGDLZ026.uasset'
+[2022.11.23-17.05.45:956][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/A/W3/2CXB07GE4ASK46IFHOYIUC
+[2022.11.23-17.05.45:957][515]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/2CXB07GE4ASK46IFHOYIUC4AF3253E48F7BCA2EE7A96A55D838113.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/A/W3/2CXB07GE4ASK46IFHOYIUC.uasset'
+[2022.11.23-17.05.45:967][515]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2
+[2022.11.23-17.05.45:967][515]Cmd: MAP LOAD FILE="../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/Cosas/FirstPersonMap_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.23-17.05.45:967][515]LightingResults: New page: Lighting Build
+[2022.11.23-17.05.45:968][515]LoadErrors: New page: Loading map: FirstPersonMap_2.umap
+[2022.11.23-17.05.46:005][515]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.23-17.05.46:005][515]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.23-17.05.46:010][515]MapCheck: New page: Map Check
+[2022.11.23-17.05.46:010][515]LightingResults: New page: Lighting Build
+[2022.11.23-17.05.46:022][515]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.23-17.05.46:024][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.11.23-17.05.46:025][515]LogWorld: UWorld::CleanupWorld for FirstPersonMap_2, bSessionEnded=true, bCleanupResources=true
+[2022.11.23-17.05.46:026][515]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.23-17.05.46:027][515]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.23-17.05.46:027][515]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.23-17.05.46:039][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.11.23-17.05.46:048][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.11.23-17.05.46:055][515]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonMap_2'.
+[2022.11.23-17.05.46:055][515]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.23-17.05.46:055][515]LogAIModule: Creating AISystem for world FirstPersonMap_2
+[2022.11.23-17.05.46:056][515]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.11.23-17.05.46:056][515]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.11.23-17.05.46:092][515]LogWorldPartition: Display: WorldPartition initialize took 37 ms
+[2022.11.23-17.05.46:113][515]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.23-17.05.46:125][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.11.23-17.05.46:135][515]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.23-17.05.46:136][515]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.215ms to complete.
+[2022.11.23-17.05.46:136][515]LogFileHelpers: Loading map 'FirstPersonMap_2' took 0.169
+[2022.11.23-17.05.46:151][515]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.23-17.05.46:151][515]LogContentValidation: Display: Validating StaticMeshActor /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2:PersistentLevel.StaticMeshActor_43
+[2022.11.23-17.05.46:151][515]LogContentValidation: Display: Validating VolumetricCloud /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2:PersistentLevel.VolumetricCloud_0
+[2022.11.23-17.05.46:151][515]LogContentValidation: Display: Validating StaticMeshActor /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2:PersistentLevel.StaticMeshActor_6
+[2022.11.23-17.05.46:151][515]LogContentValidation: Display: Validating StaticMeshActor /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2:PersistentLevel.StaticMeshActor_8
+[2022.11.23-17.05.46:151][515]LogContentValidation: Display: Validating StaticMeshActor /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2:PersistentLevel.StaticMeshActor_5
+[2022.11.23-17.05.46:151][515]LogContentValidation: Display: Validating StaticMeshActor /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2:PersistentLevel.StaticMeshActor_23
+[2022.11.23-17.05.46:151][515]LogContentValidation: Display: Validating StaticMeshActor /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2:PersistentLevel.StaticMeshActor_46
+[2022.11.23-17.05.46:151][515]LogContentValidation: Display: Validating StaticMeshActor /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2:PersistentLevel.StaticMeshActor_32
+[2022.11.23-17.05.46:151][515]LogContentValidation: Display: Validating World /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2
+[2022.11.23-17.05.46:151][515]LogContentValidation: Display: Validating StaticMeshActor /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2:PersistentLevel.StaticMeshActor_38
+[2022.11.23-17.05.46:151][515]LogContentValidation: Display: Validating StaticMeshActor /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2:PersistentLevel.StaticMeshActor_12
+[2022.11.23-17.05.46:151][515]LogContentValidation: Display: Validating StaticMeshActor /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2:PersistentLevel.StaticMeshActor_4
+[2022.11.23-17.05.46:151][515]LogContentValidation: Display: Validating StaticMeshActor /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2:PersistentLevel.StaticMeshActor_37
+[2022.11.23-17.05.46:151][515]LogContentValidation: Display: Validating SkyLight /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2:PersistentLevel.SkyLight_0
+[2022.11.23-17.05.46:152][515]LogContentValidation: Display: Validating StaticMeshActor /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2:PersistentLevel.StaticMeshActor_34
+[2022.11.23-17.05.46:152][515]LogContentValidation: Display: Validating StaticMeshActor /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2:PersistentLevel.StaticMeshActor_51
+[2022.11.23-17.05.46:152][515]LogContentValidation: Display: Validating StaticMeshActor /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2:PersistentLevel.StaticMeshActor_25
+[2022.11.23-17.05.46:152][515]LogContentValidation: Display: Validating PlayerStart /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2:PersistentLevel.PlayerStart_0
+[2022.11.23-17.05.46:152][515]LogContentValidation: Display: Validating WorldPartitionMiniMap /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2:PersistentLevel.WorldPartitionMiniMap_0
+[2022.11.23-17.05.46:152][515]LogContentValidation: Display: Validating StaticMeshActor /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2:PersistentLevel.StaticMeshActor_50
+[2022.11.23-17.05.46:152][515]LogContentValidation: Display: Validating StaticMeshActor /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2:PersistentLevel.StaticMeshActor_16
+[2022.11.23-17.05.46:152][515]LogContentValidation: Display: Validating StaticMeshActor /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2:PersistentLevel.StaticMeshActor_UAID_A4AE111137DC5EFB00_2001720423
+[2022.11.23-17.05.46:152][515]LogContentValidation: Display: Validating ExponentialHeightFog /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2:PersistentLevel.ExponentialHeightFog_0
+[2022.11.23-17.05.46:152][515]LogContentValidation: Display: Validating StaticMeshActor /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2:PersistentLevel.StaticMeshActor_33
+[2022.11.23-17.05.46:152][515]LogContentValidation: Display: Validating StaticMeshActor /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2:PersistentLevel.StaticMeshActor_21
+[2022.11.23-17.05.46:152][515]LogContentValidation: Display: Validating StaticMeshActor /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2:PersistentLevel.StaticMeshActor_27
+[2022.11.23-17.05.46:152][515]LogContentValidation: Display: Validating StaticMeshActor /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2:PersistentLevel.StaticMeshActor_0
+[2022.11.23-17.05.46:152][515]LogContentValidation: Display: Validating StaticMeshActor /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2:PersistentLevel.StaticMeshActor_18
+[2022.11.23-17.05.46:152][515]LogContentValidation: Display: Validating StaticMeshActor /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2:PersistentLevel.StaticMeshActor_9
+[2022.11.23-17.05.46:152][515]LogContentValidation: Display: Validating StaticMeshActor /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2:PersistentLevel.StaticMeshActor_20
+[2022.11.23-17.05.46:152][515]LogContentValidation: Display: Validating StaticMeshActor /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2:PersistentLevel.StaticMeshActor_15
+[2022.11.23-17.05.46:152][515]LogContentValidation: Display: Validating StaticMeshActor /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2:PersistentLevel.StaticMeshActor_35
+[2022.11.23-17.05.46:152][515]LogContentValidation: Display: Validating StaticMeshActor /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2:PersistentLevel.StaticMeshActor_47
+[2022.11.23-17.05.46:152][515]LogContentValidation: Display: Validating StaticMeshActor /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2:PersistentLevel.StaticMeshActor_49
+[2022.11.23-17.05.46:152][515]LogContentValidation: Display: Validating StaticMeshActor /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2:PersistentLevel.StaticMeshActor_28
+[2022.11.23-17.05.46:152][515]LogContentValidation: Display: Validating StaticMeshActor /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2:PersistentLevel.StaticMeshActor_26
+[2022.11.23-17.05.46:152][515]LogContentValidation: Display: Validating StaticMeshActor /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2:PersistentLevel.StaticMeshActor_3
+[2022.11.23-17.05.46:152][515]LogContentValidation: Display: Validating StaticMeshActor /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2:PersistentLevel.StaticMeshActor_22
+[2022.11.23-17.05.46:153][515]LogContentValidation: Display: Validating StaticMeshActor /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2:PersistentLevel.StaticMeshActor_31
+[2022.11.23-17.05.46:153][515]LogContentValidation: Display: Validating StaticMeshActor /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2:PersistentLevel.StaticMeshActor_14
+[2022.11.23-17.05.46:153][515]LogContentValidation: Display: Validating StaticMeshActor /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2:PersistentLevel.StaticMeshActor_13
+[2022.11.23-17.05.46:153][515]LogContentValidation: Display: Validating SkyAtmosphere /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2:PersistentLevel.SkyAtmosphere_0
+[2022.11.23-17.05.46:153][515]LogContentValidation: Display: Validating StaticMeshActor /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2:PersistentLevel.StaticMeshActor_42
+[2022.11.23-17.05.46:153][515]LogContentValidation: Display: Validating StaticMeshActor /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2:PersistentLevel.StaticMeshActor_44
+[2022.11.23-17.05.46:153][515]LogContentValidation: Display: Validating StaticMeshActor /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2:PersistentLevel.StaticMeshActor_41
+[2022.11.23-17.05.46:153][515]LogContentValidation: Display: Validating StaticMeshActor /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2:PersistentLevel.StaticMeshActor_36
+[2022.11.23-17.05.46:153][515]LogContentValidation: Display: Validating StaticMeshActor /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2:PersistentLevel.StaticMeshActor_24
+[2022.11.23-17.05.46:153][515]LogContentValidation: Display: Validating PostProcessVolume /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2:PersistentLevel.PostProcessVolume_0
+[2022.11.23-17.05.46:153][515]LogContentValidation: Display: Validating StaticMeshActor /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2:PersistentLevel.StaticMeshActor_45
+[2022.11.23-17.05.46:153][515]LogContentValidation: Display: Validating TextRenderActor /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2:PersistentLevel.TextRenderActor_1
+[2022.11.23-17.05.46:153][515]LogContentValidation: Display: Validating StaticMeshActor /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2:PersistentLevel.StaticMeshActor_40
+[2022.11.23-17.05.46:153][515]LogContentValidation: Display: Validating BP_Rifle_C /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2:PersistentLevel.BP_Rifle_C_1
+[2022.11.23-17.05.46:153][515]LogContentValidation: Display: Validating StaticMeshActor /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2:PersistentLevel.StaticMeshActor_17
+[2022.11.23-17.05.46:153][515]LogContentValidation: Display: Validating StaticMeshActor /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2:PersistentLevel.StaticMeshActor_19
+[2022.11.23-17.05.46:153][515]LogContentValidation: Display: Validating StaticMeshActor /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2:PersistentLevel.StaticMeshActor_29
+[2022.11.23-17.05.46:153][515]LogContentValidation: Display: Validating DirectionalLight /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2:PersistentLevel.DirectionalLight_1
+[2022.11.23-17.05.46:153][515]LogContentValidation: Display: Validating StaticMeshActor /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2:PersistentLevel.StaticMeshActor_1
+[2022.11.23-17.05.46:153][515]LogContentValidation: Display: Validating StaticMeshActor /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2:PersistentLevel.StaticMeshActor_10
+[2022.11.23-17.05.46:153][515]LogContentValidation: Display: Validating ActorFolder /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2:PersistentLevel.ActorFolder_UID_98EA6984-416B46BD-4E6349A7-D9A13307
+[2022.11.23-17.05.46:153][515]LogContentValidation: Display: Validating ActorFolder /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2:PersistentLevel.ActorFolder_UID_6C02BB50-4B69D1F3-D7A624B1-30C18E5B
+[2022.11.23-17.05.46:153][515]LogContentValidation: Display: Validating ActorFolder /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2:PersistentLevel.ActorFolder_UID_275232DB-4A90E8B2-799B29BD-69C59B9E
+[2022.11.23-17.05.46:153][515]LogContentValidation: Display: Validating ActorFolder /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2:PersistentLevel.ActorFolder_UID_9AEEADCB-4DC6C647-D6E7C0B4-EDA1744F
+[2022.11.23-17.05.46:153][515]LogContentValidation: Display: Validating ActorFolder /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2:PersistentLevel.ActorFolder_UID_5710F103-4B6DC7FB-D588718E-283EB93C
+[2022.11.23-17.05.46:153][515]LogContentValidation: Display: Validating ActorFolder /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2:PersistentLevel.ActorFolder_UID_0BA5F0A0-4EADB18E-70D5B180-D08FA34B
+[2022.11.23-17.05.46:154][515]LogContentValidation: Display: Validating ActorFolder /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2:PersistentLevel.ActorFolder_UID_0C5AB369-45998C19-C9EA9283-402A8E02
+[2022.11.23-17.05.46:154][515]LogContentValidation: Display: Validating ActorFolder /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2:PersistentLevel.ActorFolder_UID_D00C3F32-4D055BED-943FA6B0-235C7FA2
+[2022.11.23-17.05.46:154][515]LogContentValidation: Display: Validating WorldDataLayers /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2:PersistentLevel.WorldDataLayers
+[2022.11.23-17.05.48:195][614]LogObjectTools: Deleting 1 worlds: /Game/Cosas/FirstPersonMap.FirstPersonMap
+[2022.11.23-17.05.48:195][614]LogObjectTools: Currently 4 active worlds: /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2
+[2022.11.23-17.05.48:206][614]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.11.23-17.05.49:677][614]LogSlate: Window 'Delete Assets' being destroyed
+[2022.11.23-17.05.49:686][614]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.23-17.05.49:686][614]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.23-17.05.49:692][614]LogWorld: Warning: UWorld::CleanupWorld called twice or called without InitWorld called first.
+[2022.11.23-17.05.49:692][614]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.23-17.05.49:692][614]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.23-17.05.49:708][614]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.11.23-17.05.49:718][614]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.11.23-17.05.49:728][614]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2022.11.23-17.30.37:763][692]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.11.23-17.30.37:770][692]LogStall: Shutdown...
+[2022.11.23-17.30.37:777][692]LogStall: Shutdown complete.
+[2022.11.23-17.30.37:824][692]LogSlate: Window 'MyProject - Unreal Editor' being destroyed
+[2022.11.23-17.30.37:965][693]Cmd: QUIT_EDITOR
+[2022.11.23-17.30.37:965][693]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.11.23-17.30.37:976][693]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.11.23-17.30.37:976][693]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2022.11.23-17.30.37:976][693]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2022.11.23-17.30.37:981][693]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.11.23-17.30.37:981][693]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.11.23-17.30.37:981][693]LogAudio: Display: Audio Device unregistered from world 'FirstPersonMap_2'.
+[2022.11.23-17.30.37:982][693]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2022.11.23-17.30.37:984][693]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2022.11.23-17.30.37:993][693]LogAudio: Display: Audio Device Manager Shutdown
+[2022.11.23-17.30.37:997][693]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.11.23-17.30.37:998][693]LogExit: Preparing to exit.
+[2022.11.23-17.30.38:015][693]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.11.23-17.30.39:060][693]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.11.23-17.30.39:060][693]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.11.23-17.30.39:060][693]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.11.23-17.30.39:064][693]LogWorld: UWorld::CleanupWorld for FirstPersonMap_2, bSessionEnded=true, bCleanupResources=true
+[2022.11.23-17.30.39:096][693]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.11.23-17.30.39:104][693]LogStylusInput: Shutting down StylusInput subsystem.
+[2022.11.23-17.30.39:105][693]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2022.11.23-17.30.39:108][693]LogExit: Editor shut down
+[2022.11.23-17.30.39:111][693]LogExit: Transaction tracking system shut down
+[2022.11.23-17.30.39:382][693]LogExit: Object subsystem successfully closed.
+[2022.11.23-17.30.39:401][693]LogShaderCompilers: Display: ================================================
+[2022.11.23-17.30.39:401][693]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.23-17.30.39:401][693]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.11.23-17.30.39:401][693]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.11.23-17.30.39:401][693]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.11.23-17.30.39:401][693]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.11.23-17.30.39:401][693]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.11.23-17.30.39:401][693]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.11.23-17.30.39:401][693]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.11.23-17.30.39:401][693]LogShaderCompilers: Display: ================================================
+[2022.11.23-17.30.39:457][693]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.11.23-17.30.39:519][693]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (880)
+[2022.11.23-17.30.39:519][693]LogModuleManager: Shutting down and abandoning module AddContentDialog (878)
+[2022.11.23-17.30.39:520][693]LogModuleManager: Shutting down and abandoning module WidgetCarousel (877)
+[2022.11.23-17.30.39:520][693]LogModuleManager: Shutting down and abandoning module SubobjectEditor (874)
+[2022.11.23-17.30.39:520][693]LogModuleManager: Shutting down and abandoning module SceneOutliner (872)
+[2022.11.23-17.30.39:520][693]LogModuleManager: Shutting down and abandoning module StatusBar (870)
+[2022.11.23-17.30.39:520][693]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (868)
+[2022.11.23-17.30.39:520][693]LogModuleManager: Shutting down and abandoning module DataLayerEditor (866)
+[2022.11.23-17.30.39:520][693]LogModuleManager: Shutting down and abandoning module StatsViewer (864)
+[2022.11.23-17.30.39:520][693]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (862)
+[2022.11.23-17.30.39:520][693]LogModuleManager: Shutting down and abandoning module AutomationWorker (860)
+[2022.11.23-17.30.39:520][693]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (858)
+[2022.11.23-17.30.39:520][693]LogModuleManager: Shutting down and abandoning module GooglePADEditor (856)
+[2022.11.23-17.30.39:520][693]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (854)
+[2022.11.23-17.30.39:520][693]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (852)
+[2022.11.23-17.30.39:520][693]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (850)
+[2022.11.23-17.30.39:520][693]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (848)
+[2022.11.23-17.30.39:521][693]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (846)
+[2022.11.23-17.30.39:521][693]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (844)
+[2022.11.23-17.30.39:521][693]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (842)
+[2022.11.23-17.30.39:521][693]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (840)
+[2022.11.23-17.30.39:521][693]LogModuleManager: Shutting down and abandoning module WebMMedia (838)
+[2022.11.23-17.30.39:521][693]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (836)
+[2022.11.23-17.30.39:521][693]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (834)
+[2022.11.23-17.30.39:521][693]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (832)
+[2022.11.23-17.30.39:521][693]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (830)
+[2022.11.23-17.30.39:521][693]LogModuleManager: Shutting down and abandoning module SequenceRecorder (829)
+[2022.11.23-17.30.39:521][693]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (826)
+[2022.11.23-17.30.39:521][693]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (824)
+[2022.11.23-17.30.39:521][693]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (822)
+[2022.11.23-17.30.39:521][693]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (820)
+[2022.11.23-17.30.39:521][693]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (818)
+[2022.11.23-17.30.39:521][693]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (816)
+[2022.11.23-17.30.39:521][693]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (814)
+[2022.11.23-17.30.39:521][693]LogModuleManager: Shutting down and abandoning module PlanarCut (812)
+[2022.11.23-17.30.39:521][693]LogModuleManager: Shutting down and abandoning module CharacterAI (810)
+[2022.11.23-17.30.39:521][693]LogModuleManager: Shutting down and abandoning module TextureAlignMode (808)
+[2022.11.23-17.30.39:522][693]LogModuleManager: Shutting down and abandoning module BspMode (806)
+[2022.11.23-17.30.39:522][693]LogModuleManager: Shutting down and abandoning module GeometryMode (804)
+[2022.11.23-17.30.39:522][693]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (802)
+[2022.11.23-17.30.39:522][693]LogModuleManager: Shutting down and abandoning module IKRigEditor (800)
+[2022.11.23-17.30.39:522][693]LogModuleManager: Shutting down and abandoning module ControlRigSplineEditor (798)
+[2022.11.23-17.30.39:522][693]LogModuleManager: Shutting down and abandoning module ControlRigEditor (796)
+[2022.11.23-17.30.39:522][693]LogModuleManager: Shutting down and abandoning module AnimationEditor (795)
+[2022.11.23-17.30.39:522][693]LogModuleManager: Shutting down and abandoning module SmartSnapping (792)
+[2022.11.23-17.30.39:522][693]LogModuleManager: Shutting down and abandoning module SessionServices (790)
+[2022.11.23-17.30.39:523][693]LogModuleManager: Shutting down and abandoning module MeshPaint (788)
+[2022.11.23-17.30.39:523][693]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (786)
+[2022.11.23-17.30.39:523][693]LogModuleManager: Shutting down and abandoning module PlacementMode (785)
+[2022.11.23-17.30.39:524][693]LogModuleManager: Shutting down and abandoning module FoliageEdit (782)
+[2022.11.23-17.30.39:524][693]LogModuleManager: Shutting down and abandoning module LandscapeEditor (780)
+[2022.11.23-17.30.39:524][693]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (778)
+[2022.11.23-17.30.39:524][693]LogModuleManager: Shutting down and abandoning module ActorPickerMode (776)
+[2022.11.23-17.30.39:524][693]LogModuleManager: Shutting down and abandoning module ViewportSnapping (774)
+[2022.11.23-17.30.39:525][693]LogModuleManager: Shutting down and abandoning module EditorWidgets (772)
+[2022.11.23-17.30.39:525][693]LogModuleManager: Shutting down and abandoning module ViewportInteraction (770)
+[2022.11.23-17.30.39:525][693]LogModuleManager: Shutting down and abandoning module ClothPainter (768)
+[2022.11.23-17.30.39:525][693]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (767)
+[2022.11.23-17.30.39:525][693]LogModuleManager: Shutting down and abandoning module LogVisualizer (764)
+[2022.11.23-17.30.39:525][693]LogModuleManager: Shutting down and abandoning module IntroTutorials (762)
+[2022.11.23-17.30.39:525][693]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (760)
+[2022.11.23-17.30.39:525][693]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (758)
+[2022.11.23-17.30.39:525][693]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (757)
+[2022.11.23-17.30.39:525][693]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (755)
+[2022.11.23-17.30.40:501][693]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (752)
+[2022.11.23-17.30.40:501][693]LogModuleManager: Shutting down and abandoning module HoloLensPlatformEditor (750)
+[2022.11.23-17.30.40:501][693]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (748)
+[2022.11.23-17.30.40:501][693]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (746)
+[2022.11.23-17.30.40:501][693]LogModuleManager: Shutting down and abandoning module CSVtoSVG (744)
+[2022.11.23-17.30.40:501][693]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (742)
+[2022.11.23-17.30.40:501][693]LogModuleManager: Shutting down and abandoning module EditorConfig (740)
+[2022.11.23-17.30.40:501][693]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (738)
+[2022.11.23-17.30.40:501][693]LogModuleManager: Shutting down and abandoning module EditorFramework (736)
+[2022.11.23-17.30.40:501][693]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (734)
+[2022.11.23-17.30.40:501][693]LogModuleManager: Shutting down and abandoning module TraceInsights (732)
+[2022.11.23-17.30.40:501][693]MemoryProfiler: Shutdown
+[2022.11.23-17.30.40:501][693]NetworkingProfiler: Shutdown
+[2022.11.23-17.30.40:501][693]LoadingProfiler: Shutdown
+[2022.11.23-17.30.40:501][693]TimingProfiler: Shutdown
+[2022.11.23-17.30.40:501][693]LogModuleManager: Shutting down and abandoning module TraceServices (731)
+[2022.11.23-17.30.40:501][693]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (728)
+[2022.11.23-17.30.40:501][693]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (727)
+[2022.11.23-17.30.40:501][693]LogModuleManager: Shutting down and abandoning module InputBindingEditor (724)
+[2022.11.23-17.30.40:501][693]LogModuleManager: Shutting down and abandoning module MergeActors (722)
+[2022.11.23-17.30.40:501][693]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (720)
+[2022.11.23-17.30.40:501][693]LogModuleManager: Shutting down and abandoning module LocalizationService (719)
+[2022.11.23-17.30.40:501][693]LogModuleManager: Shutting down and abandoning module HardwareTargeting (716)
+[2022.11.23-17.30.40:501][693]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (714)
+[2022.11.23-17.30.40:501][693]LogModuleManager: Shutting down and abandoning module UndoHistory (712)
+[2022.11.23-17.30.40:501][693]LogModuleManager: Shutting down and abandoning module XmlParser (710)
+[2022.11.23-17.30.40:501][693]LogModuleManager: Shutting down and abandoning module Blutility (708)
+[2022.11.23-17.30.40:501][693]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (706)
+[2022.11.23-17.30.40:501][693]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (705)
+[2022.11.23-17.30.40:502][693]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (702)
+[2022.11.23-17.30.40:502][693]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (701)
+[2022.11.23-17.30.40:502][693]LogModuleManager: Shutting down and abandoning module SettingsEditor (698)
+[2022.11.23-17.30.40:502][693]LogModuleManager: Shutting down and abandoning module ProjectLauncher (696)
+[2022.11.23-17.30.40:502][693]LogModuleManager: Shutting down and abandoning module SessionFrontend (694)
+[2022.11.23-17.30.40:502][693]LogModuleManager: Shutting down and abandoning module ProfilerClient (692)
+[2022.11.23-17.30.40:502][693]LogModuleManager: Shutting down and abandoning module DeviceManager (690)
+[2022.11.23-17.30.40:502][693]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (689)
+[2022.11.23-17.30.40:513][693]LogModuleManager: Shutting down and abandoning module AutomationController (686)
+[2022.11.23-17.30.40:513][693]LogModuleManager: Shutting down and abandoning module AutomationWindow (684)
+[2022.11.23-17.30.40:513][693]LogModuleManager: Shutting down and abandoning module Layers (682)
+[2022.11.23-17.30.40:513][693]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (680)
+[2022.11.23-17.30.40:513][693]LogModuleManager: Shutting down and abandoning module DetailCustomizations (678)
+[2022.11.23-17.30.40:513][693]LogModuleManager: Shutting down and abandoning module PackagesDialog (676)
+[2022.11.23-17.30.40:513][693]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (674)
+[2022.11.23-17.30.40:513][693]LogModuleManager: Shutting down and abandoning module Persona (672)
+[2022.11.23-17.30.40:513][693]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (671)
+[2022.11.23-17.30.40:513][693]LogModuleManager: Shutting down and abandoning module AnimGraph (669)
+[2022.11.23-17.30.40:513][693]LogModuleManager: Shutting down and abandoning module Kismet (666)
+[2022.11.23-17.30.40:513][693]LogModuleManager: Shutting down and abandoning module KismetWidgets (665)
+[2022.11.23-17.30.40:513][693]LogModuleManager: Shutting down and abandoning module GraphEditor (662)
+[2022.11.23-17.30.40:514][693]LogModuleManager: Shutting down and abandoning module StructViewer (660)
+[2022.11.23-17.30.40:514][693]LogModuleManager: Shutting down and abandoning module ClassViewer (658)
+[2022.11.23-17.30.40:514][693]LogModuleManager: Shutting down and abandoning module NaniteTools (656)
+[2022.11.23-17.30.40:514][693]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (654)
+[2022.11.23-17.30.40:514][693]LogModuleManager: Shutting down and abandoning module SourceControlWindows (652)
+[2022.11.23-17.30.40:514][693]LogModuleManager: Shutting down and abandoning module OutputLog (650)
+[2022.11.23-17.30.40:514][693]LogModuleManager: Shutting down and abandoning module Documentation (648)
+[2022.11.23-17.30.40:514][693]LogModuleManager: Shutting down and abandoning module LiveCoding (646)
+[2022.11.23-17.30.40:521][693]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (644)
+[2022.11.23-17.30.40:521][693]LogModuleManager: Shutting down and abandoning module MovieScene (642)
+[2022.11.23-17.30.40:521][693]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (640)
+[2022.11.23-17.30.40:521][693]LogModuleManager: Shutting down and abandoning module LauncherPlatform (638)
+[2022.11.23-17.30.40:521][693]LogModuleManager: Shutting down and abandoning module AnalyticsET (636)
+[2022.11.23-17.30.40:521][693]LogModuleManager: Shutting down and abandoning module PortalServices (634)
+[2022.11.23-17.30.40:521][693]LogModuleManager: Shutting down and abandoning module PortalRpc (632)
+[2022.11.23-17.30.40:521][693]LogModuleManager: Shutting down and abandoning module MessagingRpc (630)
+[2022.11.23-17.30.40:521][693]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (628)
+[2022.11.23-17.30.40:521][693]LogModuleManager: Shutting down and abandoning module AudioMixer (627)
+[2022.11.23-17.30.40:521][693]LogModuleManager: Shutting down and abandoning module AudioMixerCore (626)
+[2022.11.23-17.30.40:521][693]LogModuleManager: Shutting down and abandoning module AIModule (622)
+[2022.11.23-17.30.40:521][693]LogModuleManager: Shutting down and abandoning module GameplayDebugger (621)
+[2022.11.23-17.30.40:521][693]LogModuleManager: Shutting down and abandoning module AITestSuite (619)
+[2022.11.23-17.30.40:521][693]LogModuleManager: Shutting down and abandoning module NavigationSystem (617)
+[2022.11.23-17.30.40:521][693]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (614)
+[2022.11.23-17.30.40:521][693]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (612)
+[2022.11.23-17.30.40:521][693]LogModuleManager: Shutting down and abandoning module TypedElementFramework (610)
+[2022.11.23-17.30.40:521][693]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (608)
+[2022.11.23-17.30.40:521][693]LogModuleManager: Shutting down and abandoning module ProfilerService (606)
+[2022.11.23-17.30.40:590][693]LogModuleManager: Shutting down and abandoning module TaskGraph (604)
+[2022.11.23-17.30.40:590][693]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (602)
+[2022.11.23-17.30.40:590][693]LogModuleManager: Shutting down and abandoning module MegascansPlugin (600)
+[2022.11.23-17.30.40:590][693]LogModuleManager: Shutting down and abandoning module Bridge (598)
+[2022.11.23-17.30.40:590][693]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (596)
+[2022.11.23-17.30.40:590][693]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (594)
+[2022.11.23-17.30.40:590][693]LogModuleManager: Shutting down and abandoning module InterchangePipelines (592)
+[2022.11.23-17.30.40:590][693]LogModuleManager: Shutting down and abandoning module InterchangeExport (590)
+[2022.11.23-17.30.40:590][693]LogModuleManager: Shutting down and abandoning module InterchangeMessages (588)
+[2022.11.23-17.30.40:590][693]LogModuleManager: Shutting down and abandoning module InterchangeImport (586)
+[2022.11.23-17.30.40:590][693]LogModuleManager: Shutting down and abandoning module InterchangeNodes (584)
+[2022.11.23-17.30.40:590][693]LogModuleManager: Shutting down and abandoning module InterchangeResultsBrowser (582)
+[2022.11.23-17.30.40:590][693]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (580)
+[2022.11.23-17.30.40:591][693]LogModuleManager: Shutting down and abandoning module InterchangeEditor (578)
+[2022.11.23-17.30.40:591][693]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (576)
+[2022.11.23-17.30.40:591][693]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (574)
+[2022.11.23-17.30.40:591][693]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (572)
+[2022.11.23-17.30.40:591][693]LogModuleManager: Shutting down and abandoning module CollectionManager (571)
+[2022.11.23-17.30.40:591][693]LogModuleManager: Shutting down and abandoning module SynthesisEditor (568)
+[2022.11.23-17.30.40:591][693]LogModuleManager: Shutting down and abandoning module Synthesis (566)
+[2022.11.23-17.30.40:591][693]LogModuleManager: Shutting down and abandoning module ResonanceAudio (564)
+[2022.11.23-17.30.40:591][693]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (562)
+[2022.11.23-17.30.40:591][693]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (560)
+[2022.11.23-17.30.40:591][693]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (558)
+[2022.11.23-17.30.40:591][693]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (556)
+[2022.11.23-17.30.40:591][693]LogModuleManager: Shutting down and abandoning module ModelingOperators (554)
+[2022.11.23-17.30.40:591][693]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (552)
+[2022.11.23-17.30.40:591][693]LogModuleManager: Shutting down and abandoning module ModelingComponents (550)
+[2022.11.23-17.30.40:591][693]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (548)
+[2022.11.23-17.30.40:591][693]LogModuleManager: Shutting down and abandoning module MeshModelingTools (546)
+[2022.11.23-17.30.40:591][693]LogModuleManager: Shutting down and abandoning module HairStrandsEditor (544)
+[2022.11.23-17.30.40:591][693]LogModuleManager: Shutting down and abandoning module GooglePAD (542)
+[2022.11.23-17.30.40:591][693]LogModuleManager: Shutting down and abandoning module DynamicMesh (538)
+[2022.11.23-17.30.40:591][693]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (536)
+[2022.11.23-17.30.40:591][693]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (534)
+[2022.11.23-17.30.40:591][693]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (532)
+[2022.11.23-17.30.40:592][693]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (530)
+[2022.11.23-17.30.40:592][693]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (528)
+[2022.11.23-17.30.40:592][693]LogModuleManager: Shutting down and abandoning module CableComponent (526)
+[2022.11.23-17.30.40:592][693]LogModuleManager: Shutting down and abandoning module AudioCapture (524)
+[2022.11.23-17.30.40:592][693]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (523)
+[2022.11.23-17.30.40:592][693]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (520)
+[2022.11.23-17.30.40:592][693]LogModuleManager: Shutting down and abandoning module AssetTags (518)
+[2022.11.23-17.30.40:592][693]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (516)
+[2022.11.23-17.30.40:592][693]LogModuleManager: Shutting down and abandoning module AppleImageUtils (514)
+[2022.11.23-17.30.40:592][693]LogModuleManager: Shutting down and abandoning module AndroidPermission (512)
+[2022.11.23-17.30.40:592][693]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (510)
+[2022.11.23-17.30.40:592][693]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (508)
+[2022.11.23-17.30.40:592][693]LogModuleManager: Shutting down and abandoning module TemplateSequence (506)
+[2022.11.23-17.30.40:592][693]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (504)
+[2022.11.23-17.30.40:592][693]LogModuleManager: Shutting down and abandoning module SequencerScripting (502)
+[2022.11.23-17.30.40:592][693]LogModuleManager: Shutting down and abandoning module MediaCompositing (500)
+[2022.11.23-17.30.40:592][693]LogModuleManager: Shutting down and abandoning module ImgMedia (498)
+[2022.11.23-17.30.40:592][693]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (496)
+[2022.11.23-17.30.40:592][693]LogOpenImageDenoise: OIDN shutting down
+[2022.11.23-17.30.40:592][693]LogModuleManager: Shutting down and abandoning module MeshLODToolset (494)
+[2022.11.23-17.30.40:592][693]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (492)
+[2022.11.23-17.30.40:592][693]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (490)
+[2022.11.23-17.30.40:592][693]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (488)
+[2022.11.23-17.30.40:592][693]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (486)
+[2022.11.23-17.30.40:592][693]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (484)
+[2022.11.23-17.30.40:592][693]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (482)
+[2022.11.23-17.30.40:592][693]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (480)
+[2022.11.23-17.30.40:592][693]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (478)
+[2022.11.23-17.30.40:592][693]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (477)
+[2022.11.23-17.30.40:592][693]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (474)
+[2022.11.23-17.30.40:592][693]LogModuleManager: Shutting down and abandoning module AlembicImporter (472)
+[2022.11.23-17.30.40:592][693]LogModuleManager: Shutting down and abandoning module AlembicLibrary (471)
+[2022.11.23-17.30.40:592][693]LogModuleManager: Shutting down and abandoning module GeometryCache (470)
+[2022.11.23-17.30.40:593][693]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (469)
+[2022.11.23-17.30.40:593][693]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (464)
+[2022.11.23-17.30.40:593][693]LogModuleManager: Shutting down and abandoning module ChaosNiagara (462)
+[2022.11.23-17.30.40:593][693]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (460)
+[2022.11.23-17.30.40:593][693]LogModuleManager: Shutting down and abandoning module FractureEditor (458)
+[2022.11.23-17.30.40:593][693]LogModuleManager: Shutting down and abandoning module BackChannel (456)
+[2022.11.23-17.30.40:593][693]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (454)
+[2022.11.23-17.30.40:593][693]LogModuleManager: Shutting down and abandoning module AutomationUtils (452)
+[2022.11.23-17.30.40:593][693]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (450)
+[2022.11.23-17.30.40:593][693]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (448)
+[2022.11.23-17.30.40:593][693]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (446)
+[2022.11.23-17.30.40:593][693]LogModuleManager: Shutting down and abandoning module UObjectPlugin (444)
+[2022.11.23-17.30.40:593][693]LogModuleManager: Shutting down and abandoning module UnrealInsightsInterface (442)
+[2022.11.23-17.30.40:593][693]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (440)
+[2022.11.23-17.30.40:593][693]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (438)
+[2022.11.23-17.30.40:593][693]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (436)
+[2022.11.23-17.30.40:593][693]LogModuleManager: Shutting down and abandoning module PluginUtils (434)
+[2022.11.23-17.30.40:593][693]LogModuleManager: Shutting down and abandoning module GitSourceControl (432)
+[2022.11.23-17.30.40:593][693]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (430)
+[2022.11.23-17.30.40:593][693]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (428)
+[2022.11.23-17.30.40:593][693]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (426)
+[2022.11.23-17.30.40:593][693]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (424)
+[2022.11.23-17.30.40:593][693]LogModuleManager: Shutting down and abandoning module StylusInput (422)
+[2022.11.23-17.30.40:593][693]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (420)
+[2022.11.23-17.30.40:593][693]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (418)
+[2022.11.23-17.30.40:593][693]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (416)
+[2022.11.23-17.30.40:593][693]LogModuleManager: Shutting down and abandoning module PluginBrowser (414)
+[2022.11.23-17.30.40:593][693]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (412)
+[2022.11.23-17.30.40:594][693]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (410)
+[2022.11.23-17.30.40:594][693]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (408)
+[2022.11.23-17.30.40:594][693]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (406)
+[2022.11.23-17.30.40:594][693]LogModuleManager: Shutting down and abandoning module EditorDebugTools (404)
+[2022.11.23-17.30.40:594][693]LogModuleManager: Shutting down and abandoning module CurveEditorTools (402)
+[2022.11.23-17.30.40:594][693]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (400)
+[2022.11.23-17.30.40:594][693]LogModuleManager: Shutting down and abandoning module CryptoKeys (398)
+[2022.11.23-17.30.40:594][693]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (396)
+[2022.11.23-17.30.40:594][693]LogModuleManager: Shutting down and abandoning module ControlRigSpline (394)
+[2022.11.23-17.30.40:594][693]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (392)
+[2022.11.23-17.30.40:594][693]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (390)
+[2022.11.23-17.30.40:594][693]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (388)
+[2022.11.23-17.30.40:594][693]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (386)
+[2022.11.23-17.30.40:594][693]LogModuleManager: Shutting down and abandoning module Paper2DEditor (384)
+[2022.11.23-17.30.40:594][693]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (382)
+[2022.11.23-17.30.40:594][693]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (380)
+[2022.11.23-17.30.40:594][693]LogModuleManager: Shutting down and abandoning module SoundFields (378)
+[2022.11.23-17.30.40:594][693]LogModuleManager: Shutting down and abandoning module SignificanceManager (376)
+[2022.11.23-17.30.40:594][693]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (374)
+[2022.11.23-17.30.40:594][693]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (372)
+[2022.11.23-17.30.40:594][693]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (370)
+[2022.11.23-17.30.40:594][693]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (368)
+[2022.11.23-17.30.40:594][693]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (367)
+[2022.11.23-17.30.40:594][693]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (364)
+[2022.11.23-17.30.40:594][693]LogModuleManager: Shutting down and abandoning module ActorSequence (362)
+[2022.11.23-17.30.40:594][693]LogModuleManager: Shutting down and abandoning module UdpMessaging (360)
+[2022.11.23-17.30.40:696][693]LogModuleManager: Shutting down and abandoning module TcpMessaging (358)
+[2022.11.23-17.30.40:797][693]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (356)
+[2022.11.23-17.30.40:797][693]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (354)
+[2022.11.23-17.30.40:797][693]LogModuleManager: Shutting down and abandoning module PBIK (352)
+[2022.11.23-17.30.40:797][693]LogModuleManager: Shutting down and abandoning module FullBodyIK (350)
+[2022.11.23-17.30.40:797][693]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (348)
+[2022.11.23-17.30.40:797][693]LogModuleManager: Shutting down and abandoning module Niagara (346)
+[2022.11.23-17.30.40:797][693]LogModuleManager: Shutting down and abandoning module SignalProcessing (345)
+[2022.11.23-17.30.40:797][693]LogModuleManager: Shutting down and abandoning module NiagaraEditor (343)
+[2022.11.23-17.30.40:797][693]LogModuleManager: Shutting down and abandoning module NiagaraCore (340)
+[2022.11.23-17.30.40:797][693]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (338)
+[2022.11.23-17.30.40:797][693]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (336)
+[2022.11.23-17.30.40:797][693]LogModuleManager: Shutting down and abandoning module AnimationSharing (334)
+[2022.11.23-17.30.40:797][693]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (332)
+[2022.11.23-17.30.40:797][693]LogModuleManager: Shutting down and abandoning module FacialAnimation (330)
+[2022.11.23-17.30.40:797][693]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (328)
+[2022.11.23-17.30.40:798][693]LogModuleManager: Shutting down and abandoning module DataValidation (326)
+[2022.11.23-17.30.40:798][693]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (324)
+[2022.11.23-17.30.40:798][693]LogModuleManager: Shutting down and abandoning module LevelEditor (323)
+[2022.11.23-17.30.40:800][693]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (322)
+[2022.11.23-17.30.40:800][693]LogModuleManager: Shutting down and abandoning module LevelAssetEditor (320)
+[2022.11.23-17.30.40:800][693]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (318)
+[2022.11.23-17.30.40:800][693]LogModuleManager: Shutting down and abandoning module MainFrame (316)
+[2022.11.23-17.30.40:800][693]LogModuleManager: Shutting down and abandoning module HotReload (315)
+[2022.11.23-17.30.40:801][693]LogModuleManager: Shutting down and abandoning module ContentBrowser (311)
+[2022.11.23-17.30.40:801][693]LogModuleManager: Shutting down and abandoning module ToolMenus (310)
+[2022.11.23-17.30.40:801][693]LogModuleManager: Shutting down and abandoning module ContentBrowserData (308)
+[2022.11.23-17.30.40:801][693]LogModuleManager: Shutting down and abandoning module TreeMap (305)
+[2022.11.23-17.30.40:801][693]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (302)
+[2022.11.23-17.30.40:801][693]LogModuleManager: Shutting down and abandoning module GameplayCameras (300)
+[2022.11.23-17.30.40:801][693]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (298)
+[2022.11.23-17.30.40:801][693]LogModuleManager: Shutting down and abandoning module IKRig (296)
+[2022.11.23-17.30.40:801][693]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (294)
+[2022.11.23-17.30.40:801][693]LogModuleManager: Shutting down and abandoning module ControlRig (292)
+[2022.11.23-17.30.40:801][693]LogModuleManager: Shutting down and abandoning module LevelSequence (291)
+[2022.11.23-17.30.40:801][693]LogModuleManager: Shutting down and abandoning module Paper2D (288)
+[2022.11.23-17.30.40:801][693]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (286)
+[2022.11.23-17.30.40:802][693]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (284)
+[2022.11.23-17.30.40:802][693]LogModuleManager: Shutting down and abandoning module AndroidFileServer (282)
+[2022.11.23-17.30.40:802][693]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (280)
+[2022.11.23-17.30.40:802][693]LogModuleManager: Shutting down and abandoning module PacketHandler (278)
+[2022.11.23-17.30.40:802][693]LogModuleManager: Shutting down and abandoning module AnimationDataController (276)
+[2022.11.23-17.30.40:802][693]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (274)
+[2022.11.23-17.30.40:802][693]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (272)
+[2022.11.23-17.30.40:802][693]LogModuleManager: Shutting down and abandoning module MediaAssets (270)
+[2022.11.23-17.30.40:802][693]LogModuleManager: Shutting down and abandoning module Overlay (268)
+[2022.11.23-17.30.40:802][693]LogModuleManager: Shutting down and abandoning module OverlayEditor (267)
+[2022.11.23-17.30.40:802][693]LogModuleManager: Shutting down and abandoning module VREditor (264)
+[2022.11.23-17.30.40:802][693]LogModuleManager: Shutting down and abandoning module StringTableEditor (262)
+[2022.11.23-17.30.40:802][693]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (260)
+[2022.11.23-17.30.40:802][693]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (258)
+[2022.11.23-17.30.40:802][693]LogModuleManager: Shutting down and abandoning module FunctionalTesting (256)
+[2022.11.23-17.30.40:802][693]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (254)
+[2022.11.23-17.30.40:802][693]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (253)
+[2022.11.23-17.30.40:802][693]LogModuleManager: Shutting down and abandoning module UMG (250)
+[2022.11.23-17.30.40:802][693]LogModuleManager: Shutting down and abandoning module UMGEditor (249)
+[2022.11.23-17.30.40:802][693]LogModuleManager: Shutting down and abandoning module SlateReflector (244)
+[2022.11.23-17.30.40:802][693]LogModuleManager: Shutting down and abandoning module Slate (242)
+[2022.11.23-17.30.40:802][693]LogModuleManager: Shutting down and abandoning module SlateCore (240)
+[2022.11.23-17.30.40:804][693]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (238)
+[2022.11.23-17.30.40:804][693]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (236)
+[2022.11.23-17.30.40:804][693]LogModuleManager: Shutting down and abandoning module UnrealEd (234)
+[2022.11.23-17.30.40:804][693]LogModuleManager: Shutting down and abandoning module MRMesh (232)
+[2022.11.23-17.30.40:804][693]LogModuleManager: Shutting down and abandoning module Messaging (230)
+[2022.11.23-17.30.40:804][693]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (228)
+[2022.11.23-17.30.40:804][693]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (226)
+[2022.11.23-17.30.40:804][693]LogModuleManager: Shutting down and abandoning module Networking (224)
+[2022.11.23-17.30.40:804][693]LogModuleManager: Shutting down and abandoning module Core (222)
+[2022.11.23-17.30.40:804][693]LogModuleManager: Shutting down and abandoning module MaterialEditor (220)
+[2022.11.23-17.30.40:804][693]LogModuleManager: Shutting down and abandoning module MovieSceneTools (218)
+[2022.11.23-17.30.40:804][693]LogModuleManager: Shutting down and abandoning module CurveEditor (217)
+[2022.11.23-17.30.40:804][693]LogModuleManager: Shutting down and abandoning module Sequencer (215)
+[2022.11.23-17.30.40:804][693]LogModuleManager: Shutting down and abandoning module EditorStyle (214)
+[2022.11.23-17.30.40:804][693]LogModuleManager: Shutting down and abandoning module KismetCompiler (210)
+[2022.11.23-17.30.40:804][693]LogModuleManager: Shutting down and abandoning module MeshBuilder (208)
+[2022.11.23-17.30.40:804][693]LogModuleManager: Shutting down and abandoning module NaniteBuilder (206)
+[2022.11.23-17.30.40:804][693]LogModuleManager: Shutting down and abandoning module MeshUtilities (204)
+[2022.11.23-17.30.40:805][693]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (203)
+[2022.11.23-17.30.40:805][693]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (202)
+[2022.11.23-17.30.40:805][693]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (201)
+[2022.11.23-17.30.40:805][693]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (199)
+[2022.11.23-17.30.40:805][693]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (197)
+[2022.11.23-17.30.40:805][693]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (195)
+[2022.11.23-17.30.40:805][693]LogModuleManager: Shutting down and abandoning module MaterialBaking (191)
+[2022.11.23-17.30.40:805][693]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (186)
+[2022.11.23-17.30.40:805][693]LogModuleManager: Shutting down and abandoning module DerivedDataCache (184)
+[2022.11.23-17.30.40:810][693]LogModuleManager: Shutting down and abandoning module TargetPlatform (182)
+[2022.11.23-17.30.40:810][693]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (181)
+[2022.11.23-17.30.40:810][693]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (179)
+[2022.11.23-17.30.40:810][693]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (177)
+[2022.11.23-17.30.40:811][693]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (175)
+[2022.11.23-17.30.40:811][693]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (173)
+[2022.11.23-17.30.40:811][693]LogModuleManager: Shutting down and abandoning module AudioFormatBink (171)
+[2022.11.23-17.30.40:811][693]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (169)
+[2022.11.23-17.30.40:811][693]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (167)
+[2022.11.23-17.30.40:811][693]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (165)
+[2022.11.23-17.30.40:811][693]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (163)
+[2022.11.23-17.30.40:811][693]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (161)
+[2022.11.23-17.30.40:811][693]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (159)
+[2022.11.23-17.30.40:811][693]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (157)
+[2022.11.23-17.30.40:811][693]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (155)
+[2022.11.23-17.30.40:811][693]LogModuleManager: Shutting down and abandoning module HoloLensTargetPlatform (153)
+[2022.11.23-17.30.40:811][693]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (151)
+[2022.11.23-17.30.40:811][693]LogModuleManager: Shutting down and abandoning module TextureFormat (149)
+[2022.11.23-17.30.40:811][693]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (148)
+[2022.11.23-17.30.40:811][693]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (146)
+[2022.11.23-17.30.40:811][693]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (144)
+[2022.11.23-17.30.40:811][693]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (142)
+[2022.11.23-17.30.40:811][693]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (140)
+[2022.11.23-17.30.40:812][693]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (138)
+[2022.11.23-17.30.40:812][693]LogModuleManager: Shutting down and abandoning module ImageWrapper (137)
+[2022.11.23-17.30.40:812][693]LogModuleManager: Shutting down and abandoning module TurnkeySupport (133)
+[2022.11.23-17.30.40:812][693]LogModuleManager: Shutting down and abandoning module InputCore (130)
+[2022.11.23-17.30.40:812][693]LogModuleManager: Shutting down and abandoning module Settings (128)
+[2022.11.23-17.30.40:812][693]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (126)
+[2022.11.23-17.30.40:812][693]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (124)
+[2022.11.23-17.30.40:812][693]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (123)
+[2022.11.23-17.30.40:812][693]LogModuleManager: Shutting down and abandoning module Chaos (120)
+[2022.11.23-17.30.40:812][693]LogModuleManager: Shutting down and abandoning module GeometryCore (119)
+[2022.11.23-17.30.40:812][693]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (116)
+[2022.11.23-17.30.40:812][693]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (115)
+[2022.11.23-17.30.40:812][693]LogModuleManager: Shutting down and abandoning module AVEncoder (114)
+[2022.11.23-17.30.40:812][693]LogModuleManager: Shutting down and abandoning module D3D12RHI (110)
+[2022.11.23-17.30.40:812][693]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (108)
+[2022.11.23-17.30.40:812][693]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (106)
+[2022.11.23-17.30.40:812][693]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (104)
+[2022.11.23-17.30.40:812][693]LogModuleManager: Shutting down and abandoning module HairStrandsCore (102)
+[2022.11.23-17.30.40:812][693]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (100)
+[2022.11.23-17.30.40:812][693]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (98)
+[2022.11.23-17.30.40:813][693]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (96)
+[2022.11.23-17.30.40:815][693]LogModuleManager: Shutting down and abandoning module XMPP (91)
+[2022.11.23-17.30.40:815][693]LogModuleManager: Shutting down and abandoning module WebSockets (90)
+[2022.11.23-17.30.40:830][693]LogModuleManager: Shutting down and abandoning module HTTP (87)
+[2022.11.23-17.30.40:830][693]LogHttp: Warning: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2022.11.23-17.30.40:830][693]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE9D42BEA-42CD-A52E-0E4A-74B40D8DADC6%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=2cd8dfbd4af4fa1e1a82a1941aa4f7d6%7C26ebc5e754f5431daa1a44c2b5dd5fa1%7Cabc42059-6f10-4acb-9957-8bc0501ca7fa&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2022.11.23-17.30.40:830][693]LogHttp: Warning: Cleaning up 1 outstanding Http requests.
+[2022.11.23-17.30.40:863][693]LogModuleManager: Shutting down and abandoning module SSL (86)
+[2022.11.23-17.30.40:864][693]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (82)
+[2022.11.23-17.30.40:864][693]LogModuleManager: Shutting down and abandoning module ChunkDownloader (80)
+[2022.11.23-17.30.40:864][693]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (78)
+[2022.11.23-17.30.40:864][693]LogModuleManager: Shutting down and abandoning module WmfMedia (76)
+[2022.11.23-17.30.40:868][693]LogModuleManager: Shutting down and abandoning module Media (75)
+[2022.11.23-17.30.40:870][693]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (72)
+[2022.11.23-17.30.40:870][693]LogModuleManager: Shutting down and abandoning module ChaosCloth (70)
+[2022.11.23-17.30.40:870][693]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (68)
+[2022.11.23-17.30.40:870][693]LogModuleManager: Shutting down and abandoning module NiagaraShader (66)
+[2022.11.23-17.30.40:870][693]LogModuleManager: Shutting down and abandoning module PixWinPlugin (64)
+[2022.11.23-17.30.40:870][693]LogModuleManager: Shutting down and abandoning module VariantManagerContent (62)
+[2022.11.23-17.30.40:870][693]LogModuleManager: Shutting down and abandoning module DatasmithContent (60)
+[2022.11.23-17.30.40:871][693]LogModuleManager: Shutting down and abandoning module AISupportModule (58)
+[2022.11.23-17.30.40:871][693]LogModuleManager: Shutting down and abandoning module DesktopPlatform (56)
+[2022.11.23-17.30.40:871][693]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (54)
+[2022.11.23-17.30.40:871][693]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (52)
+[2022.11.23-17.30.40:871][693]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (50)
+[2022.11.23-17.30.40:871][693]LogModuleManager: Shutting down and abandoning module PlatformCrypto (48)
+[2022.11.23-17.30.40:871][693]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (46)
+[2022.11.23-17.30.40:871][693]LogModuleManager: Shutting down and abandoning module SourceControl (45)
+[2022.11.23-17.30.40:871][693]LogModuleManager: Shutting down and abandoning module XGEController (42)
+[2022.11.23-17.30.40:871][693]LogXGEController: Cleaning working directory: C:/Users/Josué/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2022.11.23-17.30.40:872][693]LogModuleManager: Shutting down and abandoning module FastBuildController (40)
+[2022.11.23-17.30.40:872][693]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2022.11.23-17.30.40:872][693]LogModuleManager: Shutting down and abandoning module AudioEditor (36)
+[2022.11.23-17.30.40:872][693]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2022.11.23-17.30.40:872][693]LogModuleManager: Shutting down and abandoning module Virtualization (32)
+[2022.11.23-17.30.40:872][693]LogModuleManager: Shutting down and abandoning module MessageLog (31)
+[2022.11.23-17.30.40:872][693]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2022.11.23-17.30.40:872][693]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2022.11.23-17.30.40:872][693]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2022.11.23-17.30.40:873][693]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2022.11.23-17.30.40:873][693]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.11.23-17.30.40:873][693]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.11.23-17.30.40:873][693]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.11.23-17.30.40:874][693]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.11.23-17.30.40:874][693]LogModuleManager: Shutting down and abandoning module SandboxFile (12)
+[2022.11.23-17.30.40:874][693]LogModuleManager: Shutting down and abandoning module PakFile (10)
+[2022.11.23-17.30.40:874][693]LogModuleManager: Shutting down and abandoning module RSA (9)
+[2022.11.23-17.30.40:874][693]LogModuleManager: Shutting down and abandoning module NetworkFile (6)
+[2022.11.23-17.30.40:874][693]LogModuleManager: Shutting down and abandoning module StreamingFile (4)
+[2022.11.23-17.30.40:874][693]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2022.11.23-17.30.40:899][693]LogD3D12RHI: Display: D3D12 ReleaseResources: 99 items to release
+[2022.11.23-17.30.40:899][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer0", 1938 x 1048 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2022.11.23-17.30.40:899][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer1", 1938 x 1048 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2022.11.23-17.30.40:899][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer2", 1938 x 1048 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2022.11.23-17.30.40:926][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "Scene view state exposure readback", 16 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.11.23-17.30.40:926][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "Scene view state exposure readback", 16 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.11.23-17.30.40:927][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "Scene view state exposure readback", 16 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.11.23-17.30.40:927][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "Scene view state exposure readback", 16 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.11.23-17.30.40:927][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "HitProxyCPUTexture", 5271500 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.11.23-17.30.40:927][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "HitProxyTexture", 1523 x 858 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.11.23-17.30.40:928][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "BufferedRT", 1523 x 858 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2022.11.23-17.30.40:928][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer0", 512 x 233 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2022.11.23-17.30.40:928][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer1", 512 x 233 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2022.11.23-17.30.40:928][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer2", 512 x 233 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2022.11.23-17.30.40:941][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.11.23-17.30.40:942][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.11.23-17.30.40:942][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.11.23-17.30.40:943][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.11.23-17.30.40:943][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.11.23-17.30.40:944][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.11.23-17.30.40:944][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.11.23-17.30.40:944][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.11.23-17.30.40:945][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.11.23-17.30.40:945][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.11.23-17.30.40:945][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.11.23-17.30.40:945][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.11.23-17.30.40:946][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.11.23-17.30.40:946][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.11.23-17.30.40:946][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.11.23-17.30.40:946][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.11.23-17.30.40:946][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.11.23-17.30.40:947][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.11.23-17.30.40:947][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.11.23-17.30.40:947][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.11.23-17.30.40:948][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.11.23-17.30.40:952][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.11.23-17.30.40:953][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.11.23-17.30.40:954][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.11.23-17.30.40:955][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.11.23-17.30.40:956][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.11.23-17.30.40:956][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.11.23-17.30.40:956][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.11.23-17.30.40:957][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.11.23-17.30.40:957][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 108 x 108 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.11.23-17.30.40:958][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.11.23-17.30.40:958][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.11.23-17.30.40:959][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.11.23-17.30.40:959][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.11.23-17.30.40:959][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.11.23-17.30.40:960][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.11.23-17.30.40:960][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "PrimitiveSceneDataTexture", 40 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x4
+[2022.11.23-17.30.40:960][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "PrimitiveSceneDataTexture", 40 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x4
+[2022.11.23-17.30.40:960][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleCurveTexture", 512 x 512 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.11.23-17.30.40:961][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "Editor.PrimitivesDepthHistory", 3048 x 1720 x 1, Mips: 1, Format: 0x29, Flags: 0x1
+[2022.11.23-17.30.40:961][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.LowFrequencies", 1524 x 860 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.11.23-17.30.40:961][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.TranslucencyAlpha", 1524 x 860 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.11.23-17.30.40:962][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.CameraAPVolume0", 32 x 32 x 8, Mips: 1, Format: 0xA, Flags: 0x4
+[2022.11.23-17.30.40:962][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricRenderTarget.Tracing", 331 x 186 x 1, Mips: 1, Format: 0xA, Flags: 0x5
+[2022.11.23-17.30.40:962][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricRenderTarget.TracingDepth", 331 x 186 x 1, Mips: 1, Format: 0x22, Flags: 0x5
+[2022.11.23-17.30.40:962][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricRenderTarget.Reconstruct", 661 x 372 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.11.23-17.30.40:962][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricRenderTarget.ReconstructDepth", 661 x 372 x 1, Mips: 1, Format: 0x22, Flags: 0x1
+[2022.11.23-17.30.40:963][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "EyeAdaptation", 1 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x5
+[2022.11.23-17.30.40:963][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "CombineLUTs", 32 x 32 x 32, Mips: 1, Format: 0x18, Flags: 0x1
+[2022.11.23-17.30.40:963][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.LowFrequencies", 1524 x 860 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.11.23-17.30.40:963][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "EyeAdaptation", 1 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x5
+[2022.11.23-17.30.40:963][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricRenderTarget.ReconstructDepth", 661 x 372 x 1, Mips: 1, Format: 0x22, Flags: 0x1
+[2022.11.23-17.30.40:964][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricRenderTarget.Reconstruct", 661 x 372 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.11.23-17.30.40:964][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.SubpixelInfo", 1524 x 860 x 1, Mips: 1, Format: 0x39, Flags: 0x4
+[2022.11.23-17.30.40:964][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.SkyViewLut", 192 x 104 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.11.23-17.30.40:964][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.Metadata", 1524 x 860 x 1, Mips: 1, Format: 0x31, Flags: 0x4
+[2022.11.23-17.30.40:964][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.HighFrequencies", 1524 x 860 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.11.23-17.30.40:965][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.Translucency", 1524 x 860 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.11.23-17.30.40:965][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.HighFrequencies", 1524 x 860 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.11.23-17.30.40:967][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.Metadata", 1524 x 860 x 1, Mips: 1, Format: 0x31, Flags: 0x4
+[2022.11.23-17.30.40:967][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.SubpixelInfo", 1524 x 860 x 1, Mips: 1, Format: 0x39, Flags: 0x4
+[2022.11.23-17.30.40:968][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.Translucency", 1524 x 860 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.11.23-17.30.40:968][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.TranslucencyAlpha", 1524 x 860 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.11.23-17.30.40:968][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.Output", 1524 x 860 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.11.23-17.30.40:969][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "Editor.PrimitivesDepthHistory", 3048 x 1720 x 1, Mips: 1, Format: 0x29, Flags: 0x1
+[2022.11.23-17.30.40:969][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.DistantSkyLightLut", 1 x 1 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.11.23-17.30.40:969][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.MultiScatteredLuminanceLut", 32 x 32 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.11.23-17.30.40:970][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.TransmittanceLut", 256 x 64 x 1, Mips: 1, Format: 0x1B, Flags: 0x4
+[2022.11.23-17.30.40:970][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "Shadow.Virtual.PhysicalPagePool", 16384 x 512 x 1, Mips: 1, Format: 0x2A, Flags: 0x4
+[2022.11.23-17.30.40:970][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "HairLUT0", 1 x 1 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.11.23-17.30.40:971][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "Hair.LUT(DualScattering)", 64 x 64 x 16, Mips: 1, Format: 0xA, Flags: 0x4
+[2022.11.23-17.30.40:971][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkySHIrradiance", 9 x 1 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.11.23-17.30.40:971][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "ReflectionColorScratchCubemap0", 128 x 128 x 6, Mips: 8, Format: 0xA, Flags: 0x1
+[2022.11.23-17.30.40:971][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "ReflectionColorScratchCubemap1", 128 x 128 x 6, Mips: 8, Format: 0xA, Flags: 0x1
+[2022.11.23-17.30.40:972][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "DiffuseIrradianceScratchCubemap0", 32 x 32 x 6, Mips: 6, Format: 0xA, Flags: 0x1
+[2022.11.23-17.30.40:972][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "DiffuseIrradianceScratchCubemap1", 32 x 32 x 6, Mips: 6, Format: 0xA, Flags: 0x1
+[2022.11.23-17.30.40:972][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "Translucency.AfterDOF.Color", 1324 x 744 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.11.23-17.30.40:972][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "Nanite.MainAndPostNodesAndClusterBatchesBuffer", 44040192 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.11.23-17.30.40:974][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "InstanceCulling.DrawIndirectArgsBuffer", 65536 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.11.23-17.30.40:974][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "ShaderDraw.IndirectBuffer", 65536 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.11.23-17.30.40:974][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "InstanceCulling.DrawIndirectArgsBuffer", 65536 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.11.23-17.30.40:975][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "Nanite.SafeMainRasterizeArgsSWHW", 65536 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.11.23-17.30.40:975][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.11.23-17.30.40:975][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.11.23-17.30.40:975][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.11.23-17.30.40:976][693]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.11.23-17.30.41:044][693]LogD3D12RHI: ~FD3D12DynamicRHI
+[2022.11.23-17.30.41:044][693]LogExit: Exiting.
+[2022.11.23-17.30.41:063][693]Log file closed, 11/23/22 18:30:41
