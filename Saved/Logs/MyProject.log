@@ -1350,3 +1350,1095 @@ Make sure 'BP_FirstPersonCharacter_C' has been compiled for  Get FirstPersonMesh
 [2022.11.24-23.00.30:311][ 15]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/puerta_arribaDF4EBD21426911E006974194B8BD9254.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/Cosas/puerta_arriba.uasset'
 [2022.11.24-23.00.30:331][ 15]AssetCheck: New page: Asset Save: puerta_arriba
 [2022.11.24-23.00.30:331][ 15]LogContentValidation: Display: Validating Blueprint /Game/Cosas/puerta_arriba.puerta_arriba
+[2022.11.24-23.02.30:358][187]BlueprintLog: New page: Compile puerta_arriba
+[2022.11.24-23.02.30:449][187]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.11.24-23.02.30:905][204]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cosas/puerta_arriba" FILE="../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/Cosas/puerta_arriba.uasset" SILENT=true
+[2022.11.24-23.02.30:921][204]LogSavePackage: Moving output files for package: /Game/Cosas/puerta_arriba
+[2022.11.24-23.02.30:923][204]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/puerta_arriba810F5C274E048E8C6634ADA8688E5E22.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/Cosas/puerta_arriba.uasset'
+[2022.11.24-23.02.30:941][204]AssetCheck: New page: Asset Save: puerta_arriba
+[2022.11.24-23.02.30:941][204]LogContentValidation: Display: Validating Blueprint /Game/Cosas/puerta_arriba.puerta_arriba
+[2022.11.24-23.02.43:461][907]BlueprintLog: New page: Compile puerta_arriba
+[2022.11.24-23.02.43:544][907]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.11.24-23.02.43:951][921]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cosas/puerta_arriba" FILE="../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/Cosas/puerta_arriba.uasset" SILENT=true
+[2022.11.24-23.02.43:967][921]LogSavePackage: Moving output files for package: /Game/Cosas/puerta_arriba
+[2022.11.24-23.02.43:968][921]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/puerta_arribaFBC92CF24E1E94F11D5364B4CFD523EE.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/Cosas/puerta_arriba.uasset'
+[2022.11.24-23.02.43:986][921]AssetCheck: New page: Asset Save: puerta_arriba
+[2022.11.24-23.02.43:986][921]LogContentValidation: Display: Validating Blueprint /Game/Cosas/puerta_arriba.puerta_arriba
+[2022.11.24-23.02.46:118][ 44]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.11.24-23.02.46:131][ 44]LogWorldPartition: Display: GenerateStreaming started...
+[2022.11.24-23.02.46:131][ 44]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.11.24-23.02.46:131][ 44]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.24-23.02.46:131][ 44]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.11.24-23.02.46:131][ 44]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.11.24-23.02.46:131][ 44]LogWorldPartition: Display: GetPartitionedActors took 94 us
+[2022.11.24-23.02.46:131][ 44]LogWorldPartition: Display: GenerateStreaming took 344 us
+[2022.11.24-23.02.46:131][ 44]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.24-23.02.46:132][ 44]PIE: New page: PIE session: FirstPersonMap_2 (Nov 25, 2022, 1:02:46 AM)
+[2022.11.24-23.02.46:132][ 44]LogPlayLevel: Creating play world package: /Game/Cosas/UEDPIE_0_FirstPersonMap_2
+[2022.11.24-23.02.46:137][ 44]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.11.24-23.02.46:137][ 44]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005129s)
+[2022.11.24-23.02.46:138][ 44]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2 to /Game/Cosas/UEDPIE_0_FirstPersonMap_2.FirstPersonMap_2 (0.005295s)
+[2022.11.24-23.02.46:138][ 44]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.24-23.02.46:138][ 44]LogAIModule: Creating AISystem for world FirstPersonMap_2
+[2022.11.24-23.02.46:138][ 44]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.11.24-23.02.46:138][ 44]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.11.24-23.02.46:139][ 44]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.11.24-23.02.46:140][ 44]LogPlayLevel: PIE: World Init took: (0.002447s)
+[2022.11.24-23.02.46:193][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.11.24-23.02.46:195][ 44]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.11.24-23.02.46:195][ 44]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.24-23.02.46:195][ 44]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.24-23.02.46:195][ 44]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.24-23.02.46:195][ 44]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.24-23.02.46:195][ 44]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.24-23.02.46:195][ 44]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.24-23.02.46:195][ 44]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.24-23.02.46:195][ 44]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.24-23.02.46:196][ 44]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.24-23.02.46:196][ 44]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.24-23.02.46:196][ 44]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.24-23.02.46:198][ 44]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.24-23.02.46:226][ 44]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (2- Black Shark Goblin X4 USB Dongle)
+[2022.11.24-23.02.46:226][ 44]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.24-23.02.46:226][ 44]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.24-23.02.46:226][ 44]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.24-23.02.46:227][ 44]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2022.11.24-23.02.46:227][ 44]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2022.11.24-23.02.46:229][ 44]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2022.11.24-23.02.46:229][ 44]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2022.11.24-23.02.46:229][ 44]LogInit: FAudioDevice initialized.
+[2022.11.24-23.02.46:229][ 44]LogAudio: Display: Audio Device (ID: 9) registered with world 'FirstPersonMap_2'.
+[2022.11.24-23.02.46:309][ 44]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-23.02.46:309][ 44]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.11.24-23.02.46:311][ 44]LogWorld: Bringing World /Game/Cosas/UEDPIE_0_FirstPersonMap_2.FirstPersonMap_2 up for play (max tick rate 60) at 2022.11.25-00.02.46
+[2022.11.24-23.02.46:311][ 44]LogWorld: Bringing up level for play took: 0.001390
+[2022.11.24-23.02.46:314][ 44]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2022.11.24-23.02.46:316][ 44]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=2110.000 Y=2460.000 Z=114.839
+[2022.11.24-23.02.46:317][ 44]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.24-23.02.46:322][ 44]PIE: Server logged in
+[2022.11.24-23.02.46:329][ 44]PIE: Play in editor total start time 0.199 seconds.
+[2022.11.24-23.02.46:407][ 44]LogViewport: Scene viewport resized to 1913x980, mode Windowed.
+[2022.11.24-23.02.49:459][222]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-23.02.49:459][222]LogWorld: BeginTearingDown for /Game/Cosas/UEDPIE_0_FirstPersonMap_2
+[2022.11.24-23.02.49:460][222]LogSlate: Window 'MyProject Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.11.24-23.02.49:466][222]LogWorld: UWorld::CleanupWorld for FirstPersonMap_2, bSessionEnded=true, bCleanupResources=true
+[2022.11.24-23.02.49:466][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-23.02.49:497][222]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.24-23.02.49:502][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-23.02.49:549][222]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.24-23.02.49:550][222]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2022.11.24-23.02.49:551][222]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2022.11.24-23.02.49:560][222]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2022.11.24-23.02.49:616][223]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.11.24-23.03.01:479][827]BlueprintLog: New page: Compile puerta_arriba
+[2022.11.24-23.03.01:561][827]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.11.24-23.03.02:134][849]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cosas/puerta_arriba" FILE="../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/Cosas/puerta_arriba.uasset" SILENT=true
+[2022.11.24-23.03.02:149][849]LogSavePackage: Moving output files for package: /Game/Cosas/puerta_arriba
+[2022.11.24-23.03.02:150][849]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/puerta_arribaBDACB8E449E41FFD6310A5BB94B30EDD.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/Cosas/puerta_arriba.uasset'
+[2022.11.24-23.03.02:168][849]AssetCheck: New page: Asset Save: puerta_arriba
+[2022.11.24-23.03.02:169][849]LogContentValidation: Display: Validating Blueprint /Game/Cosas/puerta_arriba.puerta_arriba
+[2022.11.24-23.03.03:913][952]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.11.24-23.03.03:922][952]LogWorldPartition: Display: GenerateStreaming started...
+[2022.11.24-23.03.03:922][952]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.11.24-23.03.03:922][952]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.24-23.03.03:922][952]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.11.24-23.03.03:922][952]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.11.24-23.03.03:922][952]LogWorldPartition: Display: GetPartitionedActors took 61 us
+[2022.11.24-23.03.03:922][952]LogWorldPartition: Display: GenerateStreaming took 243 us
+[2022.11.24-23.03.03:922][952]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.24-23.03.03:922][952]PIE: New page: PIE session: FirstPersonMap_2 (Nov 25, 2022, 1:03:03 AM)
+[2022.11.24-23.03.03:923][952]LogPlayLevel: Creating play world package: /Game/Cosas/UEDPIE_0_FirstPersonMap_2
+[2022.11.24-23.03.03:926][952]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.11.24-23.03.03:926][952]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003677s)
+[2022.11.24-23.03.03:926][952]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2 to /Game/Cosas/UEDPIE_0_FirstPersonMap_2.FirstPersonMap_2 (0.003744s)
+[2022.11.24-23.03.03:926][952]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.24-23.03.03:927][952]LogAIModule: Creating AISystem for world FirstPersonMap_2
+[2022.11.24-23.03.03:927][952]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.11.24-23.03.03:928][952]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.11.24-23.03.03:928][952]LogWorldPartition: Display: WorldPartition initialize took 959 us
+[2022.11.24-23.03.03:928][952]LogPlayLevel: PIE: World Init took: (0.002124s)
+[2022.11.24-23.03.03:974][952]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.11.24-23.03.03:977][952]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.11.24-23.03.03:977][952]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.24-23.03.03:977][952]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.24-23.03.03:977][952]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.24-23.03.03:977][952]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.24-23.03.03:977][952]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.24-23.03.03:977][952]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.24-23.03.03:977][952]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.24-23.03.03:977][952]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.24-23.03.03:977][952]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.24-23.03.03:977][952]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.24-23.03.03:977][952]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.24-23.03.03:980][952]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.24-23.03.04:004][952]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (2- Black Shark Goblin X4 USB Dongle)
+[2022.11.24-23.03.04:004][952]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.24-23.03.04:004][952]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.24-23.03.04:004][952]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.24-23.03.04:005][952]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2022.11.24-23.03.04:005][952]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2022.11.24-23.03.04:007][952]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2022.11.24-23.03.04:007][952]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2022.11.24-23.03.04:007][952]LogInit: FAudioDevice initialized.
+[2022.11.24-23.03.04:007][952]LogAudio: Display: Audio Device (ID: 10) registered with world 'FirstPersonMap_2'.
+[2022.11.24-23.03.04:086][952]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-23.03.04:086][952]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.11.24-23.03.04:089][952]LogWorld: Bringing World /Game/Cosas/UEDPIE_0_FirstPersonMap_2.FirstPersonMap_2 up for play (max tick rate 60) at 2022.11.25-00.03.04
+[2022.11.24-23.03.04:090][952]LogWorld: Bringing up level for play took: 0.002978
+[2022.11.24-23.03.04:093][952]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2022.11.24-23.03.04:095][952]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=2110.000 Y=2460.000 Z=114.839
+[2022.11.24-23.03.04:095][952]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.24-23.03.04:099][952]PIE: Server logged in
+[2022.11.24-23.03.04:102][952]PIE: Play in editor total start time 0.182 seconds.
+[2022.11.24-23.03.04:161][952]LogViewport: Scene viewport resized to 1913x980, mode Windowed.
+[2022.11.24-23.03.10:919][353]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-23.03.10:919][353]LogWorld: BeginTearingDown for /Game/Cosas/UEDPIE_0_FirstPersonMap_2
+[2022.11.24-23.03.10:921][353]LogSlate: Window 'MyProject Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.11.24-23.03.10:926][353]LogWorld: UWorld::CleanupWorld for FirstPersonMap_2, bSessionEnded=true, bCleanupResources=true
+[2022.11.24-23.03.10:927][353]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-23.03.10:961][353]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.24-23.03.10:967][353]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-23.03.11:018][353]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.24-23.03.11:018][353]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2022.11.24-23.03.11:021][353]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2022.11.24-23.03.11:031][353]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2022.11.24-23.03.11:092][354]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.11.24-23.03.24:770][ 55]BlueprintLog: New page: Compile puerta_arriba
+[2022.11.24-23.03.24:851][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.11.24-23.03.25:332][ 72]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cosas/puerta_arriba" FILE="../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/Cosas/puerta_arriba.uasset" SILENT=true
+[2022.11.24-23.03.25:348][ 72]LogSavePackage: Moving output files for package: /Game/Cosas/puerta_arriba
+[2022.11.24-23.03.25:349][ 72]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/puerta_arriba970DD4A34CC1FAA6D58D9E9504977DBD.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/Cosas/puerta_arriba.uasset'
+[2022.11.24-23.03.25:365][ 72]AssetCheck: New page: Asset Save: puerta_arriba
+[2022.11.24-23.03.25:365][ 72]LogContentValidation: Display: Validating Blueprint /Game/Cosas/puerta_arriba.puerta_arriba
+[2022.11.24-23.03.50:104][476]LogViewport: Scene viewport resized to 1139x823, mode Windowed.
+[2022.11.24-23.04.24:444][396]BlueprintLog: New page: Compile puerta_arriba
+[2022.11.24-23.04.24:532][396]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2022.11.24-23.04.25:006][411]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cosas/puerta_arriba" FILE="../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/Cosas/puerta_arriba.uasset" SILENT=true
+[2022.11.24-23.04.25:023][411]LogSavePackage: Moving output files for package: /Game/Cosas/puerta_arriba
+[2022.11.24-23.04.25:024][411]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/puerta_arriba5BD023BF479B2265FAA366AFDB48E5F9.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/Cosas/puerta_arriba.uasset'
+[2022.11.24-23.04.25:041][411]AssetCheck: New page: Asset Save: puerta_arriba
+[2022.11.24-23.04.25:041][411]LogContentValidation: Display: Validating Blueprint /Game/Cosas/puerta_arriba.puerta_arriba
+[2022.11.24-23.04.27:246][537]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.11.24-23.04.27:256][537]LogWorldPartition: Display: GenerateStreaming started...
+[2022.11.24-23.04.27:256][537]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.11.24-23.04.27:256][537]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.24-23.04.27:256][537]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.11.24-23.04.27:257][537]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.11.24-23.04.27:257][537]LogWorldPartition: Display: GetPartitionedActors took 133 us
+[2022.11.24-23.04.27:257][537]LogWorldPartition: Display: GenerateStreaming took 469 us
+[2022.11.24-23.04.27:257][537]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.24-23.04.27:257][537]PIE: New page: PIE session: FirstPersonMap_2 (Nov 25, 2022, 1:04:27 AM)
+[2022.11.24-23.04.27:257][537]LogPlayLevel: Creating play world package: /Game/Cosas/UEDPIE_0_FirstPersonMap_2
+[2022.11.24-23.04.27:262][537]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.11.24-23.04.27:262][537]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004869s)
+[2022.11.24-23.04.27:262][537]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2 to /Game/Cosas/UEDPIE_0_FirstPersonMap_2.FirstPersonMap_2 (0.004975s)
+[2022.11.24-23.04.27:262][537]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.24-23.04.27:263][537]LogAIModule: Creating AISystem for world FirstPersonMap_2
+[2022.11.24-23.04.27:263][537]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.11.24-23.04.27:263][537]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.11.24-23.04.27:264][537]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.11.24-23.04.27:264][537]LogPlayLevel: PIE: World Init took: (0.002296s)
+[2022.11.24-23.04.27:312][537]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2022.11.24-23.04.27:315][537]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.11.24-23.04.27:316][537]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.24-23.04.27:316][537]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.24-23.04.27:316][537]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.24-23.04.27:316][537]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.24-23.04.27:316][537]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.24-23.04.27:316][537]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.24-23.04.27:316][537]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.24-23.04.27:316][537]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.24-23.04.27:316][537]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.24-23.04.27:316][537]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.24-23.04.27:316][537]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.24-23.04.27:318][537]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.24-23.04.27:343][537]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (2- Black Shark Goblin X4 USB Dongle)
+[2022.11.24-23.04.27:343][537]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.24-23.04.27:343][537]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.24-23.04.27:343][537]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.24-23.04.27:345][537]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2022.11.24-23.04.27:345][537]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2022.11.24-23.04.27:347][537]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2022.11.24-23.04.27:347][537]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2022.11.24-23.04.27:347][537]LogInit: FAudioDevice initialized.
+[2022.11.24-23.04.27:347][537]LogAudio: Display: Audio Device (ID: 11) registered with world 'FirstPersonMap_2'.
+[2022.11.24-23.04.27:428][537]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-23.04.27:429][537]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.11.24-23.04.27:429][537]LogWorld: Bringing World /Game/Cosas/UEDPIE_0_FirstPersonMap_2.FirstPersonMap_2 up for play (max tick rate 60) at 2022.11.25-00.04.27
+[2022.11.24-23.04.27:429][537]LogWorld: Bringing up level for play took: 0.001636
+[2022.11.24-23.04.27:434][537]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2022.11.24-23.04.27:436][537]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=2110.000 Y=2460.000 Z=114.839
+[2022.11.24-23.04.27:436][537]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.24-23.04.27:441][537]PIE: Server logged in
+[2022.11.24-23.04.27:446][537]PIE: Play in editor total start time 0.192 seconds.
+[2022.11.24-23.04.27:528][537]LogViewport: Scene viewport resized to 1913x980, mode Windowed.
+[2022.11.24-23.04.54:119][953]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-23.04.54:119][953]LogWorld: BeginTearingDown for /Game/Cosas/UEDPIE_0_FirstPersonMap_2
+[2022.11.24-23.04.54:120][953]LogSlate: Window 'MyProject Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.11.24-23.04.54:126][953]LogWorld: UWorld::CleanupWorld for FirstPersonMap_2, bSessionEnded=true, bCleanupResources=true
+[2022.11.24-23.04.54:128][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-23.04.54:159][953]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.24-23.04.54:164][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-23.04.54:215][953]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2022.11.24-23.04.54:217][953]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2022.11.24-23.04.54:226][953]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2022.11.24-23.04.54:269][954]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2022.11.24-23.05.28:457][860]BlueprintLog: New page: Compile puerta_arriba
+[2022.11.24-23.05.28:546][860]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2022.11.24-23.05.29:031][877]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cosas/puerta_arriba" FILE="../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/Cosas/puerta_arriba.uasset" SILENT=true
+[2022.11.24-23.05.29:048][877]LogSavePackage: Moving output files for package: /Game/Cosas/puerta_arriba
+[2022.11.24-23.05.29:049][877]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/puerta_arribaC1F6431540EB4210F1CBB68C43FCC028.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/Cosas/puerta_arriba.uasset'
+[2022.11.24-23.05.29:064][877]AssetCheck: New page: Asset Save: puerta_arriba
+[2022.11.24-23.05.29:064][877]LogContentValidation: Display: Validating Blueprint /Game/Cosas/puerta_arriba.puerta_arriba
+[2022.11.24-23.05.37:071][345]BlueprintLog: New page: Compile puerta_arriba
+[2022.11.24-23.05.37:178][345]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2022.11.24-23.05.37:631][359]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cosas/puerta_arriba" FILE="../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/Cosas/puerta_arriba.uasset" SILENT=true
+[2022.11.24-23.05.37:647][359]LogSavePackage: Moving output files for package: /Game/Cosas/puerta_arriba
+[2022.11.24-23.05.37:649][359]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/puerta_arribaFBBB0D894762281E797DC8A03DE2B1F2.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/Cosas/puerta_arriba.uasset'
+[2022.11.24-23.05.37:666][359]AssetCheck: New page: Asset Save: puerta_arriba
+[2022.11.24-23.05.37:666][359]LogContentValidation: Display: Validating Blueprint /Game/Cosas/puerta_arriba.puerta_arriba
+[2022.11.24-23.05.44:368][724]LogViewport: Scene viewport resized to 1139x825, mode Windowed.
+[2022.11.24-23.05.53:220][223]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.24-23.05.53:220][223]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.24-23.05.55:089][309]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.24-23.05.55:089][309]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.24-23.05.56:042][365]LogContentBrowser: Deferred new asset file creation: puerta_arriba1
+[2022.11.24-23.05.56:100][365]LogContentBrowser: Creating deferred item: puerta_arriba1
+[2022.11.24-23.05.56:115][366]LogContentBrowser: Renaming the item being created (Deferred Item: puerta_arriba1).
+[2022.11.24-23.05.56:539][392]LogContentBrowser: Attempting asset rename: puerta_arriba1 -> puerta_arriba1
+[2022.11.24-23.05.56:615][392]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2022.11.24-23.05.56:635][392]LogContentBrowser: End creating deferred item puerta_arriba1
+[2022.11.24-23.05.57:183][418]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Cosas/puerta_arriba1.puerta_arriba1
+[2022.11.24-23.05.57:183][418]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.24-23.06.35:081][541]BlueprintLog: New page: Compile puerta_arriba1
+[2022.11.24-23.06.35:172][541]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2022.11.24-23.06.35:706][564]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cosas/puerta_arriba1" FILE="../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/Cosas/puerta_arriba1.uasset" SILENT=true
+[2022.11.24-23.06.35:717][564]LogSavePackage: Moving output files for package: /Game/Cosas/puerta_arriba1
+[2022.11.24-23.06.35:717][564]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/puerta_arriba10253150E4BF1592664B5B4B6141C8B54.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/Cosas/puerta_arriba1.uasset'
+[2022.11.24-23.06.35:736][564]AssetCheck: New page: Asset Save: puerta_arriba1
+[2022.11.24-23.06.35:736][564]LogContentValidation: Display: Validating Blueprint /Game/Cosas/puerta_arriba1.puerta_arriba1
+[2022.11.24-23.06.59:009][903]LogSlate: Took 0.000276 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.11.24-23.07.06:910][345]BlueprintLog: New page: Compile puerta_arriba1
+[2022.11.24-23.07.06:999][345]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2022.11.24-23.07.07:397][359]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cosas/puerta_arriba1" FILE="../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/Cosas/puerta_arriba1.uasset" SILENT=true
+[2022.11.24-23.07.07:408][359]LogSavePackage: Moving output files for package: /Game/Cosas/puerta_arriba1
+[2022.11.24-23.07.07:409][359]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/puerta_arriba1C3FFAE4441883F1DFDE9399AA970D798.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/Cosas/puerta_arriba1.uasset'
+[2022.11.24-23.07.07:427][359]AssetCheck: New page: Asset Save: puerta_arriba1
+[2022.11.24-23.07.07:427][359]LogContentValidation: Display: Validating Blueprint /Game/Cosas/puerta_arriba1.puerta_arriba1
+[2022.11.24-23.07.30:790][583]BlueprintLog: New page: Compile puerta_arriba1
+[2022.11.24-23.07.30:884][583]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2022.11.24-23.07.31:330][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cosas/puerta_arriba1" FILE="../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/Cosas/puerta_arriba1.uasset" SILENT=true
+[2022.11.24-23.07.31:342][599]LogSavePackage: Moving output files for package: /Game/Cosas/puerta_arriba1
+[2022.11.24-23.07.31:343][599]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/puerta_arriba1975F296943F0CE6A2693B3AB8F9B8F5B.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/Cosas/puerta_arriba1.uasset'
+[2022.11.24-23.07.31:362][599]AssetCheck: New page: Asset Save: puerta_arriba1
+[2022.11.24-23.07.31:362][599]LogContentValidation: Display: Validating Blueprint /Game/Cosas/puerta_arriba1.puerta_arriba1
+[2022.11.24-23.07.49:789][698]BlueprintLog: New page: Compile puerta_arriba1
+[2022.11.24-23.07.49:880][698]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2022.11.24-23.07.50:396][720]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cosas/puerta_arriba1" FILE="../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/Cosas/puerta_arriba1.uasset" SILENT=true
+[2022.11.24-23.07.50:408][720]LogSavePackage: Moving output files for package: /Game/Cosas/puerta_arriba1
+[2022.11.24-23.07.50:409][720]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/puerta_arriba1BEC7A0884B31BC553AF53EA135ECDAA2.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/Cosas/puerta_arriba1.uasset'
+[2022.11.24-23.07.50:428][720]AssetCheck: New page: Asset Save: puerta_arriba1
+[2022.11.24-23.07.50:428][720]LogContentValidation: Display: Validating Blueprint /Game/Cosas/puerta_arriba1.puerta_arriba1
+[2022.11.24-23.08.35:413][244]BlueprintLog: New page: Compile puerta_arriba1
+[2022.11.24-23.08.35:507][244]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2022.11.24-23.08.36:092][269]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cosas/puerta_arriba1" FILE="../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/Cosas/puerta_arriba1.uasset" SILENT=true
+[2022.11.24-23.08.36:106][269]LogSavePackage: Moving output files for package: /Game/Cosas/puerta_arriba1
+[2022.11.24-23.08.36:107][269]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/puerta_arriba1E9914EDF4EBF137FEE454CBC8A74AB2D.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/Cosas/puerta_arriba1.uasset'
+[2022.11.24-23.08.36:126][269]AssetCheck: New page: Asset Save: puerta_arriba1
+[2022.11.24-23.08.36:126][269]LogContentValidation: Display: Validating Blueprint /Game/Cosas/puerta_arriba1.puerta_arriba1
+[2022.11.24-23.08.47:092][879]BlueprintLog: New page: Compile puerta_arriba1
+[2022.11.24-23.08.47:180][879]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2022.11.24-23.08.47:623][895]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cosas/puerta_arriba1" FILE="../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/Cosas/puerta_arriba1.uasset" SILENT=true
+[2022.11.24-23.08.47:638][895]LogSavePackage: Moving output files for package: /Game/Cosas/puerta_arriba1
+[2022.11.24-23.08.47:638][895]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/puerta_arriba14476E47A46A8AF647D515A8FE8050D78.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/Cosas/puerta_arriba1.uasset'
+[2022.11.24-23.08.47:659][895]AssetCheck: New page: Asset Save: puerta_arriba1
+[2022.11.24-23.08.47:659][895]LogContentValidation: Display: Validating Blueprint /Game/Cosas/puerta_arriba1.puerta_arriba1
+[2022.11.24-23.08.49:411][998]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.11.24-23.08.49:420][998]LogWorldPartition: Display: GenerateStreaming started...
+[2022.11.24-23.08.49:420][998]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.11.24-23.08.49:420][998]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.24-23.08.49:420][998]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.11.24-23.08.49:420][998]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.11.24-23.08.49:421][998]LogWorldPartition: Display: GetPartitionedActors took 96 us
+[2022.11.24-23.08.49:421][998]LogWorldPartition: Display: GenerateStreaming took 280 us
+[2022.11.24-23.08.49:421][998]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.24-23.08.49:421][998]PIE: New page: PIE session: FirstPersonMap_2 (Nov 25, 2022, 1:08:49 AM)
+[2022.11.24-23.08.49:421][998]LogPlayLevel: Creating play world package: /Game/Cosas/UEDPIE_0_FirstPersonMap_2
+[2022.11.24-23.08.49:425][998]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.11.24-23.08.49:425][998]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003701s)
+[2022.11.24-23.08.49:425][998]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2 to /Game/Cosas/UEDPIE_0_FirstPersonMap_2.FirstPersonMap_2 (0.003768s)
+[2022.11.24-23.08.49:425][998]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.24-23.08.49:425][998]LogAIModule: Creating AISystem for world FirstPersonMap_2
+[2022.11.24-23.08.49:426][998]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.11.24-23.08.49:426][998]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.11.24-23.08.49:427][998]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.11.24-23.08.49:427][998]LogPlayLevel: PIE: World Init took: (0.002285s)
+[2022.11.24-23.08.49:486][998]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2022.11.24-23.08.49:488][998]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2022.11.24-23.08.49:488][998]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.24-23.08.49:488][998]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.24-23.08.49:488][998]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.24-23.08.49:488][998]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.24-23.08.49:488][998]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.24-23.08.49:488][998]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.24-23.08.49:488][998]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.24-23.08.49:488][998]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.24-23.08.49:489][998]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.24-23.08.49:489][998]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.24-23.08.49:489][998]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.24-23.08.49:491][998]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.24-23.08.49:517][998]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (2- Black Shark Goblin X4 USB Dongle)
+[2022.11.24-23.08.49:517][998]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.24-23.08.49:517][998]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.24-23.08.49:517][998]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.24-23.08.49:517][998]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2022.11.24-23.08.49:517][998]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2022.11.24-23.08.49:519][998]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2022.11.24-23.08.49:519][998]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2022.11.24-23.08.49:519][998]LogInit: FAudioDevice initialized.
+[2022.11.24-23.08.49:519][998]LogAudio: Display: Audio Device (ID: 12) registered with world 'FirstPersonMap_2'.
+[2022.11.24-23.08.49:593][998]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-23.08.49:593][998]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.11.24-23.08.49:594][998]LogWorld: Bringing World /Game/Cosas/UEDPIE_0_FirstPersonMap_2.FirstPersonMap_2 up for play (max tick rate 60) at 2022.11.25-00.08.49
+[2022.11.24-23.08.49:594][998]LogWorld: Bringing up level for play took: 0.001988
+[2022.11.24-23.08.49:598][998]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2022.11.24-23.08.49:599][998]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=2110.000 Y=2460.000 Z=114.839
+[2022.11.24-23.08.49:599][998]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.24-23.08.49:602][998]PIE: Server logged in
+[2022.11.24-23.08.49:604][998]PIE: Play in editor total start time 0.186 seconds.
+[2022.11.24-23.08.49:681][998]LogViewport: Scene viewport resized to 1913x980, mode Windowed.
+[2022.11.24-23.08.55:499][344]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-23.08.55:499][344]LogWorld: BeginTearingDown for /Game/Cosas/UEDPIE_0_FirstPersonMap_2
+[2022.11.24-23.08.55:499][344]LogSlate: Window 'MyProject Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.11.24-23.08.55:508][344]LogWorld: UWorld::CleanupWorld for FirstPersonMap_2, bSessionEnded=true, bCleanupResources=true
+[2022.11.24-23.08.55:508][344]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-23.08.55:539][344]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.24-23.08.55:545][344]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-23.08.55:604][344]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2022.11.24-23.08.55:606][344]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2022.11.24-23.08.55:614][344]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.11.24-23.08.55:670][345]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2022.11.24-23.09.14:028][342]BlueprintLog: New page: Compile puerta_arriba1
+[2022.11.24-23.09.14:123][342]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2022.11.24-23.09.14:668][364]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cosas/puerta_arriba1" FILE="../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/Cosas/puerta_arriba1.uasset" SILENT=true
+[2022.11.24-23.09.14:682][364]LogSavePackage: Moving output files for package: /Game/Cosas/puerta_arriba1
+[2022.11.24-23.09.14:683][364]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/puerta_arriba1945F83014EE771105044E48C9044D6B0.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/Cosas/puerta_arriba1.uasset'
+[2022.11.24-23.09.14:702][364]AssetCheck: New page: Asset Save: puerta_arriba1
+[2022.11.24-23.09.14:702][364]LogContentValidation: Display: Validating Blueprint /Game/Cosas/puerta_arriba1.puerta_arriba1
+[2022.11.24-23.09.19:832][500]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.11.24-23.09.19:841][500]LogWorldPartition: Display: GenerateStreaming started...
+[2022.11.24-23.09.19:841][500]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.11.24-23.09.19:841][500]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.24-23.09.19:841][500]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.11.24-23.09.19:841][500]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.11.24-23.09.19:841][500]LogWorldPartition: Display: GetPartitionedActors took 68 us
+[2022.11.24-23.09.19:842][500]LogWorldPartition: Display: GenerateStreaming took 270 us
+[2022.11.24-23.09.19:842][500]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.24-23.09.19:842][500]PIE: New page: PIE session: FirstPersonMap_2 (Nov 25, 2022, 1:09:19 AM)
+[2022.11.24-23.09.19:842][500]LogPlayLevel: Creating play world package: /Game/Cosas/UEDPIE_0_FirstPersonMap_2
+[2022.11.24-23.09.19:847][500]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.11.24-23.09.19:847][500]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006038s)
+[2022.11.24-23.09.19:848][500]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2 to /Game/Cosas/UEDPIE_0_FirstPersonMap_2.FirstPersonMap_2 (0.006148s)
+[2022.11.24-23.09.19:849][500]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.24-23.09.19:849][500]LogAIModule: Creating AISystem for world FirstPersonMap_2
+[2022.11.24-23.09.19:849][500]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.11.24-23.09.19:849][500]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.11.24-23.09.19:851][500]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.11.24-23.09.19:851][500]LogPlayLevel: PIE: World Init took: (0.002562s)
+[2022.11.24-23.09.19:911][500]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2022.11.24-23.09.19:913][500]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2022.11.24-23.09.19:913][500]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.24-23.09.19:913][500]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.24-23.09.19:913][500]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.24-23.09.19:914][500]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.24-23.09.19:914][500]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.24-23.09.19:914][500]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.24-23.09.19:914][500]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.24-23.09.19:914][500]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.24-23.09.19:914][500]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.24-23.09.19:914][500]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.24-23.09.19:914][500]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.24-23.09.19:916][500]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.24-23.09.19:943][500]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (2- Black Shark Goblin X4 USB Dongle)
+[2022.11.24-23.09.19:943][500]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.24-23.09.19:943][500]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.24-23.09.19:943][500]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.24-23.09.19:944][500]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2022.11.24-23.09.19:944][500]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2022.11.24-23.09.19:946][500]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2022.11.24-23.09.19:946][500]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2022.11.24-23.09.19:946][500]LogInit: FAudioDevice initialized.
+[2022.11.24-23.09.19:946][500]LogAudio: Display: Audio Device (ID: 13) registered with world 'FirstPersonMap_2'.
+[2022.11.24-23.09.20:024][500]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-23.09.20:024][500]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.11.24-23.09.20:027][500]LogWorld: Bringing World /Game/Cosas/UEDPIE_0_FirstPersonMap_2.FirstPersonMap_2 up for play (max tick rate 60) at 2022.11.25-00.09.20
+[2022.11.24-23.09.20:027][500]LogWorld: Bringing up level for play took: 0.002205
+[2022.11.24-23.09.20:030][500]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2022.11.24-23.09.20:031][500]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=2110.000 Y=2460.000 Z=114.839
+[2022.11.24-23.09.20:031][500]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.24-23.09.20:034][500]PIE: Server logged in
+[2022.11.24-23.09.20:038][500]PIE: Play in editor total start time 0.198 seconds.
+[2022.11.24-23.09.20:111][500]LogViewport: Scene viewport resized to 1913x980, mode Windowed.
+[2022.11.24-23.09.23:529][699]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-23.09.23:529][699]LogWorld: BeginTearingDown for /Game/Cosas/UEDPIE_0_FirstPersonMap_2
+[2022.11.24-23.09.23:530][699]LogSlate: Window 'MyProject Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.11.24-23.09.23:542][699]LogWorld: UWorld::CleanupWorld for FirstPersonMap_2, bSessionEnded=true, bCleanupResources=true
+[2022.11.24-23.09.23:543][699]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-23.09.23:559][699]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.24-23.09.23:565][699]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-23.09.23:626][699]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.24-23.09.23:627][699]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2022.11.24-23.09.23:628][699]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2022.11.24-23.09.23:636][699]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2022.11.24-23.09.23:690][700]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2022.11.24-23.09.30:171][ 12]BlueprintLog: New page: Compile puerta_arriba1
+[2022.11.24-23.09.30:270][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2022.11.24-23.09.30:649][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cosas/puerta_arriba1" FILE="../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/Cosas/puerta_arriba1.uasset" SILENT=true
+[2022.11.24-23.09.30:662][ 24]LogSavePackage: Moving output files for package: /Game/Cosas/puerta_arriba1
+[2022.11.24-23.09.30:662][ 24]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/puerta_arriba10F17E2804933A9F5659FD58BEB047011.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/Cosas/puerta_arriba1.uasset'
+[2022.11.24-23.09.30:681][ 24]AssetCheck: New page: Asset Save: puerta_arriba1
+[2022.11.24-23.09.30:681][ 24]LogContentValidation: Display: Validating Blueprint /Game/Cosas/puerta_arriba1.puerta_arriba1
+[2022.11.24-23.09.46:674][934]BlueprintLog: New page: Compile puerta_arriba1
+[2022.11.24-23.09.46:772][934]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2022.11.24-23.09.47:216][951]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cosas/puerta_arriba1" FILE="../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/Cosas/puerta_arriba1.uasset" SILENT=true
+[2022.11.24-23.09.47:234][951]LogSavePackage: Moving output files for package: /Game/Cosas/puerta_arriba1
+[2022.11.24-23.09.47:235][951]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/puerta_arriba153B12E604F58FCC722CC3F8FB66A0C75.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/Cosas/puerta_arriba1.uasset'
+[2022.11.24-23.09.47:257][951]AssetCheck: New page: Asset Save: puerta_arriba1
+[2022.11.24-23.09.47:257][951]LogContentValidation: Display: Validating Blueprint /Game/Cosas/puerta_arriba1.puerta_arriba1
+[2022.11.24-23.09.49:711][ 93]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.11.24-23.09.49:720][ 93]LogWorldPartition: Display: GenerateStreaming started...
+[2022.11.24-23.09.49:720][ 93]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.11.24-23.09.49:720][ 93]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.24-23.09.49:720][ 93]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.11.24-23.09.49:720][ 93]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.11.24-23.09.49:720][ 93]LogWorldPartition: Display: GetPartitionedActors took 71 us
+[2022.11.24-23.09.49:721][ 93]LogWorldPartition: Display: GenerateStreaming took 278 us
+[2022.11.24-23.09.49:721][ 93]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.24-23.09.49:721][ 93]PIE: New page: PIE session: FirstPersonMap_2 (Nov 25, 2022, 1:09:49 AM)
+[2022.11.24-23.09.49:721][ 93]LogPlayLevel: Creating play world package: /Game/Cosas/UEDPIE_0_FirstPersonMap_2
+[2022.11.24-23.09.49:724][ 93]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.11.24-23.09.49:724][ 93]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003713s)
+[2022.11.24-23.09.49:724][ 93]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2 to /Game/Cosas/UEDPIE_0_FirstPersonMap_2.FirstPersonMap_2 (0.003783s)
+[2022.11.24-23.09.49:724][ 93]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.24-23.09.49:725][ 93]LogAIModule: Creating AISystem for world FirstPersonMap_2
+[2022.11.24-23.09.49:725][ 93]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.11.24-23.09.49:725][ 93]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.11.24-23.09.49:726][ 93]LogWorldPartition: Display: WorldPartition initialize took 939 us
+[2022.11.24-23.09.49:726][ 93]LogPlayLevel: PIE: World Init took: (0.002028s)
+[2022.11.24-23.09.49:785][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2022.11.24-23.09.49:787][ 93]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2022.11.24-23.09.49:787][ 93]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.24-23.09.49:787][ 93]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.24-23.09.49:787][ 93]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.24-23.09.49:787][ 93]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.24-23.09.49:787][ 93]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.24-23.09.49:787][ 93]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.24-23.09.49:787][ 93]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.24-23.09.49:787][ 93]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.24-23.09.49:788][ 93]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.24-23.09.49:788][ 93]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.24-23.09.49:788][ 93]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.24-23.09.49:791][ 93]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.24-23.09.49:818][ 93]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (2- Black Shark Goblin X4 USB Dongle)
+[2022.11.24-23.09.49:818][ 93]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.24-23.09.49:818][ 93]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.24-23.09.49:818][ 93]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.24-23.09.49:819][ 93]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2022.11.24-23.09.49:819][ 93]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2022.11.24-23.09.49:821][ 93]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2022.11.24-23.09.49:821][ 93]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2022.11.24-23.09.49:821][ 93]LogInit: FAudioDevice initialized.
+[2022.11.24-23.09.49:821][ 93]LogAudio: Display: Audio Device (ID: 14) registered with world 'FirstPersonMap_2'.
+[2022.11.24-23.09.49:902][ 93]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-23.09.49:902][ 93]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.11.24-23.09.49:904][ 93]LogWorld: Bringing World /Game/Cosas/UEDPIE_0_FirstPersonMap_2.FirstPersonMap_2 up for play (max tick rate 60) at 2022.11.25-00.09.49
+[2022.11.24-23.09.49:905][ 93]LogWorld: Bringing up level for play took: 0.002349
+[2022.11.24-23.09.49:907][ 93]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2022.11.24-23.09.49:909][ 93]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=2110.000 Y=2460.000 Z=114.839
+[2022.11.24-23.09.49:909][ 93]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.24-23.09.49:912][ 93]PIE: Server logged in
+[2022.11.24-23.09.49:914][ 93]PIE: Play in editor total start time 0.196 seconds.
+[2022.11.24-23.09.49:985][ 93]LogViewport: Scene viewport resized to 1913x980, mode Windowed.
+[2022.11.24-23.09.52:528][242]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-23.09.52:528][242]LogWorld: BeginTearingDown for /Game/Cosas/UEDPIE_0_FirstPersonMap_2
+[2022.11.24-23.09.52:529][242]LogSlate: Window 'MyProject Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.11.24-23.09.52:539][242]LogWorld: UWorld::CleanupWorld for FirstPersonMap_2, bSessionEnded=true, bCleanupResources=true
+[2022.11.24-23.09.52:540][242]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-23.09.52:554][242]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.24-23.09.52:560][242]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-23.09.52:624][242]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2022.11.24-23.09.52:626][242]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2022.11.24-23.09.52:642][242]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.11.24-23.09.52:696][243]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2022.11.24-23.10.14:953][400]BlueprintLog: New page: Compile puerta_arriba1
+[2022.11.24-23.10.15:047][400]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2022.11.24-23.10.15:526][418]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cosas/puerta_arriba1" FILE="../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/Cosas/puerta_arriba1.uasset" SILENT=true
+[2022.11.24-23.10.15:542][418]LogSavePackage: Moving output files for package: /Game/Cosas/puerta_arriba1
+[2022.11.24-23.10.15:543][418]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/puerta_arriba123C89F6746B248F5F1E23AA2F0C023EA.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/Cosas/puerta_arriba1.uasset'
+[2022.11.24-23.10.15:564][418]AssetCheck: New page: Asset Save: puerta_arriba1
+[2022.11.24-23.10.15:564][418]LogContentValidation: Display: Validating Blueprint /Game/Cosas/puerta_arriba1.puerta_arriba1
+[2022.11.24-23.10.17:084][507]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.11.24-23.10.17:093][507]LogWorldPartition: Display: GenerateStreaming started...
+[2022.11.24-23.10.17:093][507]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.11.24-23.10.17:093][507]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.24-23.10.17:093][507]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.11.24-23.10.17:093][507]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.11.24-23.10.17:093][507]LogWorldPartition: Display: GetPartitionedActors took 66 us
+[2022.11.24-23.10.17:094][507]LogWorldPartition: Display: GenerateStreaming took 288 us
+[2022.11.24-23.10.17:094][507]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.24-23.10.17:094][507]PIE: New page: PIE session: FirstPersonMap_2 (Nov 25, 2022, 1:10:17 AM)
+[2022.11.24-23.10.17:094][507]LogPlayLevel: Creating play world package: /Game/Cosas/UEDPIE_0_FirstPersonMap_2
+[2022.11.24-23.10.17:098][507]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.11.24-23.10.17:098][507]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004443s)
+[2022.11.24-23.10.17:098][507]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2 to /Game/Cosas/UEDPIE_0_FirstPersonMap_2.FirstPersonMap_2 (0.004514s)
+[2022.11.24-23.10.17:098][507]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.24-23.10.17:099][507]LogAIModule: Creating AISystem for world FirstPersonMap_2
+[2022.11.24-23.10.17:100][507]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.11.24-23.10.17:100][507]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.11.24-23.10.17:100][507]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.11.24-23.10.17:100][507]LogPlayLevel: PIE: World Init took: (0.002232s)
+[2022.11.24-23.10.17:161][507]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2022.11.24-23.10.17:163][507]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2022.11.24-23.10.17:163][507]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.24-23.10.17:163][507]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.24-23.10.17:163][507]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.24-23.10.17:163][507]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.24-23.10.17:163][507]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.24-23.10.17:163][507]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.24-23.10.17:163][507]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.24-23.10.17:163][507]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.24-23.10.17:163][507]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.24-23.10.17:164][507]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.24-23.10.17:164][507]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.24-23.10.17:166][507]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.24-23.10.17:193][507]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (2- Black Shark Goblin X4 USB Dongle)
+[2022.11.24-23.10.17:194][507]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.24-23.10.17:194][507]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.24-23.10.17:194][507]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.24-23.10.17:195][507]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2022.11.24-23.10.17:195][507]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2022.11.24-23.10.17:197][507]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2022.11.24-23.10.17:197][507]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2022.11.24-23.10.17:197][507]LogInit: FAudioDevice initialized.
+[2022.11.24-23.10.17:197][507]LogAudio: Display: Audio Device (ID: 15) registered with world 'FirstPersonMap_2'.
+[2022.11.24-23.10.17:281][507]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-23.10.17:281][507]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.11.24-23.10.17:282][507]LogWorld: Bringing World /Game/Cosas/UEDPIE_0_FirstPersonMap_2.FirstPersonMap_2 up for play (max tick rate 60) at 2022.11.25-00.10.17
+[2022.11.24-23.10.17:283][507]LogWorld: Bringing up level for play took: 0.001505
+[2022.11.24-23.10.17:286][507]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2022.11.24-23.10.17:287][507]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=2110.000 Y=2460.000 Z=114.839
+[2022.11.24-23.10.17:287][507]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.24-23.10.17:291][507]PIE: Server logged in
+[2022.11.24-23.10.17:293][507]PIE: Play in editor total start time 0.202 seconds.
+[2022.11.24-23.10.17:366][507]LogViewport: Scene viewport resized to 1913x980, mode Windowed.
+[2022.11.24-23.10.19:158][611]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-23.10.19:158][611]LogWorld: BeginTearingDown for /Game/Cosas/UEDPIE_0_FirstPersonMap_2
+[2022.11.24-23.10.19:159][611]LogSlate: Window 'MyProject Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.11.24-23.10.19:169][611]LogWorld: UWorld::CleanupWorld for FirstPersonMap_2, bSessionEnded=true, bCleanupResources=true
+[2022.11.24-23.10.19:170][611]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-23.10.19:185][611]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.24-23.10.19:191][611]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-23.10.19:251][611]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.24-23.10.19:251][611]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2022.11.24-23.10.19:253][611]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2022.11.24-23.10.19:262][611]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2022.11.24-23.10.19:321][612]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2022.11.24-23.10.36:067][501]BlueprintLog: New page: Compile puerta_arriba1
+[2022.11.24-23.10.36:163][501]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2022.11.24-23.10.36:692][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cosas/puerta_arriba1" FILE="../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/Cosas/puerta_arriba1.uasset" SILENT=true
+[2022.11.24-23.10.36:709][524]LogSavePackage: Moving output files for package: /Game/Cosas/puerta_arriba1
+[2022.11.24-23.10.36:710][524]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/puerta_arriba18DEADA2D48790F03847DDA8BC7EDFD0D.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/Cosas/puerta_arriba1.uasset'
+[2022.11.24-23.10.36:730][524]AssetCheck: New page: Asset Save: puerta_arriba1
+[2022.11.24-23.10.36:730][524]LogContentValidation: Display: Validating Blueprint /Game/Cosas/puerta_arriba1.puerta_arriba1
+[2022.11.24-23.10.38:397][614]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.11.24-23.10.38:405][614]LogWorldPartition: Display: GenerateStreaming started...
+[2022.11.24-23.10.38:405][614]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.11.24-23.10.38:405][614]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.24-23.10.38:405][614]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.11.24-23.10.38:405][614]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.11.24-23.10.38:405][614]LogWorldPartition: Display: GetPartitionedActors took 64 us
+[2022.11.24-23.10.38:405][614]LogWorldPartition: Display: GenerateStreaming took 252 us
+[2022.11.24-23.10.38:406][614]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.24-23.10.38:406][614]PIE: New page: PIE session: FirstPersonMap_2 (Nov 25, 2022, 1:10:38 AM)
+[2022.11.24-23.10.38:406][614]LogPlayLevel: Creating play world package: /Game/Cosas/UEDPIE_0_FirstPersonMap_2
+[2022.11.24-23.10.38:409][614]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.11.24-23.10.38:410][614]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004047s)
+[2022.11.24-23.10.38:410][614]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2 to /Game/Cosas/UEDPIE_0_FirstPersonMap_2.FirstPersonMap_2 (0.004163s)
+[2022.11.24-23.10.38:410][614]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.24-23.10.38:410][614]LogAIModule: Creating AISystem for world FirstPersonMap_2
+[2022.11.24-23.10.38:411][614]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.11.24-23.10.38:411][614]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.11.24-23.10.38:412][614]LogWorldPartition: Display: WorldPartition initialize took 901 us
+[2022.11.24-23.10.38:412][614]LogPlayLevel: PIE: World Init took: (0.002109s)
+[2022.11.24-23.10.38:469][614]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2022.11.24-23.10.38:471][614]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2022.11.24-23.10.38:471][614]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.24-23.10.38:472][614]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.24-23.10.38:472][614]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.24-23.10.38:472][614]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.24-23.10.38:472][614]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.24-23.10.38:472][614]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.24-23.10.38:472][614]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.24-23.10.38:472][614]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.24-23.10.38:472][614]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.24-23.10.38:472][614]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.24-23.10.38:472][614]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.24-23.10.38:475][614]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.24-23.10.38:502][614]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (2- Black Shark Goblin X4 USB Dongle)
+[2022.11.24-23.10.38:502][614]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.24-23.10.38:502][614]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.24-23.10.38:502][614]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.24-23.10.38:503][614]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2022.11.24-23.10.38:504][614]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2022.11.24-23.10.38:505][614]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2022.11.24-23.10.38:506][614]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2022.11.24-23.10.38:506][614]LogInit: FAudioDevice initialized.
+[2022.11.24-23.10.38:506][614]LogAudio: Display: Audio Device (ID: 16) registered with world 'FirstPersonMap_2'.
+[2022.11.24-23.10.38:578][614]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-23.10.38:578][614]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.11.24-23.10.38:581][614]LogWorld: Bringing World /Game/Cosas/UEDPIE_0_FirstPersonMap_2.FirstPersonMap_2 up for play (max tick rate 60) at 2022.11.25-00.10.38
+[2022.11.24-23.10.38:581][614]LogWorld: Bringing up level for play took: 0.002924
+[2022.11.24-23.10.38:585][614]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2022.11.24-23.10.38:586][614]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=2110.000 Y=2460.000 Z=114.839
+[2022.11.24-23.10.38:586][614]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.24-23.10.38:590][614]PIE: Server logged in
+[2022.11.24-23.10.38:593][614]PIE: Play in editor total start time 0.188 seconds.
+[2022.11.24-23.10.38:664][614]LogViewport: Scene viewport resized to 1913x980, mode Windowed.
+[2022.11.24-23.10.41:058][755]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-23.10.41:058][755]LogWorld: BeginTearingDown for /Game/Cosas/UEDPIE_0_FirstPersonMap_2
+[2022.11.24-23.10.41:059][755]LogSlate: Window 'MyProject Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.11.24-23.10.41:067][755]LogWorld: UWorld::CleanupWorld for FirstPersonMap_2, bSessionEnded=true, bCleanupResources=true
+[2022.11.24-23.10.41:067][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-23.10.41:084][755]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.24-23.10.41:094][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-23.10.41:157][755]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.24-23.10.41:157][755]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2022.11.24-23.10.41:159][755]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2022.11.24-23.10.41:168][755]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2022.11.24-23.10.41:226][756]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2022.11.24-23.10.49:683][191]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Cosas/puerta_arriba1.puerta_arriba1_C
+[2022.11.24-23.10.49:683][191]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Cosas/puerta_arriba1.puerta_arriba1_C
+[2022.11.24-23.10.49:685][191]LogActorFactory: Actor Factory spawned Blueprint /Game/Cosas/puerta_arriba1.puerta_arriba1 as actor: puerta_arriba1_C /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2:PersistentLevel.puerta_arriba1_C_0
+[2022.11.24-23.10.49:688][191]LogActorFactory: Actor Factory spawned Blueprint /Game/Cosas/puerta_arriba1.puerta_arriba1 as actor: puerta_arriba1_C /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2:PersistentLevel.puerta_arriba1_C_0
+[2022.11.24-23.10.50:654][247]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Cosas/puerta_arriba1.puerta_arriba1_C
+[2022.11.24-23.10.50:654][247]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Cosas/puerta_arriba1.puerta_arriba1_C
+[2022.11.24-23.10.50:657][247]LogActorFactory: Actor Factory spawned Blueprint /Game/Cosas/puerta_arriba1.puerta_arriba1 as actor: puerta_arriba1_C /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2:PersistentLevel.puerta_arriba1_C_UAID_60F677A5D628DE4C01_1488605489
+[2022.11.24-23.10.50:660][247]LogActorFactory: Actor Factory spawned Blueprint /Game/Cosas/puerta_arriba1.puerta_arriba1 as actor: puerta_arriba1_C /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2:PersistentLevel.puerta_arriba1_C_UAID_60F677A5D628DE4C01_1488605489
+[2022.11.24-23.10.59:403][756]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.11.24-23.10.59:412][756]LogWorldPartition: Display: GenerateStreaming started...
+[2022.11.24-23.10.59:412][756]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.11.24-23.10.59:412][756]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.24-23.10.59:412][756]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.11.24-23.10.59:412][756]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.11.24-23.10.59:412][756]LogWorldPartition: Display: GetPartitionedActors took 59 us
+[2022.11.24-23.10.59:413][756]LogWorldPartition: Display: GenerateStreaming took 291 us
+[2022.11.24-23.10.59:422][756]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.24-23.10.59:422][756]PIE: New page: PIE session: FirstPersonMap_2 (Nov 25, 2022, 1:10:59 AM)
+[2022.11.24-23.10.59:422][756]LogPlayLevel: Creating play world package: /Game/Cosas/UEDPIE_0_FirstPersonMap_2
+[2022.11.24-23.10.59:426][756]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.11.24-23.10.59:426][756]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003963s)
+[2022.11.24-23.10.59:426][756]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2 to /Game/Cosas/UEDPIE_0_FirstPersonMap_2.FirstPersonMap_2 (0.004029s)
+[2022.11.24-23.10.59:426][756]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.24-23.10.59:427][756]LogAIModule: Creating AISystem for world FirstPersonMap_2
+[2022.11.24-23.10.59:427][756]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.11.24-23.10.59:427][756]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.11.24-23.10.59:429][756]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.11.24-23.10.59:429][756]LogPlayLevel: PIE: World Init took: (0.002148s)
+[2022.11.24-23.10.59:490][756]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2022.11.24-23.10.59:492][756]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2022.11.24-23.10.59:492][756]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.24-23.10.59:492][756]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.24-23.10.59:492][756]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.24-23.10.59:492][756]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.24-23.10.59:492][756]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.24-23.10.59:492][756]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.24-23.10.59:492][756]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.24-23.10.59:492][756]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.24-23.10.59:493][756]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.24-23.10.59:493][756]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.24-23.10.59:493][756]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.24-23.10.59:495][756]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.24-23.10.59:519][756]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (2- Black Shark Goblin X4 USB Dongle)
+[2022.11.24-23.10.59:520][756]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.24-23.10.59:520][756]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.24-23.10.59:520][756]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.24-23.10.59:521][756]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2022.11.24-23.10.59:521][756]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2022.11.24-23.10.59:523][756]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2022.11.24-23.10.59:523][756]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2022.11.24-23.10.59:523][756]LogInit: FAudioDevice initialized.
+[2022.11.24-23.10.59:523][756]LogAudio: Display: Audio Device (ID: 17) registered with world 'FirstPersonMap_2'.
+[2022.11.24-23.10.59:608][756]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-23.10.59:608][756]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.11.24-23.10.59:610][756]LogWorld: Bringing World /Game/Cosas/UEDPIE_0_FirstPersonMap_2.FirstPersonMap_2 up for play (max tick rate 60) at 2022.11.25-00.10.59
+[2022.11.24-23.10.59:612][756]LogWorld: Bringing up level for play took: 0.002485
+[2022.11.24-23.10.59:614][756]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2022.11.24-23.10.59:616][756]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=2110.000 Y=2460.000 Z=114.839
+[2022.11.24-23.10.59:616][756]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.24-23.10.59:619][756]PIE: Server logged in
+[2022.11.24-23.10.59:620][756]PIE: Play in editor total start time 0.21 seconds.
+[2022.11.24-23.10.59:690][756]LogViewport: Scene viewport resized to 1913x980, mode Windowed.
+[2022.11.24-23.11.12:768][531]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-23.11.12:768][531]LogWorld: BeginTearingDown for /Game/Cosas/UEDPIE_0_FirstPersonMap_2
+[2022.11.24-23.11.12:768][531]LogSlate: Window 'MyProject Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.11.24-23.11.12:779][531]LogWorld: UWorld::CleanupWorld for FirstPersonMap_2, bSessionEnded=true, bCleanupResources=true
+[2022.11.24-23.11.12:779][531]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-23.11.12:796][531]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.24-23.11.12:802][531]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-23.11.12:867][531]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2022.11.24-23.11.12:869][531]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2022.11.24-23.11.12:877][531]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.11.24-23.11.12:925][532]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2022.11.24-23.11.22:498][ 73]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/A/I0/4XRWA5DEKYZM0D8C5LR6G1
+[2022.11.24-23.11.22:499][ 73]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/4XRWA5DEKYZM0D8C5LR6G1F69EE2934EA2F70CCCF8F39CA9F44EFF.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/A/I0/4XRWA5DEKYZM0D8C5LR6G1.uasset'
+[2022.11.24-23.11.22:503][ 73]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/A/WT/U2HOKS6072JT7NT88PLG5Y
+[2022.11.24-23.11.22:503][ 73]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/U2HOKS6072JT7NT88PLG5Y0D74FCC846C2363E11FA6AB2B0E327CB.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/A/WT/U2HOKS6072JT7NT88PLG5Y.uasset'
+[2022.11.24-23.11.22:509][ 73]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/A/84/ILDKLYGZ034LP157UJSOYX
+[2022.11.24-23.11.22:509][ 73]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/ILDKLYGZ034LP157UJSOYX1E13545C49AE21437A00B3A9AE2A9C2A.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/A/84/ILDKLYGZ034LP157UJSOYX.uasset'
+[2022.11.24-23.11.22:531][ 73]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.24-23.11.22:531][ 73]LogContentValidation: Display: Validating PlayerStart /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2:PersistentLevel.PlayerStart_0
+[2022.11.24-23.11.22:531][ 73]LogContentValidation: Display: Validating puerta_arriba_C /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2:PersistentLevel.NewBlueprint_C_UAID_60F677A5D628D44C01_1900374738
+[2022.11.24-23.11.22:531][ 73]LogContentValidation: Display: Validating puerta_arriba1_C /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2:PersistentLevel.puerta_arriba1_C_UAID_60F677A5D628DE4C01_1488605489
+[2022.11.24-23.11.52:495][600]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2022.11.24-23.11.52:497][600]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Cosas/FirstPersonMap_2' took 0.064
+[2022.11.24-23.11.52:497][600]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Cosas/puerta_cerrar] ([1] browsable assets)...
+[2022.11.24-23.11.52:500][600]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Cosas/puerta_cerrar.puerta_cerrar]
+[2022.11.24-23.11.52:500][600]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cosas/puerta_cerrar]
+[2022.11.24-23.11.52:502][600]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Cosas/puerta_cerrar_Auto2
+[2022.11.24-23.11.52:502][600]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/puerta_cerrar_Auto21AFF849A4A7310D62F49C5B1CF259CC9.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/Cosas/puerta_cerrar_Auto2.uasset'
+[2022.11.24-23.11.52:504][600]LogFileHelpers: Auto-saving content packages took 0.006
+[2022.11.24-23.12.03:888][261]BlueprintLog: New page: Compile puerta_arriba1
+[2022.11.24-23.12.03:990][261]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2022.11.24-23.12.04:445][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cosas/puerta_arriba1" FILE="../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/Cosas/puerta_arriba1.uasset" SILENT=true
+[2022.11.24-23.12.04:460][277]LogSavePackage: Moving output files for package: /Game/Cosas/puerta_arriba1
+[2022.11.24-23.12.04:460][277]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/puerta_arriba1F123FFDA4042574421E0E79E187F100C.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/Cosas/puerta_arriba1.uasset'
+[2022.11.24-23.12.04:483][277]AssetCheck: New page: Asset Save: puerta_arriba1
+[2022.11.24-23.12.04:483][277]LogContentValidation: Display: Validating Blueprint /Game/Cosas/puerta_arriba1.puerta_arriba1
+[2022.11.24-23.12.06:235][377]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.11.24-23.12.06:244][377]LogWorldPartition: Display: GenerateStreaming started...
+[2022.11.24-23.12.06:244][377]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.11.24-23.12.06:244][377]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.24-23.12.06:244][377]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.11.24-23.12.06:244][377]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.11.24-23.12.06:244][377]LogWorldPartition: Display: GetPartitionedActors took 63 us
+[2022.11.24-23.12.06:244][377]LogWorldPartition: Display: GenerateStreaming took 246 us
+[2022.11.24-23.12.06:244][377]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.24-23.12.06:244][377]PIE: New page: PIE session: FirstPersonMap_2 (Nov 25, 2022, 1:12:06 AM)
+[2022.11.24-23.12.06:244][377]LogPlayLevel: Creating play world package: /Game/Cosas/UEDPIE_0_FirstPersonMap_2
+[2022.11.24-23.12.06:248][377]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.11.24-23.12.06:248][377]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004244s)
+[2022.11.24-23.12.06:248][377]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2 to /Game/Cosas/UEDPIE_0_FirstPersonMap_2.FirstPersonMap_2 (0.004315s)
+[2022.11.24-23.12.06:248][377]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.24-23.12.06:249][377]LogAIModule: Creating AISystem for world FirstPersonMap_2
+[2022.11.24-23.12.06:250][377]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.11.24-23.12.06:250][377]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.11.24-23.12.06:251][377]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.11.24-23.12.06:251][377]LogPlayLevel: PIE: World Init took: (0.002629s)
+[2022.11.24-23.12.06:311][377]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2022.11.24-23.12.06:313][377]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2022.11.24-23.12.06:313][377]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.24-23.12.06:313][377]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.24-23.12.06:313][377]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.24-23.12.06:313][377]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.24-23.12.06:313][377]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.24-23.12.06:313][377]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.24-23.12.06:313][377]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.24-23.12.06:313][377]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.24-23.12.06:314][377]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.24-23.12.06:314][377]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.24-23.12.06:314][377]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.24-23.12.06:316][377]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.24-23.12.06:342][377]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (2- Black Shark Goblin X4 USB Dongle)
+[2022.11.24-23.12.06:342][377]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.24-23.12.06:342][377]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.24-23.12.06:342][377]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.24-23.12.06:343][377]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2022.11.24-23.12.06:343][377]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2022.11.24-23.12.06:345][377]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2022.11.24-23.12.06:345][377]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2022.11.24-23.12.06:345][377]LogInit: FAudioDevice initialized.
+[2022.11.24-23.12.06:345][377]LogAudio: Display: Audio Device (ID: 18) registered with world 'FirstPersonMap_2'.
+[2022.11.24-23.12.06:419][377]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-23.12.06:419][377]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.11.24-23.12.06:421][377]LogWorld: Bringing World /Game/Cosas/UEDPIE_0_FirstPersonMap_2.FirstPersonMap_2 up for play (max tick rate 60) at 2022.11.25-00.12.06
+[2022.11.24-23.12.06:421][377]LogWorld: Bringing up level for play took: 0.002399
+[2022.11.24-23.12.06:425][377]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2022.11.24-23.12.06:426][377]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=2110.000 Y=2460.000 Z=114.839
+[2022.11.24-23.12.06:426][377]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.24-23.12.06:429][377]PIE: Server logged in
+[2022.11.24-23.12.06:432][377]PIE: Play in editor total start time 0.189 seconds.
+[2022.11.24-23.12.06:511][377]LogViewport: Scene viewport resized to 1913x980, mode Windowed.
+[2022.11.24-23.12.13:128][770]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-23.12.13:128][770]LogWorld: BeginTearingDown for /Game/Cosas/UEDPIE_0_FirstPersonMap_2
+[2022.11.24-23.12.13:129][770]LogSlate: Window 'MyProject Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.11.24-23.12.13:144][770]LogWorld: UWorld::CleanupWorld for FirstPersonMap_2, bSessionEnded=true, bCleanupResources=true
+[2022.11.24-23.12.13:145][770]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-23.12.13:170][770]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.24-23.12.13:177][770]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-23.12.13:240][770]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.24-23.12.13:240][770]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2022.11.24-23.12.13:242][770]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2022.11.24-23.12.13:254][770]LogUObjectHash: Compacting FUObjectHashTables data took   5.00ms
+[2022.11.24-23.12.13:292][771]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2022.11.24-23.12.37:801][ 45]BlueprintLog: New page: Compile puerta_arriba1
+[2022.11.24-23.12.37:917][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2022.11.24-23.12.38:328][ 57]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cosas/puerta_arriba1" FILE="../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/Cosas/puerta_arriba1.uasset" SILENT=true
+[2022.11.24-23.12.38:344][ 57]LogSavePackage: Moving output files for package: /Game/Cosas/puerta_arriba1
+[2022.11.24-23.12.38:345][ 57]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/puerta_arriba170783295493F4E0263D9F087F73E0CB1.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/Cosas/puerta_arriba1.uasset'
+[2022.11.24-23.12.38:365][ 57]AssetCheck: New page: Asset Save: puerta_arriba1
+[2022.11.24-23.12.38:365][ 57]LogContentValidation: Display: Validating Blueprint /Game/Cosas/puerta_arriba1.puerta_arriba1
+[2022.11.24-23.21.59:823][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2022.11.24-23.21.59:830][ 45]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Cosas/FirstPersonMap_2/A/84/ILDKLYGZ034LP157UJSOYX_Auto3
+[2022.11.24-23.21.59:830][ 45]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/ILDKLYGZ034LP157UJSOYX_Auto3B4C1798D4209FFF5AD2AEEAA61D753CA.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/__ExternalActors__/Cosas/FirstPersonMap_2/A/84/ILDKLYGZ034LP157UJSOYX_Auto3.uasset'
+[2022.11.24-23.21.59:832][ 45]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Cosas/FirstPersonMap_2' took 0.077
+[2022.11.24-23.21.59:832][ 45]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.077
+[2022.11.24-23.35.24:687][657]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../../Users/Josué/Downloads/error.wav)
+[2022.11.24-23.35.24:698][657]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave error...
+[2022.11.24-23.35.24:698][657]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Cosas/error.error will be modified from 40 to 40.
+[2022.11.24-23.35.24:702][657]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 55986 while cooking SoundWave /Game/Cosas/error.error.
+[2022.11.24-23.35.24:702][657]LogAudio: Display: Chunk size for SoundWave /Game/Cosas/error.error: 262144
+[2022.11.24-23.35.37:023][255]BlueprintLog: New page: Compile puerta_arriba1
+[2022.11.24-23.35.37:126][255]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2022.11.24-23.35.37:585][268]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cosas/puerta_arriba1" FILE="../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/Cosas/puerta_arriba1.uasset" SILENT=true
+[2022.11.24-23.35.37:600][268]LogSavePackage: Moving output files for package: /Game/Cosas/puerta_arriba1
+[2022.11.24-23.35.37:601][268]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/puerta_arriba1054C1754446311D1129FDE84446BBB1C.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/Cosas/puerta_arriba1.uasset'
+[2022.11.24-23.35.37:622][268]AssetCheck: New page: Asset Save: puerta_arriba1
+[2022.11.24-23.35.37:622][268]LogContentValidation: Display: Validating Blueprint /Game/Cosas/puerta_arriba1.puerta_arriba1
+[2022.11.24-23.35.39:197][357]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.11.24-23.35.39:206][357]LogWorldPartition: Display: GenerateStreaming started...
+[2022.11.24-23.35.39:206][357]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.11.24-23.35.39:206][357]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.24-23.35.39:206][357]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.11.24-23.35.39:206][357]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.11.24-23.35.39:206][357]LogWorldPartition: Display: GetPartitionedActors took 63 us
+[2022.11.24-23.35.39:207][357]LogWorldPartition: Display: GenerateStreaming took 476 us
+[2022.11.24-23.35.39:207][357]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.24-23.35.39:207][357]PIE: New page: PIE session: FirstPersonMap_2 (Nov 25, 2022, 1:35:39 AM)
+[2022.11.24-23.35.39:207][357]LogPlayLevel: Creating play world package: /Game/Cosas/UEDPIE_0_FirstPersonMap_2
+[2022.11.24-23.35.39:212][357]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.11.24-23.35.39:212][357]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004388s)
+[2022.11.24-23.35.39:212][357]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2 to /Game/Cosas/UEDPIE_0_FirstPersonMap_2.FirstPersonMap_2 (0.004469s)
+[2022.11.24-23.35.39:212][357]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.24-23.35.39:212][357]LogAIModule: Creating AISystem for world FirstPersonMap_2
+[2022.11.24-23.35.39:213][357]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.11.24-23.35.39:213][357]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.11.24-23.35.39:214][357]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.11.24-23.35.39:214][357]LogPlayLevel: PIE: World Init took: (0.002195s)
+[2022.11.24-23.35.39:268][357]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2022.11.24-23.35.39:270][357]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2022.11.24-23.35.39:270][357]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.24-23.35.39:270][357]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.24-23.35.39:270][357]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.24-23.35.39:270][357]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.24-23.35.39:270][357]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.24-23.35.39:270][357]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.24-23.35.39:270][357]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.24-23.35.39:270][357]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.24-23.35.39:271][357]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.24-23.35.39:271][357]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.24-23.35.39:271][357]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.24-23.35.39:273][357]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.24-23.35.39:299][357]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (2- Black Shark Goblin X4 USB Dongle)
+[2022.11.24-23.35.39:299][357]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.24-23.35.39:299][357]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.24-23.35.39:299][357]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.24-23.35.39:301][357]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2022.11.24-23.35.39:301][357]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2022.11.24-23.35.39:303][357]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2022.11.24-23.35.39:303][357]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2022.11.24-23.35.39:303][357]LogInit: FAudioDevice initialized.
+[2022.11.24-23.35.39:303][357]LogAudio: Display: Audio Device (ID: 19) registered with world 'FirstPersonMap_2'.
+[2022.11.24-23.35.39:384][357]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-23.35.39:385][357]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.11.24-23.35.39:389][357]LogWorld: Bringing World /Game/Cosas/UEDPIE_0_FirstPersonMap_2.FirstPersonMap_2 up for play (max tick rate 60) at 2022.11.25-00.35.39
+[2022.11.24-23.35.39:389][357]LogWorld: Bringing up level for play took: 0.004053
+[2022.11.24-23.35.39:392][357]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2022.11.24-23.35.39:393][357]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=2110.000 Y=2460.000 Z=114.839
+[2022.11.24-23.35.39:393][357]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.24-23.35.39:397][357]PIE: Server logged in
+[2022.11.24-23.35.39:400][357]PIE: Play in editor total start time 0.195 seconds.
+[2022.11.24-23.35.39:479][357]LogViewport: Scene viewport resized to 1913x980, mode Windowed.
+[2022.11.24-23.35.49:137][932]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-23.35.49:137][932]LogWorld: BeginTearingDown for /Game/Cosas/UEDPIE_0_FirstPersonMap_2
+[2022.11.24-23.35.49:138][932]LogSlate: Window 'MyProject Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.11.24-23.35.49:146][932]LogWorld: UWorld::CleanupWorld for FirstPersonMap_2, bSessionEnded=true, bCleanupResources=true
+[2022.11.24-23.35.49:146][932]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-23.35.49:177][932]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.24-23.35.49:184][932]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-23.35.49:243][932]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.24-23.35.49:243][932]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2022.11.24-23.35.49:245][932]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2022.11.24-23.35.49:254][932]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2022.11.24-23.35.49:300][933]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2022.11.24-23.36.20:418][677]BlueprintLog: New page: Compile puerta_arriba1
+[2022.11.24-23.36.20:513][677]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2022.11.24-23.36.20:950][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cosas/puerta_arriba1" FILE="../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/Cosas/puerta_arriba1.uasset" SILENT=true
+[2022.11.24-23.36.20:967][691]LogSavePackage: Moving output files for package: /Game/Cosas/puerta_arriba1
+[2022.11.24-23.36.20:968][691]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/puerta_arriba171EFF3B64D48150D5A16B795DDAC4A16.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/Cosas/puerta_arriba1.uasset'
+[2022.11.24-23.36.20:992][691]AssetCheck: New page: Asset Save: puerta_arriba1
+[2022.11.24-23.36.20:992][691]LogContentValidation: Display: Validating Blueprint /Game/Cosas/puerta_arriba1.puerta_arriba1
+[2022.11.24-23.36.45:596][ 66]BlueprintLog: New page: Compile puerta_arriba1
+[2022.11.24-23.36.45:696][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2022.11.24-23.36.46:112][ 77]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cosas/puerta_arriba1" FILE="../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/Cosas/puerta_arriba1.uasset" SILENT=true
+[2022.11.24-23.36.46:130][ 77]LogSavePackage: Moving output files for package: /Game/Cosas/puerta_arriba1
+[2022.11.24-23.36.46:132][ 77]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/puerta_arriba179C0C4B84DA5FD2014A95A94AE6FACF2.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/Cosas/puerta_arriba1.uasset'
+[2022.11.24-23.36.46:154][ 77]AssetCheck: New page: Asset Save: puerta_arriba1
+[2022.11.24-23.36.46:154][ 77]LogContentValidation: Display: Validating Blueprint /Game/Cosas/puerta_arriba1.puerta_arriba1
+[2022.11.24-23.36.49:504][261]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.11.24-23.36.49:512][261]LogWorldPartition: Display: GenerateStreaming started...
+[2022.11.24-23.36.49:512][261]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.11.24-23.36.49:512][261]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.24-23.36.49:512][261]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.11.24-23.36.49:513][261]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.11.24-23.36.49:513][261]LogWorldPartition: Display: GetPartitionedActors took 122 us
+[2022.11.24-23.36.49:513][261]LogWorldPartition: Display: GenerateStreaming took 474 us
+[2022.11.24-23.36.49:513][261]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.24-23.36.49:513][261]PIE: New page: PIE session: FirstPersonMap_2 (Nov 25, 2022, 1:36:49 AM)
+[2022.11.24-23.36.49:513][261]LogPlayLevel: Creating play world package: /Game/Cosas/UEDPIE_0_FirstPersonMap_2
+[2022.11.24-23.36.49:518][261]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.11.24-23.36.49:518][261]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004701s)
+[2022.11.24-23.36.49:518][261]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2 to /Game/Cosas/UEDPIE_0_FirstPersonMap_2.FirstPersonMap_2 (0.004785s)
+[2022.11.24-23.36.49:518][261]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.24-23.36.49:519][261]LogAIModule: Creating AISystem for world FirstPersonMap_2
+[2022.11.24-23.36.49:519][261]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.11.24-23.36.49:519][261]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.11.24-23.36.49:520][261]LogWorldPartition: Display: WorldPartition initialize took 981 us
+[2022.11.24-23.36.49:520][261]LogPlayLevel: PIE: World Init took: (0.002085s)
+[2022.11.24-23.36.49:574][261]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.11.24-23.36.49:577][261]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2022.11.24-23.36.49:577][261]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.24-23.36.49:577][261]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.24-23.36.49:577][261]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.24-23.36.49:577][261]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.24-23.36.49:577][261]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.24-23.36.49:577][261]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.24-23.36.49:577][261]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.24-23.36.49:577][261]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.24-23.36.49:578][261]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.24-23.36.49:578][261]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.24-23.36.49:578][261]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.24-23.36.49:580][261]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.24-23.36.49:605][261]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (2- Black Shark Goblin X4 USB Dongle)
+[2022.11.24-23.36.49:605][261]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.24-23.36.49:605][261]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.24-23.36.49:605][261]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.24-23.36.49:607][261]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2022.11.24-23.36.49:607][261]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2022.11.24-23.36.49:609][261]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2022.11.24-23.36.49:609][261]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2022.11.24-23.36.49:609][261]LogInit: FAudioDevice initialized.
+[2022.11.24-23.36.49:609][261]LogAudio: Display: Audio Device (ID: 20) registered with world 'FirstPersonMap_2'.
+[2022.11.24-23.36.49:712][261]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-23.36.49:712][261]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.11.24-23.36.49:713][261]LogWorld: Bringing World /Game/Cosas/UEDPIE_0_FirstPersonMap_2.FirstPersonMap_2 up for play (max tick rate 60) at 2022.11.25-00.36.49
+[2022.11.24-23.36.49:713][261]LogWorld: Bringing up level for play took: 0.001458
+[2022.11.24-23.36.49:716][261]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2022.11.24-23.36.49:719][261]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=2110.000 Y=2460.000 Z=114.839
+[2022.11.24-23.36.49:719][261]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.24-23.36.49:722][261]PIE: Server logged in
+[2022.11.24-23.36.49:726][261]PIE: Play in editor total start time 0.215 seconds.
+[2022.11.24-23.36.49:803][261]LogViewport: Scene viewport resized to 1913x980, mode Windowed.
+[2022.11.24-23.36.54:727][554]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-23.36.54:727][554]LogWorld: BeginTearingDown for /Game/Cosas/UEDPIE_0_FirstPersonMap_2
+[2022.11.24-23.36.54:728][554]LogSlate: Window 'MyProject Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.11.24-23.36.54:735][554]LogWorld: UWorld::CleanupWorld for FirstPersonMap_2, bSessionEnded=true, bCleanupResources=true
+[2022.11.24-23.36.54:735][554]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-23.36.54:770][554]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.24-23.36.54:776][554]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-23.36.54:832][554]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.24-23.36.54:832][554]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2022.11.24-23.36.54:834][554]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2022.11.24-23.36.54:858][554]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2022.11.24-23.36.54:904][555]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2022.11.24-23.37.42:528][133]BlueprintLog: New page: Compile puerta_arriba1
+[2022.11.24-23.37.42:623][133]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2022.11.24-23.37.43:182][153]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cosas/puerta_arriba1" FILE="../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/Cosas/puerta_arriba1.uasset" SILENT=true
+[2022.11.24-23.37.43:203][153]LogSavePackage: Moving output files for package: /Game/Cosas/puerta_arriba1
+[2022.11.24-23.37.43:204][153]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/puerta_arriba1303DC7934FC23B598B727DB00E264949.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/Cosas/puerta_arriba1.uasset'
+[2022.11.24-23.37.43:224][153]AssetCheck: New page: Asset Save: puerta_arriba1
+[2022.11.24-23.37.43:224][153]LogContentValidation: Display: Validating Blueprint /Game/Cosas/puerta_arriba1.puerta_arriba1
+[2022.11.24-23.37.50:303][567]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.11.24-23.37.50:313][567]LogWorldPartition: Display: GenerateStreaming started...
+[2022.11.24-23.37.50:313][567]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.11.24-23.37.50:313][567]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.24-23.37.50:313][567]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.11.24-23.37.50:313][567]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.11.24-23.37.50:313][567]LogWorldPartition: Display: GetPartitionedActors took 66 us
+[2022.11.24-23.37.50:313][567]LogWorldPartition: Display: GenerateStreaming took 288 us
+[2022.11.24-23.37.50:313][567]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.24-23.37.50:314][567]PIE: New page: PIE session: FirstPersonMap_2 (Nov 25, 2022, 1:37:50 AM)
+[2022.11.24-23.37.50:314][567]LogPlayLevel: Creating play world package: /Game/Cosas/UEDPIE_0_FirstPersonMap_2
+[2022.11.24-23.37.50:318][567]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.11.24-23.37.50:318][567]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004570s)
+[2022.11.24-23.37.50:318][567]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2 to /Game/Cosas/UEDPIE_0_FirstPersonMap_2.FirstPersonMap_2 (0.004652s)
+[2022.11.24-23.37.50:318][567]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.24-23.37.50:319][567]LogAIModule: Creating AISystem for world FirstPersonMap_2
+[2022.11.24-23.37.50:319][567]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.11.24-23.37.50:319][567]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.11.24-23.37.50:321][567]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.11.24-23.37.50:321][567]LogPlayLevel: PIE: World Init took: (0.002472s)
+[2022.11.24-23.37.50:374][567]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2022.11.24-23.37.50:377][567]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2022.11.24-23.37.50:377][567]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.24-23.37.50:377][567]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.24-23.37.50:377][567]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.24-23.37.50:377][567]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.24-23.37.50:377][567]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.24-23.37.50:377][567]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.24-23.37.50:377][567]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.24-23.37.50:377][567]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.24-23.37.50:377][567]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.24-23.37.50:377][567]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.24-23.37.50:378][567]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.24-23.37.50:380][567]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.24-23.37.50:405][567]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (2- Black Shark Goblin X4 USB Dongle)
+[2022.11.24-23.37.50:405][567]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.24-23.37.50:407][567]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.24-23.37.50:407][567]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.24-23.37.50:408][567]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2022.11.24-23.37.50:408][567]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2022.11.24-23.37.50:409][567]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2022.11.24-23.37.50:409][567]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2022.11.24-23.37.50:409][567]LogInit: FAudioDevice initialized.
+[2022.11.24-23.37.50:409][567]LogAudio: Display: Audio Device (ID: 21) registered with world 'FirstPersonMap_2'.
+[2022.11.24-23.37.50:485][567]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-23.37.50:485][567]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.11.24-23.37.50:487][567]LogWorld: Bringing World /Game/Cosas/UEDPIE_0_FirstPersonMap_2.FirstPersonMap_2 up for play (max tick rate 60) at 2022.11.25-00.37.50
+[2022.11.24-23.37.50:488][567]LogWorld: Bringing up level for play took: 0.002277
+[2022.11.24-23.37.50:491][567]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2022.11.24-23.37.50:492][567]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=2110.000 Y=2460.000 Z=114.839
+[2022.11.24-23.37.50:492][567]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.24-23.37.50:495][567]PIE: Server logged in
+[2022.11.24-23.37.50:498][567]PIE: Play in editor total start time 0.187 seconds.
+[2022.11.24-23.37.50:573][567]LogViewport: Scene viewport resized to 1913x980, mode Windowed.
+[2022.11.24-23.38.37:797][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-23.38.37:797][384]LogWorld: BeginTearingDown for /Game/Cosas/UEDPIE_0_FirstPersonMap_2
+[2022.11.24-23.38.37:798][384]LogSlate: Window 'MyProject Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.11.24-23.38.37:805][384]LogWorld: UWorld::CleanupWorld for FirstPersonMap_2, bSessionEnded=true, bCleanupResources=true
+[2022.11.24-23.38.37:806][384]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-23.38.37:848][384]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.24-23.38.37:853][384]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-23.38.37:915][384]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.24-23.38.37:915][384]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2022.11.24-23.38.37:917][384]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2022.11.24-23.38.37:924][384]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2022.11.24-23.38.37:972][385]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2022.11.24-23.38.47:519][563]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cosas/puerta_arriba1" FILE="../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/Cosas/puerta_arriba1.uasset" SILENT=true
+[2022.11.24-23.38.47:544][563]LogSavePackage: Moving output files for package: /Game/Cosas/puerta_arriba1
+[2022.11.24-23.38.47:546][563]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/puerta_arriba19C23F4F548744DD7BE84BFA974DBFE85.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/Cosas/puerta_arriba1.uasset'
+[2022.11.24-23.38.47:567][563]AssetCheck: New page: Asset Save: puerta_arriba1
+[2022.11.24-23.38.47:567][563]LogContentValidation: Display: Validating Blueprint /Game/Cosas/puerta_arriba1.puerta_arriba1
+[2022.11.24-23.38.48:358][608]LogSlate: Window 'puerta_arriba1' being destroyed
+[2022.11.24-23.38.48:368][608]LogSlate: Window 'puerta_arriba1' being destroyed
+[2022.11.24-23.38.48:375][608]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.11.24-23.38.48:376][608]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-23.38.48:566][608]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.11.24-23.38.48:566][608]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.11.24-23.38.48:567][608]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-23.38.48:692][608]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.11.24-23.38.48:692][608]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.11.24-23.38.48:692][608]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-23.38.49:820][659]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Cosas/FirstPersonMap_2/A/84/ILDKLYGZ034LP157UJSOYX
+[2022.11.24-23.38.49:822][659]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/ILDKLYGZ034LP157UJSOYXB876410E4E7C37436AD91CAE09AC5F05.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Cosas/FirstPersonMap_2/A/84/ILDKLYGZ034LP157UJSOYX.uasset'
+[2022.11.24-23.38.49:840][659]AssetCheck: New page: Asset Save: puerta_arriba1_C_UAID_60F677A5D628DE4C01_1488605489
+[2022.11.24-23.38.49:840][659]LogContentValidation: Display: Validating puerta_arriba1_C /Game/Cosas/FirstPersonMap_2.FirstPersonMap_2:PersistentLevel.puerta_arriba1_C_UAID_60F677A5D628DE4C01_1488605489
