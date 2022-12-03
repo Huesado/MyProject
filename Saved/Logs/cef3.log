@@ -1,2 +1,353 @@
+<<<<<<< HEAD
+[1123/182132.987:ERROR:audio_rtp_receiver.cc(89)] AudioRtpReceiver::OnSetVolume: No audio channel exists.
+[1123/182132.987:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 127
+[1123/182132.987:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 102 to 125
+[1123/182132.987:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 124
+[1123/182132.987:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 106 to 123
+[1123/182132.987:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 103 to 122
+[1123/182132.987:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 105 to 121
+[1123/182132.987:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 109 to 120
+[1123/182132.988:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 1 to 14
+[1123/182132.988:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 3 to 13
+[1123/182132.988:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 5 to 12
+[1123/182132.988:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 6 to 11
+[1123/182249.265:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[1123/182249.265:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[1123/182249.924:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[1123/182249.924:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+=======
 [1124/205732.651:ERROR:os_crypt_win.cc(92)] Failed to decrypt: Clave no válida para utilizar en el estado especificado. (0x8009000B)
 [1124/205737.305:WARNING:value_store_frontend.cc(44)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+>>>>>>> 221f266333aa34f94dea3840d812b28e415916ef
+[1125/204036.867:ERROR:os_crypt_win.cc(92)] Failed to decrypt: Clave no válida para utilizar en el estado especificado. (0x8009000B)
+[1125/204036.867:ERROR:os_crypt_win.cc(92)] Failed to decrypt: Clave no válida para utilizar en el estado especificado. (0x8009000B)
+[1125/204038.062:ERROR:transport_security_persister.cc(413)] Failed to deserialize state: {
+   "1SPWdvPJP1fCUhLZIB1LpusMdju/XAX2DbnoblktVp0=": {
+<<<<<<< HEAD
+      "expiry": 1700760355.859914,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1669224355.859918
+   },
+   "3ZwFSNHjhrLO6Heo8BmbHv933gt01YHG10631DOjeRk=": {
+      "expiry": 1684776166.455419,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1669224166.455421
+   },
+   "8X0stlmOcenZ/jlz0qosyZpfjgLX6OXPI1NqNSsoKZA=": {
+      "expiry": 1700760127.95732,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1669224127.957323
+   },
+   "CHpDto0z/pN67xkfqFHANWpTizPGJjvfo/IErmhe8IU=": {
+      "expiry": 1700760129.736665,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1669224129.736668
+   },
+   "CP5n5kOEAv2BgJ08ywTA1dPvQo/YFD5SfvFY7lHr0zs=": {
+      "expiry": 1700760136.707255,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1669224136.707258
+   },
+   "ClmOdn2CfX/WVtUTkTN3gu3aaE4OBZRcTbi63fBSjp4=": {
+      "expiry": 1700760136.643745,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1669224136.643748
+   },
+   "E10e7Gwg5+phsYD4E8qNYFsQySXnIHPAfo4zloUPESc=": {
+      "expiry": 1685004167.598977,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1669224167.59898
+   },
+   "KCdERQ7qbxn2OwiDsNB46/cAaeYMJAtGZc96lbPLvJE=": {
+      "expiry": 1684776093.321982,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1669224093.321985
+   },
+   "LAZkYS46RVRcFiZAzmUJrz6TJHBd4nwE6VxPWfPLYHs=": {
+      "expiry": 1680110569.34611,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1669224169.346114
+   },
+   "M4bfUnCmQAi4PNb3B8aI/2+SVJhHKsMfMMT7fzi6ij4=": {
+      "expiry": 1700760168.201049,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1669224168.201051
+=======
+      "expiry": 1700855982.082399,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1669319982.082403
+   },
+   "M4bfUnCmQAi4PNb3B8aI/2+SVJhHKsMfMMT7fzi6ij4=": {
+      "expiry": 1700855855.397617,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1669319855.39762
+>>>>>>> 221f266333aa34f94dea3840d812b28e415916ef
+   },
+   "MHSXHuTWPc0qgCg6YHZTIAYqWTrNioy6XIvP//2pdEc=": {
+      "expiry": 1700755938.959791,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1669219938.959793
+   },
+   "O7zRWPb7y7LAuEjK1UVRAu1bfKmWLIytvSM4yMU5HYs=": {
+      "expiry": 1684776166.317413,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1669224166.317415
+   },
+   "aOQPTpHf0QvV/9meCm7MGIvpSqjlAEMdE+G8Nelk90o=": {
+      "expiry": 1700760083.156393,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1669224083.156396
+   },
+   "fJjUrPqhktMfiTHJX3Q0pJi/P12Q72DBgzzJqjlNC4o=": {
+      "expiry": 1700760169.23093,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1669224169.230934
+   },
+   "k2K4kQd8V1+vi/G5kkyFFG8um2NS1HRPIzw/cUH/uIo=": {
+      "expiry": 1700755928.182494,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1669219928.182496
+   },
+<<<<<<< HEAD
+   "kYxWDeIDVgesBS02XkmPRTIpB0nkimBvKZESXctn8eA=": {
+      "expiry": 1700760170.27944,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1669224170.279442
+   },
+   "mX8m30a7QZGc6ch2k2sBSdQvgiUnE7N13/B6C7gadbY=": {
+      "expiry": 1700760103.962162,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1669224103.962165
+   },
+   "nAQ3Zai3AIYZSwRexjH64yStdh/79lxpWcfEUTDfjuA=": {
+      "expiry": 1700760091.764355,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1669224091.764358
+   },
+   "nAuqgR4iEWti7SOdT3UHPl6rmZU/DeaIm38P2O2OkgA=": {
+      "expiry": 1700760167.663395,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1669224167.663395
+   },
+   "x6hJd5v2lmUi6jgOCGiL77YxkJ2TcmP4chZKYn/NsdQ=": {
+      "expiry": 1700760092.476581,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1669224092.476586
+   },
+   "xenNgR3UpRd1ghVLd6o5RVPnLwcdTHvIjWZfPsa4I7U=": {
+      "expiry": 1700760092.416499,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1669224092.416502
+   },
+   "zxCMbM8fN8fNjTX8yBgePCHLhoYqiA9IgDNxHlFbpHQ=": {
+      "expiry": 1684776090.470357,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1669224090.47036
+=======
+   "nAuqgR4iEWti7SOdT3UHPl6rmZU/DeaIm38P2O2OkgA=": {
+      "expiry": 1700855855.636808,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1669319855.63681
+>>>>>>> 221f266333aa34f94dea3840d812b28e415916ef
+   }
+}
+
+[1125/204038.327:ERROR:transport_security_persister.cc(413)] Failed to deserialize state: {
+   "1SPWdvPJP1fCUhLZIB1LpusMdju/XAX2DbnoblktVp0=": {
+<<<<<<< HEAD
+      "expiry": 1700760355.859914,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1669224355.859918
+   },
+   "3ZwFSNHjhrLO6Heo8BmbHv933gt01YHG10631DOjeRk=": {
+      "expiry": 1684776166.455419,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1669224166.455421
+   },
+   "8X0stlmOcenZ/jlz0qosyZpfjgLX6OXPI1NqNSsoKZA=": {
+      "expiry": 1700760127.95732,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1669224127.957323
+   },
+   "CHpDto0z/pN67xkfqFHANWpTizPGJjvfo/IErmhe8IU=": {
+      "expiry": 1700760129.736665,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1669224129.736668
+   },
+   "CP5n5kOEAv2BgJ08ywTA1dPvQo/YFD5SfvFY7lHr0zs=": {
+      "expiry": 1700760136.707255,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1669224136.707258
+   },
+   "ClmOdn2CfX/WVtUTkTN3gu3aaE4OBZRcTbi63fBSjp4=": {
+      "expiry": 1700760136.643745,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1669224136.643748
+   },
+   "E10e7Gwg5+phsYD4E8qNYFsQySXnIHPAfo4zloUPESc=": {
+      "expiry": 1685004167.598977,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1669224167.59898
+   },
+   "KCdERQ7qbxn2OwiDsNB46/cAaeYMJAtGZc96lbPLvJE=": {
+      "expiry": 1684776093.321982,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1669224093.321985
+   },
+   "LAZkYS46RVRcFiZAzmUJrz6TJHBd4nwE6VxPWfPLYHs=": {
+      "expiry": 1680110569.34611,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1669224169.346114
+   },
+   "M4bfUnCmQAi4PNb3B8aI/2+SVJhHKsMfMMT7fzi6ij4=": {
+      "expiry": 1700760168.201049,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1669224168.201051
+=======
+      "expiry": 1700855982.082399,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1669319982.082403
+   },
+   "M4bfUnCmQAi4PNb3B8aI/2+SVJhHKsMfMMT7fzi6ij4=": {
+      "expiry": 1700855855.397617,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1669319855.39762
+>>>>>>> 221f266333aa34f94dea3840d812b28e415916ef
+   },
+   "MHSXHuTWPc0qgCg6YHZTIAYqWTrNioy6XIvP//2pdEc=": {
+      "expiry": 1700755938.959791,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1669219938.959793
+   },
+   "O7zRWPb7y7LAuEjK1UVRAu1bfKmWLIytvSM4yMU5HYs=": {
+      "expiry": 1684776166.317413,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1669224166.317415
+   },
+   "aOQPTpHf0QvV/9meCm7MGIvpSqjlAEMdE+G8Nelk90o=": {
+      "expiry": 1700760083.156393,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1669224083.156396
+   },
+   "fJjUrPqhktMfiTHJX3Q0pJi/P12Q72DBgzzJqjlNC4o=": {
+      "expiry": 1700760169.23093,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1669224169.230934
+   },
+   "k2K4kQd8V1+vi/G5kkyFFG8um2NS1HRPIzw/cUH/uIo=": {
+      "expiry": 1700755928.182494,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1669219928.182496
+   },
+<<<<<<< HEAD
+   "kYxWDeIDVgesBS02XkmPRTIpB0nkimBvKZESXctn8eA=": {
+      "expiry": 1700760170.27944,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1669224170.279442
+   },
+   "mX8m30a7QZGc6ch2k2sBSdQvgiUnE7N13/B6C7gadbY=": {
+      "expiry": 1700760103.962162,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1669224103.962165
+   },
+   "nAQ3Zai3AIYZSwRexjH64yStdh/79lxpWcfEUTDfjuA=": {
+      "expiry": 1700760091.764355,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1669224091.764358
+   },
+   "nAuqgR4iEWti7SOdT3UHPl6rmZU/DeaIm38P2O2OkgA=": {
+      "expiry": 1700760167.663395,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1669224167.663395
+   },
+   "x6hJd5v2lmUi6jgOCGiL77YxkJ2TcmP4chZKYn/NsdQ=": {
+      "expiry": 1700760092.476581,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1669224092.476586
+   },
+   "xenNgR3UpRd1ghVLd6o5RVPnLwcdTHvIjWZfPsa4I7U=": {
+      "expiry": 1700760092.416499,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1669224092.416502
+   },
+   "zxCMbM8fN8fNjTX8yBgePCHLhoYqiA9IgDNxHlFbpHQ=": {
+      "expiry": 1684776090.470357,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1669224090.47036
+=======
+   "nAuqgR4iEWti7SOdT3UHPl6rmZU/DeaIm38P2O2OkgA=": {
+      "expiry": 1700855855.636808,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1669319855.63681
+>>>>>>> 221f266333aa34f94dea3840d812b28e415916ef
+   }
+}
+
+[1125/204052.006:ERROR:database.cc(1632)] Cookie sqlite error 5, errno 33: database is locked, sql: DELETE FROM cookies WHERE is_persistent != 1
+[1125/204052.006:WARNING:sqlite_persistent_cookie_store.cc(1343)] Unable to delete session cookies.
+[1125/204052.013:ERROR:database.cc(1632)] Cookie sqlite error 5, errno 33: database is locked, sql: DELETE FROM cookies WHERE host_key = ?
+[1125/204052.013:ERROR:database.cc(1632)] Cookie sqlite error 5, errno 33: database is locked, sql: DELETE FROM cookies WHERE host_key = ?
+[1125/204052.032:ERROR:database.cc(1632)] Cookie sqlite error 5, errno 33: database is locked, sql: SELECT creation_utc, host_key, name, value, encrypted_value, path, expires_utc, is_secure, is_httponly, samesite, last_access_utc, has_expires, is_persistent, priority, source_scheme FROM cookies WHERE host_key = ? AND is_persistent = 1
+[1125/204052.064:ERROR:database.cc(1632)] Cookie sqlite error 5, errno 33: database is locked, sql: SELECT creation_utc, host_key, name, value, encrypted_value, path, expires_utc, is_secure, is_httponly, samesite, last_access_utc, has_expires, is_persistent, priority, source_scheme FROM cookies WHERE host_key = ? AND is_persistent = 1
+[1125/204052.096:ERROR:database.cc(1632)] Cookie sqlite error 5, errno 33: database is locked, sql: SELECT creation_utc, host_key, name, value, encrypted_value, path, expires_utc, is_secure, is_httponly, samesite, last_access_utc, has_expires, is_persistent, priority, source_scheme FROM cookies WHERE host_key = ? AND is_persistent = 1
+[1125/204052.128:ERROR:database.cc(1632)] Cookie sqlite error 5, errno 33: database is locked, sql: SELECT creation_utc, host_key, name, value, encrypted_value, path, expires_utc, is_secure, is_httponly, samesite, last_access_utc, has_expires, is_persistent, priority, source_scheme FROM cookies WHERE host_key = ? AND is_persistent = 1
+[1125/204052.160:ERROR:database.cc(1632)] Cookie sqlite error 5, errno 33: database is locked, sql: SELECT creation_utc, host_key, name, value, encrypted_value, path, expires_utc, is_secure, is_httponly, samesite, last_access_utc, has_expires, is_persistent, priority, source_scheme FROM cookies WHERE host_key = ? AND is_persistent = 1
+[1125/204052.192:ERROR:database.cc(1632)] Cookie sqlite error 5, errno 33: database is locked, sql: SELECT creation_utc, host_key, name, value, encrypted_value, path, expires_utc, is_secure, is_httponly, samesite, last_access_utc, has_expires, is_persistent, priority, source_scheme FROM cookies WHERE host_key = ? AND is_persistent = 1
+[1125/204052.224:ERROR:database.cc(1632)] Cookie sqlite error 5, errno 33: database is locked, sql: SELECT creation_utc, host_key, name, value, encrypted_value, path, expires_utc, is_secure, is_httponly, samesite, last_access_utc, has_expires, is_persistent, priority, source_scheme FROM cookies WHERE host_key = ? AND is_persistent = 1
+[1125/204052.256:ERROR:database.cc(1632)] Cookie sqlite error 5, errno 33: database is locked, sql: SELECT creation_utc, host_key, name, value, encrypted_value, path, expires_utc, is_secure, is_httponly, samesite, last_access_utc, has_expires, is_persistent, priority, source_scheme FROM cookies WHERE host_key = ? AND is_persistent = 1
+[1125/204052.288:ERROR:database.cc(1632)] Cookie sqlite error 5, errno 33: database is locked, sql: SELECT creation_utc, host_key, name, value, encrypted_value, path, expires_utc, is_secure, is_httponly, samesite, last_access_utc, has_expires, is_persistent, priority, source_scheme FROM cookies WHERE host_key = ? AND is_persistent = 1
+[1125/204052.319:ERROR:database.cc(1632)] Cookie sqlite error 5, errno 33: database is locked, sql: SELECT creation_utc, host_key, name, value, encrypted_value, path, expires_utc, is_secure, is_httponly, samesite, last_access_utc, has_expires, is_persistent, priority, source_scheme FROM cookies WHERE host_key = ? AND is_persistent = 1
+[1125/204054.647:ERROR:cache_util_win.cc(21)] Unable to move the cache: Acceso denegado. (0x5)
+[1125/204054.648:ERROR:cache_util.cc(139)] Unable to move cache folder E:/huesa unreal/MyProject/Saved/webcache_4147\Cache to E:/huesa unreal/MyProject/Saved/webcache_4147\old_Cache_000
+[1125/204054.648:ERROR:disk_cache.cc(184)] Unable to create cache
+[1125/204105.996:WARNING:value_store_frontend.cc(44)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
