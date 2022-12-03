@@ -881,3 +881,15 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.12.03-23.15.14:790][ 75]Cmd: MAP CHECKDEP NOCLEARLOG
 [2022.12.03-23.15.14:790][ 75]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.26ms to complete.
 [2022.12.03-23.15.14:790][ 75]LogFileHelpers: Loading map 'FirstPersonMap_2' took 0.314
+[2022.12.03-23.16.25:482][818]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.12.03-23.16.25:482][818]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.03-23.16.26:546][848]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.12.03-23.16.26:546][848]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.12.03-23.16.26:546][848]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.03-23.17.18:317][346]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.12.03-23.17.18:411][346]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.12.03-23.17.18:857][355]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.010422 seconds
+[2022.12.03-23.17.18:887][355]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2022.12.03-23.17.18:888][355]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/BP_FirstPersonCharacterAC4D553E4C67920A7641C09EFF508BD6.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.12.03-23.17.18:911][355]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.12.03-23.17.18:912][355]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
