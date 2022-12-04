@@ -8912,3 +8912,1865 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.12.04-00.23.53:368][612]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
 [2022.12.04-00.23.53:380][612]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
 [2022.12.04-00.23.53:456][613]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2022.12.04-00.25.56:675][727]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.12.04-00.25.56:835][727]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2022.12.04-00.25.57:361][732]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2022.12.04-00.25.57:363][732]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/BP_FirstPersonCharacter7475A58943ACB2DE4F9E3EBA0FCD62F3.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.12.04-00.25.57:410][732]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.12.04-00.25.57:411][732]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.12.04-00.27.53:069][492]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.12.04-00.27.53:216][492]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2022.12.04-00.27.54:408][516]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2022.12.04-00.27.54:409][516]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/BP_FirstPersonCharacterD8FB2FE846A0B4E0DAB7C39BD3E17A57.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.12.04-00.27.54:454][516]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.12.04-00.27.54:454][516]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.12.04-00.29.34:936][952]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.12.04-00.29.35:118][952]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2022.12.04-00.29.35:768][958]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2022.12.04-00.29.35:770][958]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/BP_FirstPersonCharacterC920E20945D4C55C8031F1BB79A00109.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.12.04-00.29.35:816][958]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.12.04-00.29.35:817][958]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.12.04-00.29.38:504][ 31]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.12.04-00.29.38:530][ 31]LogWorldPartition: Display: GenerateStreaming started...
+[2022.12.04-00.29.38:530][ 31]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.12.04-00.29.38:530][ 31]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.12.04-00.29.38:530][ 31]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.12.04-00.29.38:530][ 31]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.12.04-00.29.38:530][ 31]LogWorldPartition: Display: GetPartitionedActors took 194 us
+[2022.12.04-00.29.38:531][ 31]LogWorldPartition: Display: GenerateStreaming took 841 us
+[2022.12.04-00.29.38:531][ 31]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.04-00.29.38:532][ 31]PIE: New page: PIE session: FirstPersonMap_2 (Dec 4, 2022, 2:29:38 AM)
+[2022.12.04-00.29.38:532][ 31]LogPlayLevel: Creating play world package: /Game/Cosas/mapa/UEDPIE_0_FirstPersonMap_2
+[2022.12.04-00.29.38:545][ 31]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.12.04-00.29.38:545][ 31]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012996s)
+[2022.12.04-00.29.38:545][ 31]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cosas/mapa/FirstPersonMap_2.FirstPersonMap_2 to /Game/Cosas/mapa/UEDPIE_0_FirstPersonMap_2.FirstPersonMap_2 (0.013462s)
+[2022.12.04-00.29.38:545][ 31]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.04-00.29.38:546][ 31]LogAIModule: Creating AISystem for world FirstPersonMap_2
+[2022.12.04-00.29.38:547][ 31]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.12.04-00.29.38:547][ 31]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.12.04-00.29.38:550][ 31]LogWorldPartition: Display: WorldPartition initialize took 3 ms
+[2022.12.04-00.29.38:551][ 31]LogPlayLevel: PIE: World Init took: (0.005828s)
+[2022.12.04-00.29.38:634][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2022.12.04-00.29.38:637][ 31]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2022.12.04-00.29.38:638][ 31]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.04-00.29.38:638][ 31]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.04-00.29.38:638][ 31]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.04-00.29.38:638][ 31]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.04-00.29.38:638][ 31]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.04-00.29.38:638][ 31]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.04-00.29.38:638][ 31]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.04-00.29.38:638][ 31]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.04-00.29.38:639][ 31]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.04-00.29.38:639][ 31]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.04-00.29.38:639][ 31]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.04-00.29.38:642][ 31]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.04-00.29.38:686][ 31]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (2- Black Shark Goblin X4 USB Dongle)
+[2022.12.04-00.29.38:687][ 31]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.04-00.29.38:687][ 31]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.04-00.29.38:687][ 31]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.04-00.29.38:692][ 31]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=32
+[2022.12.04-00.29.38:692][ 31]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=32
+[2022.12.04-00.29.38:696][ 31]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=32
+[2022.12.04-00.29.38:696][ 31]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=32
+[2022.12.04-00.29.38:696][ 31]LogInit: FAudioDevice initialized.
+[2022.12.04-00.29.38:696][ 31]LogAudio: Display: Audio Device (ID: 32) registered with world 'FirstPersonMap_2'.
+[2022.12.04-00.29.38:791][ 31]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-00.29.38:792][ 31]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.12.04-00.29.38:799][ 31]LogWorld: Bringing World /Game/Cosas/mapa/UEDPIE_0_FirstPersonMap_2.FirstPersonMap_2 up for play (max tick rate 30) at 2022.12.04-01.29.38
+[2022.12.04-00.29.38:800][ 31]LogWorld: Bringing up level for play took: 0.007450
+[2022.12.04-00.29.38:803][ 31]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2022.12.04-00.29.38:807][ 31]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=2110.000 Y=2320.000 Z=114.841
+[2022.12.04-00.29.38:807][ 31]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.12.04-00.29.38:821][ 31]PIE: Server logged in
+[2022.12.04-00.29.38:827][ 31]PIE: Play in editor total start time 0.301 seconds.
+[2022.12.04-00.29.38:953][ 31]LogViewport: Scene viewport resized to 1913x980, mode Windowed.
+[2022.12.04-00.29.49:875][341]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-00.29.49:875][341]LogWorld: BeginTearingDown for /Game/Cosas/mapa/UEDPIE_0_FirstPersonMap_2
+[2022.12.04-00.29.49:876][341]LogSlate: Window 'MyProject Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.12.04-00.29.49:924][341]LogWorld: UWorld::CleanupWorld for FirstPersonMap_2, bSessionEnded=true, bCleanupResources=true
+[2022.12.04-00.29.49:925][341]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-00.29.49:950][341]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.04-00.29.49:965][341]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-00.29.50:063][341]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2022.12.04-00.29.50:067][341]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2022.12.04-00.29.50:085][341]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2022.12.04-00.29.50:216][342]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2022.12.04-00.32.00:666][958]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.12.04-00.32.00:844][958]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2022.12.04-00.32.01:330][960]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2022.12.04-00.32.01:331][960]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/BP_FirstPersonCharacter7DCDFF6D43C4FEDC81CD28898FA30431.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.12.04-00.32.01:378][960]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.12.04-00.32.01:379][960]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.12.04-00.32.02:720][998]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.12.04-00.32.02:742][998]LogWorldPartition: Display: GenerateStreaming started...
+[2022.12.04-00.32.02:742][998]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.12.04-00.32.02:742][998]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.12.04-00.32.02:742][998]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.12.04-00.32.02:743][998]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.12.04-00.32.02:743][998]LogWorldPartition: Display: GetPartitionedActors took 185 us
+[2022.12.04-00.32.02:743][998]LogWorldPartition: Display: GenerateStreaming took 751 us
+[2022.12.04-00.32.02:743][998]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.04-00.32.02:744][998]PIE: New page: PIE session: FirstPersonMap_2 (Dec 4, 2022, 2:32:02 AM)
+[2022.12.04-00.32.02:744][998]LogPlayLevel: Creating play world package: /Game/Cosas/mapa/UEDPIE_0_FirstPersonMap_2
+[2022.12.04-00.32.02:754][998]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.12.04-00.32.02:754][998]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010184s)
+[2022.12.04-00.32.02:754][998]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cosas/mapa/FirstPersonMap_2.FirstPersonMap_2 to /Game/Cosas/mapa/UEDPIE_0_FirstPersonMap_2.FirstPersonMap_2 (0.010358s)
+[2022.12.04-00.32.02:754][998]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.04-00.32.02:756][998]LogAIModule: Creating AISystem for world FirstPersonMap_2
+[2022.12.04-00.32.02:757][998]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.12.04-00.32.02:757][998]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.12.04-00.32.02:760][998]LogWorldPartition: Display: WorldPartition initialize took 2 ms
+[2022.12.04-00.32.02:760][998]LogPlayLevel: PIE: World Init took: (0.005824s)
+[2022.12.04-00.32.02:841][998]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2022.12.04-00.32.02:843][998]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2022.12.04-00.32.02:844][998]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.04-00.32.02:844][998]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.04-00.32.02:844][998]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.04-00.32.02:844][998]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.04-00.32.02:844][998]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.04-00.32.02:844][998]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.04-00.32.02:844][998]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.04-00.32.02:844][998]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.04-00.32.02:845][998]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.04-00.32.02:845][998]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.04-00.32.02:845][998]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.04-00.32.02:848][998]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.04-00.32.02:892][998]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (2- Black Shark Goblin X4 USB Dongle)
+[2022.12.04-00.32.02:892][998]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.04-00.32.02:892][998]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.04-00.32.02:893][998]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.04-00.32.02:896][998]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=33
+[2022.12.04-00.32.02:896][998]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=33
+[2022.12.04-00.32.02:899][998]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=33
+[2022.12.04-00.32.02:899][998]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=33
+[2022.12.04-00.32.02:899][998]LogInit: FAudioDevice initialized.
+[2022.12.04-00.32.02:899][998]LogAudio: Display: Audio Device (ID: 33) registered with world 'FirstPersonMap_2'.
+[2022.12.04-00.32.02:994][998]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-00.32.02:994][998]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.12.04-00.32.03:000][998]LogWorld: Bringing World /Game/Cosas/mapa/UEDPIE_0_FirstPersonMap_2.FirstPersonMap_2 up for play (max tick rate 30) at 2022.12.04-01.32.03
+[2022.12.04-00.32.03:001][998]LogWorld: Bringing up level for play took: 0.006842
+[2022.12.04-00.32.03:007][998]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2022.12.04-00.32.03:010][998]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=2110.000 Y=2320.000 Z=114.841
+[2022.12.04-00.32.03:010][998]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.12.04-00.32.03:021][998]PIE: Server logged in
+[2022.12.04-00.32.03:027][998]PIE: Play in editor total start time 0.287 seconds.
+[2022.12.04-00.32.03:162][998]LogViewport: Scene viewport resized to 1913x980, mode Windowed.
+[2022.12.04-00.32.13:015][278]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-00.32.13:015][278]LogWorld: BeginTearingDown for /Game/Cosas/mapa/UEDPIE_0_FirstPersonMap_2
+[2022.12.04-00.32.13:016][278]LogSlate: Window 'MyProject Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.12.04-00.32.13:031][278]LogWorld: UWorld::CleanupWorld for FirstPersonMap_2, bSessionEnded=true, bCleanupResources=true
+[2022.12.04-00.32.13:033][278]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-00.32.13:056][278]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.04-00.32.13:067][278]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-00.32.13:166][278]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.04-00.32.13:168][278]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2022.12.04-00.32.13:172][278]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2022.12.04-00.32.13:188][278]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2022.12.04-00.32.13:311][279]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2022.12.04-00.33.08:324][358]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.12.04-00.33.08:506][358]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2022.12.04-00.33.09:156][362]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2022.12.04-00.33.09:158][362]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/BP_FirstPersonCharacter74F7912548610A6B3C72C7A95140D8C3.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.12.04-00.33.09:204][362]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.12.04-00.33.09:204][362]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.12.04-00.33.11:072][410]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.12.04-00.33.11:091][410]LogWorldPartition: Display: GenerateStreaming started...
+[2022.12.04-00.33.11:091][410]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.12.04-00.33.11:092][410]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.12.04-00.33.11:092][410]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.12.04-00.33.11:092][410]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.12.04-00.33.11:092][410]LogWorldPartition: Display: GetPartitionedActors took 168 us
+[2022.12.04-00.33.11:092][410]LogWorldPartition: Display: GenerateStreaming took 682 us
+[2022.12.04-00.33.11:092][410]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.04-00.33.11:093][410]PIE: New page: PIE session: FirstPersonMap_2 (Dec 4, 2022, 2:33:11 AM)
+[2022.12.04-00.33.11:093][410]LogPlayLevel: Creating play world package: /Game/Cosas/mapa/UEDPIE_0_FirstPersonMap_2
+[2022.12.04-00.33.11:111][410]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.12.04-00.33.11:111][410]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018410s)
+[2022.12.04-00.33.11:111][410]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cosas/mapa/FirstPersonMap_2.FirstPersonMap_2 to /Game/Cosas/mapa/UEDPIE_0_FirstPersonMap_2.FirstPersonMap_2 (0.018566s)
+[2022.12.04-00.33.11:112][410]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.04-00.33.11:113][410]LogAIModule: Creating AISystem for world FirstPersonMap_2
+[2022.12.04-00.33.11:114][410]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.12.04-00.33.11:114][410]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.12.04-00.33.11:118][410]LogWorldPartition: Display: WorldPartition initialize took 3 ms
+[2022.12.04-00.33.11:118][410]LogPlayLevel: PIE: World Init took: (0.006683s)
+[2022.12.04-00.33.11:192][410]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2022.12.04-00.33.11:198][410]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2022.12.04-00.33.11:198][410]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.04-00.33.11:198][410]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.04-00.33.11:198][410]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.04-00.33.11:198][410]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.04-00.33.11:198][410]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.04-00.33.11:198][410]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.04-00.33.11:198][410]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.04-00.33.11:198][410]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.04-00.33.11:200][410]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.04-00.33.11:200][410]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.04-00.33.11:200][410]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.04-00.33.11:203][410]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.04-00.33.11:271][410]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (2- Black Shark Goblin X4 USB Dongle)
+[2022.12.04-00.33.11:271][410]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.04-00.33.11:271][410]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.04-00.33.11:271][410]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.04-00.33.11:274][410]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=34
+[2022.12.04-00.33.11:274][410]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=34
+[2022.12.04-00.33.11:276][410]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=34
+[2022.12.04-00.33.11:276][410]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=34
+[2022.12.04-00.33.11:276][410]LogInit: FAudioDevice initialized.
+[2022.12.04-00.33.11:276][410]LogAudio: Display: Audio Device (ID: 34) registered with world 'FirstPersonMap_2'.
+[2022.12.04-00.33.11:351][410]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-00.33.11:351][410]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.12.04-00.33.11:356][410]LogWorld: Bringing World /Game/Cosas/mapa/UEDPIE_0_FirstPersonMap_2.FirstPersonMap_2 up for play (max tick rate 30) at 2022.12.04-01.33.11
+[2022.12.04-00.33.11:357][410]LogWorld: Bringing up level for play took: 0.005029
+[2022.12.04-00.33.11:364][410]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2022.12.04-00.33.11:367][410]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=2110.000 Y=2320.000 Z=114.841
+[2022.12.04-00.33.11:367][410]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.12.04-00.33.11:380][410]PIE: Server logged in
+[2022.12.04-00.33.11:388][410]PIE: Play in editor total start time 0.299 seconds.
+[2022.12.04-00.33.11:524][410]LogViewport: Scene viewport resized to 1913x980, mode Windowed.
+[2022.12.04-00.33.33:273][ 20]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-00.33.33:273][ 20]LogWorld: BeginTearingDown for /Game/Cosas/mapa/UEDPIE_0_FirstPersonMap_2
+[2022.12.04-00.33.33:275][ 20]LogSlate: Window 'MyProject Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.12.04-00.33.33:345][ 20]LogWorld: UWorld::CleanupWorld for FirstPersonMap_2, bSessionEnded=true, bCleanupResources=true
+[2022.12.04-00.33.33:347][ 20]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-00.33.33:375][ 20]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.04-00.33.33:390][ 20]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-00.33.33:489][ 20]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2022.12.04-00.33.33:492][ 20]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2022.12.04-00.33.33:512][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2022.12.04-00.33.33:625][ 21]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2022.12.04-00.33.49:668][382]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.12.04-00.33.49:853][382]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2022.12.04-00.33.51:742][428]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.12.04-00.33.51:760][428]LogWorldPartition: Display: GenerateStreaming started...
+[2022.12.04-00.33.51:760][428]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.12.04-00.33.51:760][428]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.12.04-00.33.51:760][428]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.12.04-00.33.51:760][428]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.12.04-00.33.51:760][428]LogWorldPartition: Display: GetPartitionedActors took 142 us
+[2022.12.04-00.33.51:760][428]LogWorldPartition: Display: GenerateStreaming took 673 us
+[2022.12.04-00.33.51:761][428]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.04-00.33.51:761][428]PIE: New page: PIE session: FirstPersonMap_2 (Dec 4, 2022, 2:33:51 AM)
+[2022.12.04-00.33.51:761][428]LogPlayLevel: Creating play world package: /Game/Cosas/mapa/UEDPIE_0_FirstPersonMap_2
+[2022.12.04-00.33.51:775][428]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.12.04-00.33.51:776][428]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014049s)
+[2022.12.04-00.33.51:776][428]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cosas/mapa/FirstPersonMap_2.FirstPersonMap_2 to /Game/Cosas/mapa/UEDPIE_0_FirstPersonMap_2.FirstPersonMap_2 (0.014586s)
+[2022.12.04-00.33.51:776][428]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.04-00.33.51:777][428]LogAIModule: Creating AISystem for world FirstPersonMap_2
+[2022.12.04-00.33.51:778][428]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.12.04-00.33.51:778][428]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.12.04-00.33.51:782][428]LogWorldPartition: Display: WorldPartition initialize took 3 ms
+[2022.12.04-00.33.51:782][428]LogPlayLevel: PIE: World Init took: (0.006025s)
+[2022.12.04-00.33.51:868][428]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2022.12.04-00.33.51:872][428]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2022.12.04-00.33.51:872][428]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.04-00.33.51:872][428]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.04-00.33.51:872][428]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.04-00.33.51:872][428]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.04-00.33.51:872][428]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.04-00.33.51:872][428]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.04-00.33.51:872][428]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.04-00.33.51:872][428]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.04-00.33.51:873][428]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.04-00.33.51:873][428]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.04-00.33.51:873][428]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.04-00.33.51:877][428]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.04-00.33.51:923][428]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (2- Black Shark Goblin X4 USB Dongle)
+[2022.12.04-00.33.51:924][428]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.04-00.33.51:924][428]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.04-00.33.51:924][428]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.04-00.33.51:926][428]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=35
+[2022.12.04-00.33.51:926][428]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=35
+[2022.12.04-00.33.51:930][428]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=35
+[2022.12.04-00.33.51:930][428]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=35
+[2022.12.04-00.33.51:930][428]LogInit: FAudioDevice initialized.
+[2022.12.04-00.33.51:930][428]LogAudio: Display: Audio Device (ID: 35) registered with world 'FirstPersonMap_2'.
+[2022.12.04-00.33.52:035][428]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-00.33.52:035][428]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.12.04-00.33.52:039][428]LogWorld: Bringing World /Game/Cosas/mapa/UEDPIE_0_FirstPersonMap_2.FirstPersonMap_2 up for play (max tick rate 30) at 2022.12.04-01.33.52
+[2022.12.04-00.33.52:040][428]LogWorld: Bringing up level for play took: 0.004772
+[2022.12.04-00.33.52:044][428]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2022.12.04-00.33.52:048][428]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=2110.000 Y=2320.000 Z=114.841
+[2022.12.04-00.33.52:048][428]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.12.04-00.33.52:061][428]PIE: Server logged in
+[2022.12.04-00.33.52:071][428]PIE: Play in editor total start time 0.313 seconds.
+[2022.12.04-00.33.52:073][428]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.52:204][428]LogViewport: Scene viewport resized to 1913x980, mode Windowed.
+[2022.12.04-00.33.52:284][429]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.52:355][430]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.52:386][431]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.52:422][432]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.52:463][433]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.52:503][434]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.52:541][435]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.52:578][436]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.52:615][437]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.52:649][438]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.52:684][439]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.52:719][440]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.52:759][441]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.52:793][442]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.52:839][443]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.52:881][444]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.52:918][445]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.52:954][446]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.52:989][447]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.53:223][454]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.53:263][455]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.53:300][456]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.53:337][457]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.53:373][458]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.53:410][459]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.53:448][460]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.53:485][461]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.53:524][462]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.53:561][463]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.53:597][464]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.53:638][465]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.53:677][466]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.53:711][467]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.53:751][468]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.53:795][469]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.53:835][470]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.53:870][471]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.53:904][472]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.53:938][473]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.53:973][474]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.54:010][475]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.54:043][476]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.54:075][477]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.54:109][478]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.54:145][479]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.54:178][480]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.54:213][481]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.54:246][482]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.54:279][483]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.54:312][484]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.54:345][485]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.54:380][486]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.54:414][487]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.54:450][488]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.54:488][489]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.54:527][490]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.54:563][491]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.54:597][492]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.54:633][493]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.54:670][494]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.54:705][495]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.54:738][496]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.54:773][497]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.54:813][498]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.54:851][499]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.54:888][500]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.54:925][501]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.54:961][502]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.54:993][503]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.55:026][504]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.55:061][505]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.55:102][506]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.55:138][507]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.55:175][508]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.55:208][509]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.55:240][510]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.55:275][511]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.55:308][512]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.55:343][513]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.55:377][514]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.55:410][515]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.55:446][516]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.55:484][517]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.55:520][518]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.55:557][519]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.55:592][520]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.55:637][521]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.55:673][522]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.55:710][523]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.33.55:745][524]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.34.03:375][736]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.34.03:409][737]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.34.03:443][738]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.34.03:476][739]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.34.03:508][740]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.34.03:541][741]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.34.03:575][742]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.34.03:609][743]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.34.03:642][744]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.34.03:676][745]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.34.03:709][746]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.34.03:744][747]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.34.03:779][748]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.34.03:812][749]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.34.03:850][750]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.34.03:888][751]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.34.03:931][752]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.34.03:969][753]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.34.04:005][754]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.34.04:038][755]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.34.04:073][756]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.34.04:107][757]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.34.04:142][758]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.34.04:174][759]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.34.04:212][760]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.34.04:250][761]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.34.04:283][761]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-00.34.04:283][761]LogWorld: BeginTearingDown for /Game/Cosas/mapa/UEDPIE_0_FirstPersonMap_2
+[2022.12.04-00.34.04:284][761]LogSlate: Window 'MyProject Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.12.04-00.34.04:317][761]LogWorld: UWorld::CleanupWorld for FirstPersonMap_2, bSessionEnded=true, bCleanupResources=true
+[2022.12.04-00.34.04:318][761]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-00.34.04:345][761]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.04-00.34.04:355][761]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-00.34.04:462][761]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.04-00.34.04:464][761]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2022.12.04-00.34.04:470][761]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2022.12.04-00.34.04:489][761]LogUObjectHash: Compacting FUObjectHashTables data took   5.58ms
+[2022.12.04-00.34.04:616][762]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2022.12.04-00.34.23:785][253]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.12.04-00.34.23:811][253]LogWorldPartition: Display: GenerateStreaming started...
+[2022.12.04-00.34.23:811][253]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.12.04-00.34.23:811][253]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.12.04-00.34.23:811][253]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.12.04-00.34.23:811][253]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.12.04-00.34.23:811][253]LogWorldPartition: Display: GetPartitionedActors took 108 us
+[2022.12.04-00.34.23:811][253]LogWorldPartition: Display: GenerateStreaming took 520 us
+[2022.12.04-00.34.23:811][253]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.12.04-00.34.23:819][253]LogPlayLevel: [PlayLevel] Compiling BP_FirstPersonCharacter before play...
+[2022.12.04-00.34.24:083][253]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2022.12.04-00.34.24:087][253]LogPlayLevel: PlayLevel: Blueprint regeneration took 275 ms (1 blueprints)
+[2022.12.04-00.34.24:087][253]PIE: New page: PIE session: FirstPersonMap_2 (Dec 4, 2022, 2:34:24 AM)
+[2022.12.04-00.34.24:088][253]LogPlayLevel: Creating play world package: /Game/Cosas/mapa/UEDPIE_0_FirstPersonMap_2
+[2022.12.04-00.34.24:102][253]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.12.04-00.34.24:103][253]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014764s)
+[2022.12.04-00.34.24:103][253]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cosas/mapa/FirstPersonMap_2.FirstPersonMap_2 to /Game/Cosas/mapa/UEDPIE_0_FirstPersonMap_2.FirstPersonMap_2 (0.014930s)
+[2022.12.04-00.34.24:103][253]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.04-00.34.24:103][253]LogAIModule: Creating AISystem for world FirstPersonMap_2
+[2022.12.04-00.34.24:104][253]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.12.04-00.34.24:104][253]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.12.04-00.34.24:108][253]LogWorldPartition: Display: WorldPartition initialize took 3 ms
+[2022.12.04-00.34.24:108][253]LogPlayLevel: PIE: World Init took: (0.005696s)
+[2022.12.04-00.34.24:182][253]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2022.12.04-00.34.24:184][253]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2022.12.04-00.34.24:185][253]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.04-00.34.24:185][253]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.04-00.34.24:185][253]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.04-00.34.24:185][253]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.04-00.34.24:185][253]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.04-00.34.24:185][253]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.04-00.34.24:185][253]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.04-00.34.24:185][253]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.04-00.34.24:186][253]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.04-00.34.24:186][253]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.04-00.34.24:186][253]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.04-00.34.24:190][253]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.04-00.34.24:240][253]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (2- Black Shark Goblin X4 USB Dongle)
+[2022.12.04-00.34.24:240][253]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.04-00.34.24:240][253]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.04-00.34.24:240][253]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.04-00.34.24:241][253]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=36
+[2022.12.04-00.34.24:242][253]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=36
+[2022.12.04-00.34.24:244][253]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=36
+[2022.12.04-00.34.24:245][253]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=36
+[2022.12.04-00.34.24:245][253]LogInit: FAudioDevice initialized.
+[2022.12.04-00.34.24:245][253]LogAudio: Display: Audio Device (ID: 36) registered with world 'FirstPersonMap_2'.
+[2022.12.04-00.34.24:343][253]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-00.34.24:343][253]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.12.04-00.34.24:348][253]LogWorld: Bringing World /Game/Cosas/mapa/UEDPIE_0_FirstPersonMap_2.FirstPersonMap_2 up for play (max tick rate 30) at 2022.12.04-01.34.24
+[2022.12.04-00.34.24:348][253]LogWorld: Bringing up level for play took: 0.004572
+[2022.12.04-00.34.24:352][253]LogOnline: OSS: Created online subsystem instance for: :Context_49
+[2022.12.04-00.34.24:357][253]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=2110.000 Y=2320.000 Z=114.841
+[2022.12.04-00.34.24:357][253]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.12.04-00.34.24:369][253]PIE: Server logged in
+[2022.12.04-00.34.24:373][253]PIE: Play in editor total start time 0.565 seconds.
+[2022.12.04-00.34.24:500][253]LogViewport: Scene viewport resized to 1913x980, mode Windowed.
+[2022.12.04-00.34.38:375][637]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-00.34.38:375][637]LogWorld: BeginTearingDown for /Game/Cosas/mapa/UEDPIE_0_FirstPersonMap_2
+[2022.12.04-00.34.38:378][637]LogSlate: Window 'MyProject Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.12.04-00.34.38:394][637]LogWorld: UWorld::CleanupWorld for FirstPersonMap_2, bSessionEnded=true, bCleanupResources=true
+[2022.12.04-00.34.38:395][637]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-00.34.38:422][637]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.04-00.34.38:440][637]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-00.34.38:557][637]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2022.12.04-00.34.38:562][637]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2022.12.04-00.34.38:579][637]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2022.12.04-00.34.38:700][638]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2022.12.04-00.34.48:132][827]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.12.04-00.34.48:317][827]LogUObjectHash: Compacting FUObjectHashTables data took   4.90ms
+[2022.12.04-00.34.48:795][828]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2022.12.04-00.34.48:798][828]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/BP_FirstPersonCharacter099C1C8D4BAE050A5CA26CA24B2A4DDC.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.12.04-00.34.48:851][828]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.12.04-00.34.48:851][828]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.12.04-00.34.50:644][879]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.12.04-00.34.50:669][879]LogWorldPartition: Display: GenerateStreaming started...
+[2022.12.04-00.34.50:669][879]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.12.04-00.34.50:669][879]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.12.04-00.34.50:669][879]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.12.04-00.34.50:669][879]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.12.04-00.34.50:669][879]LogWorldPartition: Display: GetPartitionedActors took 152 us
+[2022.12.04-00.34.50:670][879]LogWorldPartition: Display: GenerateStreaming took 767 us
+[2022.12.04-00.34.50:670][879]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.04-00.34.50:671][879]PIE: New page: PIE session: FirstPersonMap_2 (Dec 4, 2022, 2:34:50 AM)
+[2022.12.04-00.34.50:671][879]LogPlayLevel: Creating play world package: /Game/Cosas/mapa/UEDPIE_0_FirstPersonMap_2
+[2022.12.04-00.34.50:688][879]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.12.04-00.34.50:688][879]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016698s)
+[2022.12.04-00.34.50:688][879]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cosas/mapa/FirstPersonMap_2.FirstPersonMap_2 to /Game/Cosas/mapa/UEDPIE_0_FirstPersonMap_2.FirstPersonMap_2 (0.016965s)
+[2022.12.04-00.34.50:688][879]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.04-00.34.50:689][879]LogAIModule: Creating AISystem for world FirstPersonMap_2
+[2022.12.04-00.34.50:689][879]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.12.04-00.34.50:689][879]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.12.04-00.34.50:692][879]LogWorldPartition: Display: WorldPartition initialize took 2 ms
+[2022.12.04-00.34.50:692][879]LogPlayLevel: PIE: World Init took: (0.004412s)
+[2022.12.04-00.34.50:774][879]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2022.12.04-00.34.50:778][879]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2022.12.04-00.34.50:778][879]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.04-00.34.50:778][879]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.04-00.34.50:778][879]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.04-00.34.50:778][879]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.04-00.34.50:778][879]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.04-00.34.50:779][879]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.04-00.34.50:779][879]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.04-00.34.50:779][879]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.04-00.34.50:779][879]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.04-00.34.50:780][879]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.04-00.34.50:780][879]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.04-00.34.50:783][879]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.04-00.34.50:833][879]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (2- Black Shark Goblin X4 USB Dongle)
+[2022.12.04-00.34.50:833][879]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.04-00.34.50:833][879]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.04-00.34.50:833][879]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.04-00.34.50:836][879]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=37
+[2022.12.04-00.34.50:836][879]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=37
+[2022.12.04-00.34.50:839][879]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=37
+[2022.12.04-00.34.50:839][879]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=37
+[2022.12.04-00.34.50:839][879]LogInit: FAudioDevice initialized.
+[2022.12.04-00.34.50:839][879]LogAudio: Display: Audio Device (ID: 37) registered with world 'FirstPersonMap_2'.
+[2022.12.04-00.34.50:940][879]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-00.34.50:941][879]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.12.04-00.34.50:945][879]LogWorld: Bringing World /Game/Cosas/mapa/UEDPIE_0_FirstPersonMap_2.FirstPersonMap_2 up for play (max tick rate 30) at 2022.12.04-01.34.50
+[2022.12.04-00.34.50:945][879]LogWorld: Bringing up level for play took: 0.004386
+[2022.12.04-00.34.50:949][879]LogOnline: OSS: Created online subsystem instance for: :Context_50
+[2022.12.04-00.34.50:951][879]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=2110.000 Y=2320.000 Z=114.841
+[2022.12.04-00.34.50:952][879]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.12.04-00.34.50:966][879]PIE: Server logged in
+[2022.12.04-00.34.50:977][879]PIE: Play in editor total start time 0.312 seconds.
+[2022.12.04-00.34.51:112][879]LogViewport: Scene viewport resized to 1913x980, mode Windowed.
+[2022.12.04-00.34.56:814][ 34]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-00.34.56:814][ 34]LogWorld: BeginTearingDown for /Game/Cosas/mapa/UEDPIE_0_FirstPersonMap_2
+[2022.12.04-00.34.56:816][ 34]LogSlate: Window 'MyProject Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.12.04-00.34.56:840][ 34]LogWorld: UWorld::CleanupWorld for FirstPersonMap_2, bSessionEnded=true, bCleanupResources=true
+[2022.12.04-00.34.56:841][ 34]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-00.34.56:867][ 34]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.04-00.34.56:877][ 34]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-00.34.56:978][ 34]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.04-00.34.56:979][ 34]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2022.12.04-00.34.56:981][ 34]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2022.12.04-00.34.57:003][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   5.58ms
+[2022.12.04-00.34.57:119][ 35]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2022.12.04-00.35.05:228][207]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.12.04-00.35.05:450][207]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2022.12.04-00.35.06:016][209]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2022.12.04-00.35.06:018][209]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/BP_FirstPersonCharacterB04810B14521AF9C4CFD56AC4EFEF3F2.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.12.04-00.35.06:060][209]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.12.04-00.35.06:060][209]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.12.04-00.35.08:090][266]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.12.04-00.35.08:114][266]LogWorldPartition: Display: GenerateStreaming started...
+[2022.12.04-00.35.08:114][266]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.12.04-00.35.08:114][266]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.12.04-00.35.08:114][266]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.12.04-00.35.08:114][266]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.12.04-00.35.08:114][266]LogWorldPartition: Display: GetPartitionedActors took 289 us
+[2022.12.04-00.35.08:115][266]LogWorldPartition: Display: GenerateStreaming took 1 ms
+[2022.12.04-00.35.08:115][266]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.04-00.35.08:116][266]PIE: New page: PIE session: FirstPersonMap_2 (Dec 4, 2022, 2:35:08 AM)
+[2022.12.04-00.35.08:116][266]LogPlayLevel: Creating play world package: /Game/Cosas/mapa/UEDPIE_0_FirstPersonMap_2
+[2022.12.04-00.35.08:127][266]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.12.04-00.35.08:128][266]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011650s)
+[2022.12.04-00.35.08:128][266]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cosas/mapa/FirstPersonMap_2.FirstPersonMap_2 to /Game/Cosas/mapa/UEDPIE_0_FirstPersonMap_2.FirstPersonMap_2 (0.011850s)
+[2022.12.04-00.35.08:128][266]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.04-00.35.08:130][266]LogAIModule: Creating AISystem for world FirstPersonMap_2
+[2022.12.04-00.35.08:131][266]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.12.04-00.35.08:131][266]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.12.04-00.35.08:135][266]LogWorldPartition: Display: WorldPartition initialize took 3 ms
+[2022.12.04-00.35.08:135][266]LogPlayLevel: PIE: World Init took: (0.007156s)
+[2022.12.04-00.35.08:210][266]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2022.12.04-00.35.08:214][266]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2022.12.04-00.35.08:214][266]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.04-00.35.08:214][266]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.04-00.35.08:214][266]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.04-00.35.08:214][266]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.04-00.35.08:214][266]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.04-00.35.08:214][266]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.04-00.35.08:214][266]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.04-00.35.08:214][266]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.04-00.35.08:215][266]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.04-00.35.08:216][266]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.04-00.35.08:216][266]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.04-00.35.08:219][266]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.04-00.35.08:271][266]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (2- Black Shark Goblin X4 USB Dongle)
+[2022.12.04-00.35.08:271][266]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.04-00.35.08:271][266]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.04-00.35.08:271][266]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.04-00.35.08:271][266]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=38
+[2022.12.04-00.35.08:272][266]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=38
+[2022.12.04-00.35.08:275][266]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=38
+[2022.12.04-00.35.08:275][266]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=38
+[2022.12.04-00.35.08:275][266]LogInit: FAudioDevice initialized.
+[2022.12.04-00.35.08:275][266]LogAudio: Display: Audio Device (ID: 38) registered with world 'FirstPersonMap_2'.
+[2022.12.04-00.35.08:350][266]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-00.35.08:351][266]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.12.04-00.35.08:357][266]LogWorld: Bringing World /Game/Cosas/mapa/UEDPIE_0_FirstPersonMap_2.FirstPersonMap_2 up for play (max tick rate 30) at 2022.12.04-01.35.08
+[2022.12.04-00.35.08:357][266]LogWorld: Bringing up level for play took: 0.006498
+[2022.12.04-00.35.08:362][266]LogOnline: OSS: Created online subsystem instance for: :Context_51
+[2022.12.04-00.35.08:366][266]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=2110.000 Y=2320.000 Z=114.841
+[2022.12.04-00.35.08:367][266]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.12.04-00.35.08:377][266]PIE: Server logged in
+[2022.12.04-00.35.08:385][266]PIE: Play in editor total start time 0.273 seconds.
+[2022.12.04-00.35.08:516][266]LogViewport: Scene viewport resized to 1913x980, mode Windowed.
+[2022.12.04-00.35.17:645][511]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-00.35.17:645][511]LogWorld: BeginTearingDown for /Game/Cosas/mapa/UEDPIE_0_FirstPersonMap_2
+[2022.12.04-00.35.17:646][511]LogSlate: Window 'MyProject Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.12.04-00.35.17:708][511]LogWorld: UWorld::CleanupWorld for FirstPersonMap_2, bSessionEnded=true, bCleanupResources=true
+[2022.12.04-00.35.17:709][511]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-00.35.17:733][511]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.04-00.35.17:750][511]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-00.35.17:848][511]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.04-00.35.17:849][511]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2022.12.04-00.35.17:854][511]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2022.12.04-00.35.17:884][511]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2022.12.04-00.35.18:005][512]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2022.12.04-00.35.25:646][558]LogDerivedDataCache: C:/Users/Josué/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.828 and deleted 0 file(s) with total size 0 MiB.
+[2022.12.04-00.36.22:843][917]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.12.04-00.36.23:024][917]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2022.12.04-00.36.23:716][923]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2022.12.04-00.36.23:717][923]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/BP_FirstPersonCharacter770E58F7474DEFF31ACB05996B9B6CBC.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.12.04-00.36.23:766][923]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.12.04-00.36.23:766][923]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.12.04-00.36.25:618][977]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.12.04-00.36.25:637][977]LogWorldPartition: Display: GenerateStreaming started...
+[2022.12.04-00.36.25:638][977]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.12.04-00.36.25:638][977]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.12.04-00.36.25:638][977]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.12.04-00.36.25:638][977]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.12.04-00.36.25:638][977]LogWorldPartition: Display: GetPartitionedActors took 186 us
+[2022.12.04-00.36.25:638][977]LogWorldPartition: Display: GenerateStreaming took 702 us
+[2022.12.04-00.36.25:639][977]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.04-00.36.25:639][977]PIE: New page: PIE session: FirstPersonMap_2 (Dec 4, 2022, 2:36:25 AM)
+[2022.12.04-00.36.25:639][977]LogPlayLevel: Creating play world package: /Game/Cosas/mapa/UEDPIE_0_FirstPersonMap_2
+[2022.12.04-00.36.25:652][977]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.12.04-00.36.25:652][977]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013230s)
+[2022.12.04-00.36.25:652][977]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cosas/mapa/FirstPersonMap_2.FirstPersonMap_2 to /Game/Cosas/mapa/UEDPIE_0_FirstPersonMap_2.FirstPersonMap_2 (0.013423s)
+[2022.12.04-00.36.25:653][977]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.04-00.36.25:653][977]LogAIModule: Creating AISystem for world FirstPersonMap_2
+[2022.12.04-00.36.25:654][977]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.12.04-00.36.25:654][977]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.12.04-00.36.25:657][977]LogWorldPartition: Display: WorldPartition initialize took 2 ms
+[2022.12.04-00.36.25:657][977]LogPlayLevel: PIE: World Init took: (0.004514s)
+[2022.12.04-00.36.25:738][977]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2022.12.04-00.36.25:742][977]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2022.12.04-00.36.25:742][977]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.04-00.36.25:742][977]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.04-00.36.25:742][977]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.04-00.36.25:742][977]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.04-00.36.25:742][977]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.04-00.36.25:742][977]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.04-00.36.25:742][977]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.04-00.36.25:742][977]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.04-00.36.25:743][977]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.04-00.36.25:743][977]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.04-00.36.25:743][977]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.04-00.36.25:746][977]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.04-00.36.25:793][977]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (2- Black Shark Goblin X4 USB Dongle)
+[2022.12.04-00.36.25:793][977]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.04-00.36.25:793][977]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.04-00.36.25:793][977]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.04-00.36.25:796][977]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=39
+[2022.12.04-00.36.25:796][977]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=39
+[2022.12.04-00.36.25:799][977]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=39
+[2022.12.04-00.36.25:799][977]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=39
+[2022.12.04-00.36.25:799][977]LogInit: FAudioDevice initialized.
+[2022.12.04-00.36.25:799][977]LogAudio: Display: Audio Device (ID: 39) registered with world 'FirstPersonMap_2'.
+[2022.12.04-00.36.25:892][977]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-00.36.25:893][977]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.12.04-00.36.25:899][977]LogWorld: Bringing World /Game/Cosas/mapa/UEDPIE_0_FirstPersonMap_2.FirstPersonMap_2 up for play (max tick rate 30) at 2022.12.04-01.36.25
+[2022.12.04-00.36.25:900][977]LogWorld: Bringing up level for play took: 0.006809
+[2022.12.04-00.36.25:904][977]LogOnline: OSS: Created online subsystem instance for: :Context_52
+[2022.12.04-00.36.25:907][977]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=2110.000 Y=2320.000 Z=114.841
+[2022.12.04-00.36.25:907][977]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.12.04-00.36.25:917][977]PIE: Server logged in
+[2022.12.04-00.36.25:923][977]PIE: Play in editor total start time 0.288 seconds.
+[2022.12.04-00.36.26:053][977]LogViewport: Scene viewport resized to 1913x980, mode Windowed.
+[2022.12.04-00.36.31:924][142]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-00.36.31:925][142]LogWorld: BeginTearingDown for /Game/Cosas/mapa/UEDPIE_0_FirstPersonMap_2
+[2022.12.04-00.36.31:927][142]LogSlate: Window 'MyProject Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.12.04-00.36.31:978][142]LogWorld: UWorld::CleanupWorld for FirstPersonMap_2, bSessionEnded=true, bCleanupResources=true
+[2022.12.04-00.36.31:979][142]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-00.36.31:995][142]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.04-00.36.32:014][142]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-00.36.32:108][142]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.04-00.36.32:109][142]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2022.12.04-00.36.32:113][142]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2022.12.04-00.36.32:129][142]LogUObjectHash: Compacting FUObjectHashTables data took   7.00ms
+[2022.12.04-00.36.32:242][143]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2022.12.04-00.37.01:003][791]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.12.04-00.37.01:177][791]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2022.12.04-00.37.03:269][831]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2022.12.04-00.37.03:271][831]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/BP_FirstPersonCharacter87BB0D014758F6A20BB12DA649267705.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.12.04-00.37.03:318][831]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.12.04-00.37.03:319][831]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.12.04-00.37.04:673][871]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.12.04-00.37.04:690][871]LogWorldPartition: Display: GenerateStreaming started...
+[2022.12.04-00.37.04:690][871]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.12.04-00.37.04:690][871]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.12.04-00.37.04:690][871]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.12.04-00.37.04:690][871]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.12.04-00.37.04:690][871]LogWorldPartition: Display: GetPartitionedActors took 160 us
+[2022.12.04-00.37.04:690][871]LogWorldPartition: Display: GenerateStreaming took 612 us
+[2022.12.04-00.37.04:691][871]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.04-00.37.04:691][871]PIE: New page: PIE session: FirstPersonMap_2 (Dec 4, 2022, 2:37:04 AM)
+[2022.12.04-00.37.04:691][871]LogPlayLevel: Creating play world package: /Game/Cosas/mapa/UEDPIE_0_FirstPersonMap_2
+[2022.12.04-00.37.04:706][871]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.12.04-00.37.04:706][871]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014970s)
+[2022.12.04-00.37.04:706][871]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cosas/mapa/FirstPersonMap_2.FirstPersonMap_2 to /Game/Cosas/mapa/UEDPIE_0_FirstPersonMap_2.FirstPersonMap_2 (0.015110s)
+[2022.12.04-00.37.04:707][871]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.04-00.37.04:707][871]LogAIModule: Creating AISystem for world FirstPersonMap_2
+[2022.12.04-00.37.04:708][871]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.12.04-00.37.04:708][871]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.12.04-00.37.04:711][871]LogWorldPartition: Display: WorldPartition initialize took 2 ms
+[2022.12.04-00.37.04:711][871]LogPlayLevel: PIE: World Init took: (0.004639s)
+[2022.12.04-00.37.04:790][871]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2022.12.04-00.37.04:795][871]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2022.12.04-00.37.04:796][871]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.04-00.37.04:796][871]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.04-00.37.04:796][871]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.04-00.37.04:796][871]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.04-00.37.04:796][871]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.04-00.37.04:796][871]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.04-00.37.04:796][871]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.04-00.37.04:796][871]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.04-00.37.04:798][871]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.04-00.37.04:799][871]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.04-00.37.04:799][871]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.04-00.37.04:802][871]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.04-00.37.04:851][871]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (2- Black Shark Goblin X4 USB Dongle)
+[2022.12.04-00.37.04:852][871]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.04-00.37.04:852][871]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.04-00.37.04:852][871]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.04-00.37.04:853][871]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=40
+[2022.12.04-00.37.04:853][871]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=40
+[2022.12.04-00.37.04:856][871]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=40
+[2022.12.04-00.37.04:856][871]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=40
+[2022.12.04-00.37.04:856][871]LogInit: FAudioDevice initialized.
+[2022.12.04-00.37.04:856][871]LogAudio: Display: Audio Device (ID: 40) registered with world 'FirstPersonMap_2'.
+[2022.12.04-00.37.04:952][871]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-00.37.04:953][871]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.12.04-00.37.04:957][871]LogWorld: Bringing World /Game/Cosas/mapa/UEDPIE_0_FirstPersonMap_2.FirstPersonMap_2 up for play (max tick rate 30) at 2022.12.04-01.37.04
+[2022.12.04-00.37.04:957][871]LogWorld: Bringing up level for play took: 0.004106
+[2022.12.04-00.37.04:961][871]LogOnline: OSS: Created online subsystem instance for: :Context_53
+[2022.12.04-00.37.04:966][871]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=2110.000 Y=2320.000 Z=114.841
+[2022.12.04-00.37.04:966][871]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.12.04-00.37.04:978][871]PIE: Server logged in
+[2022.12.04-00.37.04:987][871]PIE: Play in editor total start time 0.301 seconds.
+[2022.12.04-00.37.05:110][871]LogViewport: Scene viewport resized to 1913x980, mode Windowed.
+[2022.12.04-00.37.18:575][255]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-00.37.18:575][255]LogWorld: BeginTearingDown for /Game/Cosas/mapa/UEDPIE_0_FirstPersonMap_2
+[2022.12.04-00.37.18:578][255]LogSlate: Window 'MyProject Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.12.04-00.37.18:608][255]LogWorld: UWorld::CleanupWorld for FirstPersonMap_2, bSessionEnded=true, bCleanupResources=true
+[2022.12.04-00.37.18:608][255]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-00.37.18:636][255]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.04-00.37.18:648][255]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-00.37.18:759][255]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.04-00.37.18:759][255]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2022.12.04-00.37.18:763][255]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2022.12.04-00.37.18:782][255]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2022.12.04-00.37.18:905][256]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2022.12.04-00.37.27:974][434]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.12.04-00.37.28:154][434]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2022.12.04-00.37.28:644][435]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2022.12.04-00.37.28:645][435]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/BP_FirstPersonCharacter4FF27B074D6D06EA5F6796801F6C3E90.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.12.04-00.37.28:693][435]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.12.04-00.37.28:693][435]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.12.04-00.37.30:239][476]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.12.04-00.37.30:261][476]LogWorldPartition: Display: GenerateStreaming started...
+[2022.12.04-00.37.30:261][476]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.12.04-00.37.30:261][476]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.12.04-00.37.30:261][476]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.12.04-00.37.30:261][476]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.12.04-00.37.30:261][476]LogWorldPartition: Display: GetPartitionedActors took 292 us
+[2022.12.04-00.37.30:262][476]LogWorldPartition: Display: GenerateStreaming took 1 ms
+[2022.12.04-00.37.30:263][476]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.04-00.37.30:263][476]PIE: New page: PIE session: FirstPersonMap_2 (Dec 4, 2022, 2:37:30 AM)
+[2022.12.04-00.37.30:263][476]LogPlayLevel: Creating play world package: /Game/Cosas/mapa/UEDPIE_0_FirstPersonMap_2
+[2022.12.04-00.37.30:277][476]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.12.04-00.37.30:277][476]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013467s)
+[2022.12.04-00.37.30:277][476]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cosas/mapa/FirstPersonMap_2.FirstPersonMap_2 to /Game/Cosas/mapa/UEDPIE_0_FirstPersonMap_2.FirstPersonMap_2 (0.013667s)
+[2022.12.04-00.37.30:277][476]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.04-00.37.30:278][476]LogAIModule: Creating AISystem for world FirstPersonMap_2
+[2022.12.04-00.37.30:279][476]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.12.04-00.37.30:279][476]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.12.04-00.37.30:283][476]LogWorldPartition: Display: WorldPartition initialize took 4 ms
+[2022.12.04-00.37.30:284][476]LogPlayLevel: PIE: World Init took: (0.006488s)
+[2022.12.04-00.37.30:365][476]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2022.12.04-00.37.30:369][476]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2022.12.04-00.37.30:370][476]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.04-00.37.30:370][476]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.04-00.37.30:370][476]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.04-00.37.30:370][476]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.04-00.37.30:370][476]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.04-00.37.30:370][476]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.04-00.37.30:370][476]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.04-00.37.30:370][476]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.04-00.37.30:371][476]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.04-00.37.30:371][476]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.04-00.37.30:371][476]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.04-00.37.30:375][476]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.04-00.37.30:418][476]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (2- Black Shark Goblin X4 USB Dongle)
+[2022.12.04-00.37.30:419][476]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.04-00.37.30:419][476]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.04-00.37.30:419][476]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.04-00.37.30:422][476]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=41
+[2022.12.04-00.37.30:422][476]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=41
+[2022.12.04-00.37.30:426][476]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=41
+[2022.12.04-00.37.30:426][476]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=41
+[2022.12.04-00.37.30:426][476]LogInit: FAudioDevice initialized.
+[2022.12.04-00.37.30:426][476]LogAudio: Display: Audio Device (ID: 41) registered with world 'FirstPersonMap_2'.
+[2022.12.04-00.37.30:533][476]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-00.37.30:533][476]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.12.04-00.37.30:539][476]LogWorld: Bringing World /Game/Cosas/mapa/UEDPIE_0_FirstPersonMap_2.FirstPersonMap_2 up for play (max tick rate 30) at 2022.12.04-01.37.30
+[2022.12.04-00.37.30:539][476]LogWorld: Bringing up level for play took: 0.005055
+[2022.12.04-00.37.30:543][476]LogOnline: OSS: Created online subsystem instance for: :Context_54
+[2022.12.04-00.37.30:545][476]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=2110.000 Y=2320.000 Z=114.841
+[2022.12.04-00.37.30:545][476]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.12.04-00.37.30:555][476]PIE: Server logged in
+[2022.12.04-00.37.30:567][476]PIE: Play in editor total start time 0.308 seconds.
+[2022.12.04-00.37.30:708][476]LogViewport: Scene viewport resized to 1913x980, mode Windowed.
+[2022.12.04-00.37.34:164][570]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-00.37.34:164][570]LogWorld: BeginTearingDown for /Game/Cosas/mapa/UEDPIE_0_FirstPersonMap_2
+[2022.12.04-00.37.34:165][570]LogSlate: Window 'MyProject Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.12.04-00.37.34:228][570]LogWorld: UWorld::CleanupWorld for FirstPersonMap_2, bSessionEnded=true, bCleanupResources=true
+[2022.12.04-00.37.34:229][570]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-00.37.34:249][570]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.04-00.37.34:261][570]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-00.37.34:359][570]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.04-00.37.34:360][570]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2022.12.04-00.37.34:365][570]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2022.12.04-00.37.34:384][570]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2022.12.04-00.37.34:500][571]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2022.12.04-00.37.43:377][745]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.12.04-00.37.43:573][745]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2022.12.04-00.37.44:280][750]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2022.12.04-00.37.44:281][750]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/BP_FirstPersonCharacter41F580D24A101923914E31980CDBD616.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.12.04-00.37.44:334][750]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.12.04-00.37.44:334][750]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.12.04-00.37.45:994][798]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.12.04-00.37.46:020][798]LogWorldPartition: Display: GenerateStreaming started...
+[2022.12.04-00.37.46:020][798]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.12.04-00.37.46:020][798]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.12.04-00.37.46:020][798]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.12.04-00.37.46:020][798]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.12.04-00.37.46:020][798]LogWorldPartition: Display: GetPartitionedActors took 247 us
+[2022.12.04-00.37.46:021][798]LogWorldPartition: Display: GenerateStreaming took 1 ms
+[2022.12.04-00.37.46:021][798]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.04-00.37.46:022][798]PIE: New page: PIE session: FirstPersonMap_2 (Dec 4, 2022, 2:37:46 AM)
+[2022.12.04-00.37.46:022][798]LogPlayLevel: Creating play world package: /Game/Cosas/mapa/UEDPIE_0_FirstPersonMap_2
+[2022.12.04-00.37.46:039][798]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.12.04-00.37.46:039][798]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016465s)
+[2022.12.04-00.37.46:039][798]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cosas/mapa/FirstPersonMap_2.FirstPersonMap_2 to /Game/Cosas/mapa/UEDPIE_0_FirstPersonMap_2.FirstPersonMap_2 (0.016611s)
+[2022.12.04-00.37.46:039][798]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.04-00.37.46:040][798]LogAIModule: Creating AISystem for world FirstPersonMap_2
+[2022.12.04-00.37.46:041][798]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.12.04-00.37.46:041][798]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.12.04-00.37.46:043][798]LogWorldPartition: Display: WorldPartition initialize took 2 ms
+[2022.12.04-00.37.46:043][798]LogPlayLevel: PIE: World Init took: (0.004351s)
+[2022.12.04-00.37.46:128][798]LogUObjectHash: Compacting FUObjectHashTables data took   5.08ms
+[2022.12.04-00.37.46:133][798]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2022.12.04-00.37.46:133][798]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.04-00.37.46:133][798]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.04-00.37.46:133][798]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.04-00.37.46:133][798]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.04-00.37.46:133][798]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.04-00.37.46:133][798]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.04-00.37.46:133][798]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.04-00.37.46:133][798]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.04-00.37.46:134][798]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.04-00.37.46:134][798]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.04-00.37.46:134][798]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.04-00.37.46:138][798]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.04-00.37.46:188][798]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (2- Black Shark Goblin X4 USB Dongle)
+[2022.12.04-00.37.46:189][798]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.04-00.37.46:189][798]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.04-00.37.46:189][798]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.04-00.37.46:191][798]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=42
+[2022.12.04-00.37.46:191][798]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=42
+[2022.12.04-00.37.46:195][798]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=42
+[2022.12.04-00.37.46:195][798]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=42
+[2022.12.04-00.37.46:196][798]LogInit: FAudioDevice initialized.
+[2022.12.04-00.37.46:196][798]LogAudio: Display: Audio Device (ID: 42) registered with world 'FirstPersonMap_2'.
+[2022.12.04-00.37.46:284][798]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-00.37.46:284][798]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.12.04-00.37.46:289][798]LogWorld: Bringing World /Game/Cosas/mapa/UEDPIE_0_FirstPersonMap_2.FirstPersonMap_2 up for play (max tick rate 30) at 2022.12.04-01.37.46
+[2022.12.04-00.37.46:290][798]LogWorld: Bringing up level for play took: 0.005393
+[2022.12.04-00.37.46:294][798]LogOnline: OSS: Created online subsystem instance for: :Context_55
+[2022.12.04-00.37.46:298][798]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=2110.000 Y=2320.000 Z=114.841
+[2022.12.04-00.37.46:299][798]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.12.04-00.37.46:308][798]PIE: Server logged in
+[2022.12.04-00.37.46:316][798]PIE: Play in editor total start time 0.3 seconds.
+[2022.12.04-00.37.46:318][798]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.46:462][798]LogViewport: Scene viewport resized to 1913x980, mode Windowed.
+[2022.12.04-00.37.46:513][799]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.46:629][800]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.46:644][801]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.46:678][802]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.46:712][803]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.46:747][804]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.46:788][805]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.46:829][806]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.46:868][807]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.46:905][808]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.46:943][809]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.46:987][810]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.47:028][811]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.47:063][812]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.47:098][813]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.47:132][814]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.47:166][815]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.47:200][816]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.47:235][817]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.47:271][818]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.47:308][819]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.47:341][820]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.47:381][821]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.47:415][822]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.47:451][823]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.47:488][824]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.47:526][825]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.47:567][826]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.47:601][827]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.47:636][828]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.47:673][829]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.47:714][830]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.47:747][831]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.47:779][832]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.47:814][833]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.47:850][834]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.47:887][835]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.47:924][836]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.47:960][837]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.47:993][838]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.48:026][839]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.48:061][840]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.48:099][841]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.48:135][842]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.48:171][843]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.48:207][844]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.48:244][845]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.48:279][846]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.48:313][847]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.48:348][848]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.48:381][849]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.48:415][850]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.48:451][851]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.48:488][852]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.48:525][853]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.48:561][854]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.48:597][855]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.48:632][856]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.48:669][857]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.48:704][858]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.48:741][859]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.48:779][860]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.48:811][861]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.48:846][862]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.48:879][863]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.48:914][864]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.48:949][865]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.48:985][866]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.49:022][867]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.49:556][882]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.49:593][883]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.49:638][884]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.49:676][885]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.49:716][886]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.37.49:765][886]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-00.37.49:765][886]LogWorld: BeginTearingDown for /Game/Cosas/mapa/UEDPIE_0_FirstPersonMap_2
+[2022.12.04-00.37.49:767][886]LogSlate: Window 'MyProject Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.12.04-00.37.49:815][886]LogWorld: UWorld::CleanupWorld for FirstPersonMap_2, bSessionEnded=true, bCleanupResources=true
+[2022.12.04-00.37.49:816][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-00.37.49:841][886]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.04-00.37.49:857][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-00.37.49:952][886]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.04-00.37.49:953][886]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2022.12.04-00.37.49:958][886]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2022.12.04-00.37.49:976][886]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2022.12.04-00.37.50:102][887]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2022.12.04-00.37.57:560][ 38]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.12.04-00.37.57:756][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2022.12.04-00.37.58:507][ 46]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2022.12.04-00.37.58:508][ 46]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/BP_FirstPersonCharacterAAE5A79C4729F94BADBEC08C9969228E.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.12.04-00.37.58:571][ 46]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.12.04-00.37.58:571][ 46]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.12.04-00.38.13:599][341]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.12.04-00.38.13:788][341]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2022.12.04-00.38.14:535][348]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2022.12.04-00.38.14:537][348]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/BP_FirstPersonCharacter2A69DE144E20ED8899B0EC86EC664CC6.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.12.04-00.38.14:591][348]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.12.04-00.38.14:591][348]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.12.04-00.38.16:029][389]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.12.04-00.38.16:054][389]LogWorldPartition: Display: GenerateStreaming started...
+[2022.12.04-00.38.16:054][389]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.12.04-00.38.16:054][389]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.12.04-00.38.16:054][389]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.12.04-00.38.16:054][389]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.12.04-00.38.16:054][389]LogWorldPartition: Display: GetPartitionedActors took 206 us
+[2022.12.04-00.38.16:055][389]LogWorldPartition: Display: GenerateStreaming took 783 us
+[2022.12.04-00.38.16:055][389]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.04-00.38.16:055][389]PIE: New page: PIE session: FirstPersonMap_2 (Dec 4, 2022, 2:38:16 AM)
+[2022.12.04-00.38.16:055][389]LogPlayLevel: Creating play world package: /Game/Cosas/mapa/UEDPIE_0_FirstPersonMap_2
+[2022.12.04-00.38.16:074][389]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.12.04-00.38.16:074][389]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018508s)
+[2022.12.04-00.38.16:074][389]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cosas/mapa/FirstPersonMap_2.FirstPersonMap_2 to /Game/Cosas/mapa/UEDPIE_0_FirstPersonMap_2.FirstPersonMap_2 (0.018664s)
+[2022.12.04-00.38.16:074][389]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.04-00.38.16:075][389]LogAIModule: Creating AISystem for world FirstPersonMap_2
+[2022.12.04-00.38.16:076][389]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.12.04-00.38.16:076][389]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.12.04-00.38.16:080][389]LogWorldPartition: Display: WorldPartition initialize took 3 ms
+[2022.12.04-00.38.16:080][389]LogPlayLevel: PIE: World Init took: (0.006102s)
+[2022.12.04-00.38.16:171][389]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2022.12.04-00.38.16:176][389]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2022.12.04-00.38.16:176][389]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.04-00.38.16:176][389]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.04-00.38.16:176][389]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.04-00.38.16:176][389]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.04-00.38.16:176][389]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.04-00.38.16:176][389]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.04-00.38.16:176][389]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.04-00.38.16:176][389]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.04-00.38.16:178][389]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.04-00.38.16:178][389]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.04-00.38.16:178][389]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.04-00.38.16:183][389]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.04-00.38.16:245][389]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (2- Black Shark Goblin X4 USB Dongle)
+[2022.12.04-00.38.16:245][389]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.04-00.38.16:245][389]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.04-00.38.16:245][389]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.04-00.38.16:247][389]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=43
+[2022.12.04-00.38.16:247][389]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=43
+[2022.12.04-00.38.16:250][389]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=43
+[2022.12.04-00.38.16:250][389]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=43
+[2022.12.04-00.38.16:250][389]LogInit: FAudioDevice initialized.
+[2022.12.04-00.38.16:250][389]LogAudio: Display: Audio Device (ID: 43) registered with world 'FirstPersonMap_2'.
+[2022.12.04-00.38.16:343][389]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-00.38.16:343][389]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.12.04-00.38.16:351][389]LogWorld: Bringing World /Game/Cosas/mapa/UEDPIE_0_FirstPersonMap_2.FirstPersonMap_2 up for play (max tick rate 30) at 2022.12.04-01.38.16
+[2022.12.04-00.38.16:352][389]LogWorld: Bringing up level for play took: 0.008130
+[2022.12.04-00.38.16:356][389]LogOnline: OSS: Created online subsystem instance for: :Context_56
+[2022.12.04-00.38.16:359][389]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=2110.000 Y=2320.000 Z=114.841
+[2022.12.04-00.38.16:359][389]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.12.04-00.38.16:375][389]PIE: Server logged in
+[2022.12.04-00.38.16:382][389]PIE: Play in editor total start time 0.33 seconds.
+[2022.12.04-00.38.16:384][389]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.16:525][389]LogViewport: Scene viewport resized to 1913x980, mode Windowed.
+[2022.12.04-00.38.16:608][390]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.16:687][391]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.16:717][392]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.16:750][393]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.16:788][394]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.16:829][395]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.16:866][396]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.16:910][397]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.17:428][411]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.17:461][412]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.17:500][413]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.17:536][414]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.17:573][415]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.17:606][416]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.17:644][417]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.17:683][418]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.17:717][419]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.18:041][428]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.18:074][429]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.18:107][430]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.18:141][431]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.18:175][432]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.18:208][433]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.18:242][434]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.18:274][435]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.18:312][436]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.18:346][437]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.18:383][438]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.18:420][439]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.18:454][440]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.18:489][441]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.18:522][442]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.18:556][443]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.18:590][444]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.18:624][445]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.18:656][446]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.18:690][447]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.18:724][448]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.18:757][449]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.18:790][450]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.18:825][451]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.18:859][452]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.18:891][453]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.18:930][454]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.18:968][455]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.19:005][456]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.19:040][457]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.19:072][458]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.19:109][459]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.19:146][460]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.19:182][461]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.19:221][462]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.19:254][463]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.19:287][464]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.19:321][465]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.19:361][466]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.19:395][467]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.19:432][468]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.19:467][469]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.19:504][470]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.19:538][471]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.19:573][472]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.19:608][473]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.19:640][474]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.19:674][475]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.19:706][476]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.19:740][477]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.19:774][478]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.19:808][479]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.19:840][480]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.19:878][481]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.19:913][482]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.19:952][483]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.19:988][484]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.20:024][485]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.20:058][486]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.20:092][487]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.20:127][488]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.20:167][489]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.20:207][490]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.20:243][491]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.20:276][492]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.20:311][493]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.20:349][494]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.21:145][517]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.21:176][518]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.21:208][519]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.21:242][520]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.21:275][521]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.21:309][522]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.21:342][523]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.21:376][524]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.21:408][525]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.21:441][526]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.21:475][527]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.21:510][528]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.21:545][529]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.21:580][530]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.21:616][531]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.21:651][532]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.21:690][533]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.21:726][534]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.21:761][535]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.21:797][536]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.21:836][537]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.21:869][538]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.21:904][539]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.21:939][540]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.21:972][541]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.22:007][542]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.22:042][543]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.22:074][544]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.22:108][545]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.22:145][546]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.22:185][547]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.22:221][548]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.22:254][549]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.22:290][550]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.22:325][551]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.22:365][552]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.22:405][553]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.22:440][554]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.22:474][555]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.22:515][556]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.22:552][557]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.22:589][558]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.22:624][559]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.22:660][560]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.22:697][561]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.22:736][562]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.22:776][563]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.22:812][564]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.22:847][565]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.22:885][566]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.22:926][567]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.22:961][568]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.23:001][569]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.23:036][570]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.23:072][571]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.23:107][572]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.23:144][572]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-00.38.23:144][572]LogWorld: BeginTearingDown for /Game/Cosas/mapa/UEDPIE_0_FirstPersonMap_2
+[2022.12.04-00.38.23:146][572]LogSlate: Window 'MyProject Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.12.04-00.38.23:204][572]LogWorld: UWorld::CleanupWorld for FirstPersonMap_2, bSessionEnded=true, bCleanupResources=true
+[2022.12.04-00.38.23:205][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-00.38.23:224][572]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.04-00.38.23:246][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-00.38.23:345][572]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.04-00.38.23:346][572]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2022.12.04-00.38.23:349][572]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2022.12.04-00.38.23:366][572]LogUObjectHash: Compacting FUObjectHashTables data took   6.01ms
+[2022.12.04-00.38.23:481][573]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2022.12.04-00.38.24:274][594]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.12.04-00.38.24:295][594]LogWorldPartition: Display: GenerateStreaming started...
+[2022.12.04-00.38.24:295][594]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.12.04-00.38.24:296][594]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.12.04-00.38.24:296][594]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.12.04-00.38.24:296][594]LogWorldPartition: Display: ValidateSingleActorReferer took 1 us
+[2022.12.04-00.38.24:296][594]LogWorldPartition: Display: GetPartitionedActors took 736 us
+[2022.12.04-00.38.24:297][594]LogWorldPartition: Display: GenerateStreaming took 1 ms
+[2022.12.04-00.38.24:297][594]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.04-00.38.24:298][594]PIE: New page: PIE session: FirstPersonMap_2 (Dec 4, 2022, 2:38:24 AM)
+[2022.12.04-00.38.24:299][594]LogPlayLevel: Creating play world package: /Game/Cosas/mapa/UEDPIE_0_FirstPersonMap_2
+[2022.12.04-00.38.24:313][594]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.12.04-00.38.24:313][594]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014396s)
+[2022.12.04-00.38.24:314][594]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cosas/mapa/FirstPersonMap_2.FirstPersonMap_2 to /Game/Cosas/mapa/UEDPIE_0_FirstPersonMap_2.FirstPersonMap_2 (0.014769s)
+[2022.12.04-00.38.24:314][594]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.04-00.38.24:314][594]LogAIModule: Creating AISystem for world FirstPersonMap_2
+[2022.12.04-00.38.24:315][594]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.12.04-00.38.24:315][594]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.12.04-00.38.24:319][594]LogWorldPartition: Display: WorldPartition initialize took 3 ms
+[2022.12.04-00.38.24:319][594]LogPlayLevel: PIE: World Init took: (0.005573s)
+[2022.12.04-00.38.24:404][594]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2022.12.04-00.38.24:406][594]LogAudio: Display: Creating Audio Device:                 Id: 44, Scope: Unique, Realtime: True
+[2022.12.04-00.38.24:406][594]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.04-00.38.24:406][594]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.04-00.38.24:407][594]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.04-00.38.24:407][594]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.04-00.38.24:407][594]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.04-00.38.24:407][594]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.04-00.38.24:407][594]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.04-00.38.24:407][594]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.04-00.38.24:408][594]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.04-00.38.24:408][594]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.04-00.38.24:408][594]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.04-00.38.24:412][594]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.04-00.38.24:468][594]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (2- Black Shark Goblin X4 USB Dongle)
+[2022.12.04-00.38.24:469][594]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.04-00.38.24:470][594]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.04-00.38.24:470][594]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.04-00.38.24:472][594]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=44
+[2022.12.04-00.38.24:473][594]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=44
+[2022.12.04-00.38.24:476][594]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=44
+[2022.12.04-00.38.24:476][594]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=44
+[2022.12.04-00.38.24:476][594]LogInit: FAudioDevice initialized.
+[2022.12.04-00.38.24:476][594]LogAudio: Display: Audio Device (ID: 44) registered with world 'FirstPersonMap_2'.
+[2022.12.04-00.38.24:580][594]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-00.38.24:580][594]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.12.04-00.38.24:585][594]LogWorld: Bringing World /Game/Cosas/mapa/UEDPIE_0_FirstPersonMap_2.FirstPersonMap_2 up for play (max tick rate 30) at 2022.12.04-01.38.24
+[2022.12.04-00.38.24:586][594]LogWorld: Bringing up level for play took: 0.005421
+[2022.12.04-00.38.24:590][594]LogOnline: OSS: Created online subsystem instance for: :Context_57
+[2022.12.04-00.38.24:593][594]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=2110.000 Y=2320.000 Z=114.841
+[2022.12.04-00.38.24:593][594]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.12.04-00.38.24:608][594]PIE: Server logged in
+[2022.12.04-00.38.24:614][594]PIE: Play in editor total start time 0.322 seconds.
+[2022.12.04-00.38.24:618][594]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.24:759][594]LogViewport: Scene viewport resized to 1913x980, mode Windowed.
+[2022.12.04-00.38.24:810][595]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.24:903][596]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.24:934][597]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.24:992][598]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.25:008][599]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.25:045][600]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.25:084][601]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.25:122][602]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.25:160][603]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.25:202][604]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.25:241][605]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.25:275][606]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.25:307][607]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.25:343][608]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.25:380][609]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.25:418][610]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.25:453][611]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.25:490][612]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.25:525][613]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.25:558][614]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.25:596][615]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.25:635][616]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.25:675][617]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.25:711][618]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.25:745][619]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.25:779][620]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.25:814][621]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.25:855][622]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.25:894][623]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.25:929][624]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.25:968][625]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.26:004][626]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.26:039][627]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.26:072][628]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.26:108][629]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.26:140][630]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.26:173][631]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.26:209][632]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.26:244][633]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.26:277][634]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.26:316][635]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.26:348][636]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.26:382][637]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.26:421][638]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.26:455][639]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.26:488][640]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.26:522][641]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.26:557][642]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.26:591][643]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.26:625][644]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.26:658][645]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.26:692][646]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.26:725][647]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.26:762][648]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.26:802][649]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.26:838][650]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.26:872][651]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.26:907][652]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.26:943][653]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.26:977][654]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.27:011][655]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.27:049][656]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.27:085][657]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.27:121][658]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.27:157][659]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.27:190][660]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.27:224][661]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.27:257][662]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.27:290][663]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.27:324][664]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.33:622][838]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.33:656][839]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.33:689][840]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.33:723][841]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.33:757][842]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.33:790][843]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.33:824][844]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.33:865][845]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.33:901][846]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.33:941][847]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.33:976][848]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.34:009][849]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.34:042][850]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.34:077][851]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.34:114][852]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.34:154][853]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.34:190][854]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.34:224][855]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.34:256][856]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.34:290][857]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.34:323][858]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.34:358][859]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.34:397][860]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.34:435][861]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.34:468][862]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.34:503][863]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.34:541][864]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.34:574][865]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.34:612][866]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.34:649][867]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.34:685][868]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.34:719][869]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.34:756][870]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.34:801][871]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.34:838][872]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.34:874][873]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.34:912][874]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.34:949][875]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.34:989][876]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.35:023][877]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.35:058][878]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.35:089][879]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.35:127][880]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.35:166][881]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.35:204][882]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.35:241][883]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.35:272][884]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.35:305][885]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.35:343][886]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.35:377][887]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.35:414][888]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.35:451][889]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.35:486][890]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.35:523][891]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.35:561][892]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.35:601][893]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.38.35:634][893]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-00.38.35:634][893]LogWorld: BeginTearingDown for /Game/Cosas/mapa/UEDPIE_0_FirstPersonMap_2
+[2022.12.04-00.38.35:636][893]LogSlate: Window 'MyProject Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.12.04-00.38.35:666][893]LogWorld: UWorld::CleanupWorld for FirstPersonMap_2, bSessionEnded=true, bCleanupResources=true
+[2022.12.04-00.38.35:667][893]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-00.38.35:692][893]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.04-00.38.35:702][893]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-00.38.35:796][893]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2022.12.04-00.38.35:802][893]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2022.12.04-00.38.35:821][893]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2022.12.04-00.38.35:942][894]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2022.12.04-00.38.46:412][ 90]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.12.04-00.38.46:585][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2022.12.04-00.38.47:183][ 94]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2022.12.04-00.38.47:184][ 94]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/BP_FirstPersonCharacter330C61A14BEC606EA6483DA99B4544E5.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.12.04-00.38.47:242][ 94]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.12.04-00.38.47:242][ 94]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.12.04-00.47.03:680][905]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.12.04-00.47.03:901][905]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2022.12.04-00.47.04:434][907]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2022.12.04-00.47.04:435][907]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/BP_FirstPersonCharacterBDF927714EF9933CC43CE79EF18C3344.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.12.04-00.47.04:494][907]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.12.04-00.47.04:494][907]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.12.04-00.47.08:014][  1]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.12.04-00.47.08:037][  1]LogWorldPartition: Display: GenerateStreaming started...
+[2022.12.04-00.47.08:037][  1]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.12.04-00.47.08:037][  1]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.12.04-00.47.08:038][  1]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.12.04-00.47.08:038][  1]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.12.04-00.47.08:038][  1]LogWorldPartition: Display: GetPartitionedActors took 406 us
+[2022.12.04-00.47.08:039][  1]LogWorldPartition: Display: GenerateStreaming took 1 ms
+[2022.12.04-00.47.08:039][  1]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.04-00.47.08:040][  1]PIE: New page: PIE session: FirstPersonMap_2 (Dec 4, 2022, 2:47:08 AM)
+[2022.12.04-00.47.08:040][  1]LogPlayLevel: Creating play world package: /Game/Cosas/mapa/UEDPIE_0_FirstPersonMap_2
+[2022.12.04-00.47.08:058][  1]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.12.04-00.47.08:058][  1]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017964s)
+[2022.12.04-00.47.08:058][  1]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cosas/mapa/FirstPersonMap_2.FirstPersonMap_2 to /Game/Cosas/mapa/UEDPIE_0_FirstPersonMap_2.FirstPersonMap_2 (0.018189s)
+[2022.12.04-00.47.08:058][  1]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.04-00.47.08:060][  1]LogAIModule: Creating AISystem for world FirstPersonMap_2
+[2022.12.04-00.47.08:062][  1]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.12.04-00.47.08:062][  1]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.12.04-00.47.08:068][  1]LogWorldPartition: Display: WorldPartition initialize took 6 ms
+[2022.12.04-00.47.08:069][  1]LogPlayLevel: PIE: World Init took: (0.010359s)
+[2022.12.04-00.47.08:153][  1]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2022.12.04-00.47.08:159][  1]LogAudio: Display: Creating Audio Device:                 Id: 45, Scope: Unique, Realtime: True
+[2022.12.04-00.47.08:159][  1]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.04-00.47.08:159][  1]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.04-00.47.08:159][  1]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.04-00.47.08:159][  1]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.04-00.47.08:159][  1]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.04-00.47.08:159][  1]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.04-00.47.08:159][  1]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.04-00.47.08:159][  1]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.04-00.47.08:160][  1]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.04-00.47.08:160][  1]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.04-00.47.08:160][  1]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.04-00.47.08:165][  1]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.04-00.47.08:216][  1]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (2- Black Shark Goblin X4 USB Dongle)
+[2022.12.04-00.47.08:217][  1]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.04-00.47.08:217][  1]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.04-00.47.08:217][  1]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.04-00.47.08:221][  1]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=45
+[2022.12.04-00.47.08:221][  1]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=45
+[2022.12.04-00.47.08:225][  1]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=45
+[2022.12.04-00.47.08:225][  1]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=45
+[2022.12.04-00.47.08:225][  1]LogInit: FAudioDevice initialized.
+[2022.12.04-00.47.08:225][  1]LogAudio: Display: Audio Device (ID: 45) registered with world 'FirstPersonMap_2'.
+[2022.12.04-00.47.08:326][  1]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-00.47.08:326][  1]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.12.04-00.47.08:332][  1]LogWorld: Bringing World /Game/Cosas/mapa/UEDPIE_0_FirstPersonMap_2.FirstPersonMap_2 up for play (max tick rate 30) at 2022.12.04-01.47.08
+[2022.12.04-00.47.08:333][  1]LogWorld: Bringing up level for play took: 0.006493
+[2022.12.04-00.47.08:337][  1]LogOnline: OSS: Created online subsystem instance for: :Context_58
+[2022.12.04-00.47.08:341][  1]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=2110.000 Y=2320.000 Z=114.841
+[2022.12.04-00.47.08:341][  1]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.12.04-00.47.08:353][  1]PIE: Server logged in
+[2022.12.04-00.47.08:363][  1]PIE: Play in editor total start time 0.328 seconds.
+[2022.12.04-00.47.08:512][  1]LogViewport: Scene viewport resized to 1913x980, mode Windowed.
+[2022.12.04-00.47.32:105][594]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-00.47.32:105][594]LogWorld: BeginTearingDown for /Game/Cosas/mapa/UEDPIE_0_FirstPersonMap_2
+[2022.12.04-00.47.32:108][594]LogSlate: Window 'MyProject Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.12.04-00.47.32:166][594]LogWorld: UWorld::CleanupWorld for FirstPersonMap_2, bSessionEnded=true, bCleanupResources=true
+[2022.12.04-00.47.32:167][594]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-00.47.32:188][594]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.04-00.47.32:209][594]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-00.47.32:322][594]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.04-00.47.32:323][594]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45
+[2022.12.04-00.47.32:327][594]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45
+[2022.12.04-00.47.32:347][594]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2022.12.04-00.47.32:465][595]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2022.12.04-00.47.43:638][809]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.12.04-00.47.43:665][809]LogWorldPartition: Display: GenerateStreaming started...
+[2022.12.04-00.47.43:665][809]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.12.04-00.47.43:665][809]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.12.04-00.47.43:665][809]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.12.04-00.47.43:665][809]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.12.04-00.47.43:665][809]LogWorldPartition: Display: GetPartitionedActors took 272 us
+[2022.12.04-00.47.43:666][809]LogWorldPartition: Display: GenerateStreaming took 1 ms
+[2022.12.04-00.47.43:667][809]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.12.04-00.47.43:682][809]LogPlayLevel: [PlayLevel] Compiling BP_FirstPersonCharacter before play...
+[2022.12.04-00.47.43:947][809]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2022.12.04-00.47.43:948][809]LogPlayLevel: PlayLevel: Blueprint regeneration took 281 ms (1 blueprints)
+[2022.12.04-00.47.43:948][809]PIE: New page: PIE session: FirstPersonMap_2 (Dec 4, 2022, 2:47:43 AM)
+[2022.12.04-00.47.43:948][809]LogPlayLevel: Creating play world package: /Game/Cosas/mapa/UEDPIE_0_FirstPersonMap_2
+[2022.12.04-00.47.43:960][809]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.12.04-00.47.43:960][809]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011166s)
+[2022.12.04-00.47.43:960][809]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cosas/mapa/FirstPersonMap_2.FirstPersonMap_2 to /Game/Cosas/mapa/UEDPIE_0_FirstPersonMap_2.FirstPersonMap_2 (0.011288s)
+[2022.12.04-00.47.43:960][809]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.04-00.47.43:961][809]LogAIModule: Creating AISystem for world FirstPersonMap_2
+[2022.12.04-00.47.43:962][809]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.12.04-00.47.43:963][809]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.12.04-00.47.43:966][809]LogWorldPartition: Display: WorldPartition initialize took 3 ms
+[2022.12.04-00.47.43:966][809]LogPlayLevel: PIE: World Init took: (0.005917s)
+[2022.12.04-00.47.44:047][809]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2022.12.04-00.47.44:049][809]LogAudio: Display: Creating Audio Device:                 Id: 46, Scope: Unique, Realtime: True
+[2022.12.04-00.47.44:049][809]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.04-00.47.44:049][809]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.04-00.47.44:049][809]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.04-00.47.44:049][809]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.04-00.47.44:049][809]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.04-00.47.44:049][809]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.04-00.47.44:049][809]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.04-00.47.44:049][809]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.04-00.47.44:051][809]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.04-00.47.44:052][809]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.04-00.47.44:052][809]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.04-00.47.44:056][809]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.04-00.47.44:113][809]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (2- Black Shark Goblin X4 USB Dongle)
+[2022.12.04-00.47.44:114][809]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.04-00.47.44:114][809]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.04-00.47.44:114][809]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.04-00.47.44:118][809]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=46
+[2022.12.04-00.47.44:118][809]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=46
+[2022.12.04-00.47.44:122][809]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=46
+[2022.12.04-00.47.44:122][809]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=46
+[2022.12.04-00.47.44:122][809]LogInit: FAudioDevice initialized.
+[2022.12.04-00.47.44:122][809]LogAudio: Display: Audio Device (ID: 46) registered with world 'FirstPersonMap_2'.
+[2022.12.04-00.47.44:222][809]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-00.47.44:223][809]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.12.04-00.47.44:228][809]LogWorld: Bringing World /Game/Cosas/mapa/UEDPIE_0_FirstPersonMap_2.FirstPersonMap_2 up for play (max tick rate 30) at 2022.12.04-01.47.44
+[2022.12.04-00.47.44:230][809]LogWorld: Bringing up level for play took: 0.006811
+[2022.12.04-00.47.44:237][809]LogOnline: OSS: Created online subsystem instance for: :Context_59
+[2022.12.04-00.47.44:243][809]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=2110.000 Y=2320.000 Z=114.841
+[2022.12.04-00.47.44:243][809]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.12.04-00.47.44:249][809]PIE: Server logged in
+[2022.12.04-00.47.44:255][809]PIE: Play in editor total start time 0.598 seconds.
+[2022.12.04-00.47.44:398][809]LogViewport: Scene viewport resized to 1913x980, mode Windowed.
+[2022.12.04-00.47.45:038][822]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.47.46:051][846]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.47.47:088][872]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.47.48:123][898]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.47.49:134][923]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.47.50:172][949]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.47.51:208][975]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.47.52:220][  0]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.47.54:396][ 55]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.47.55:404][ 80]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.47.56:403][106]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.47.58:532][158]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.47.59:552][184]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.48.00:570][209]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.48.01:576][234]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.48.02:609][260]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.48.03:612][285]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.48.04:651][311]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.48.05:666][336]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.48.14:025][542]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.48.15:034][567]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.48.16:015][590]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-00.48.16:015][590]LogWorld: BeginTearingDown for /Game/Cosas/mapa/UEDPIE_0_FirstPersonMap_2
+[2022.12.04-00.48.16:017][590]LogSlate: Window 'MyProject Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.12.04-00.48.16:077][590]LogWorld: UWorld::CleanupWorld for FirstPersonMap_2, bSessionEnded=true, bCleanupResources=true
+[2022.12.04-00.48.16:078][590]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-00.48.16:101][590]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.04-00.48.16:120][590]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-00.48.16:234][590]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46
+[2022.12.04-00.48.16:239][590]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46
+[2022.12.04-00.48.16:259][590]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2022.12.04-00.48.16:424][591]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2022.12.04-00.48.34:207][944]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.12.04-00.48.34:419][944]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2022.12.04-00.48.35:022][945]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2022.12.04-00.48.35:023][945]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/BP_FirstPersonCharacter2EBBB95E49E53FD542902395B9F53437.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.12.04-00.48.35:078][945]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.12.04-00.48.35:078][945]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.12.04-00.48.36:858][992]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.12.04-00.48.36:884][992]LogWorldPartition: Display: GenerateStreaming started...
+[2022.12.04-00.48.36:884][992]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.12.04-00.48.36:884][992]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.12.04-00.48.36:884][992]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.12.04-00.48.36:884][992]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.12.04-00.48.36:884][992]LogWorldPartition: Display: GetPartitionedActors took 115 us
+[2022.12.04-00.48.36:885][992]LogWorldPartition: Display: GenerateStreaming took 615 us
+[2022.12.04-00.48.36:885][992]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.04-00.48.36:885][992]PIE: New page: PIE session: FirstPersonMap_2 (Dec 4, 2022, 2:48:36 AM)
+[2022.12.04-00.48.36:885][992]LogPlayLevel: Creating play world package: /Game/Cosas/mapa/UEDPIE_0_FirstPersonMap_2
+[2022.12.04-00.48.36:920][992]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.12.04-00.48.36:920][992]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034809s)
+[2022.12.04-00.48.36:920][992]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cosas/mapa/FirstPersonMap_2.FirstPersonMap_2 to /Game/Cosas/mapa/UEDPIE_0_FirstPersonMap_2.FirstPersonMap_2 (0.035008s)
+[2022.12.04-00.48.36:921][992]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.04-00.48.36:922][992]LogAIModule: Creating AISystem for world FirstPersonMap_2
+[2022.12.04-00.48.36:923][992]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.12.04-00.48.36:923][992]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.12.04-00.48.36:927][992]LogWorldPartition: Display: WorldPartition initialize took 4 ms
+[2022.12.04-00.48.36:928][992]LogPlayLevel: PIE: World Init took: (0.007465s)
+[2022.12.04-00.48.37:020][992]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2022.12.04-00.48.37:026][992]LogAudio: Display: Creating Audio Device:                 Id: 47, Scope: Unique, Realtime: True
+[2022.12.04-00.48.37:026][992]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.04-00.48.37:026][992]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.04-00.48.37:026][992]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.04-00.48.37:026][992]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.04-00.48.37:026][992]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.04-00.48.37:026][992]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.04-00.48.37:026][992]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.04-00.48.37:026][992]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.04-00.48.37:029][992]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.04-00.48.37:029][992]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.04-00.48.37:029][992]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.04-00.48.37:034][992]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.04-00.48.37:091][992]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (2- Black Shark Goblin X4 USB Dongle)
+[2022.12.04-00.48.37:092][992]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.04-00.48.37:092][992]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.04-00.48.37:092][992]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.04-00.48.37:097][992]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=47
+[2022.12.04-00.48.37:098][992]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=47
+[2022.12.04-00.48.37:101][992]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=47
+[2022.12.04-00.48.37:101][992]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=47
+[2022.12.04-00.48.37:101][992]LogInit: FAudioDevice initialized.
+[2022.12.04-00.48.37:101][992]LogAudio: Display: Audio Device (ID: 47) registered with world 'FirstPersonMap_2'.
+[2022.12.04-00.48.37:214][992]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-00.48.37:214][992]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.12.04-00.48.37:220][992]LogWorld: Bringing World /Game/Cosas/mapa/UEDPIE_0_FirstPersonMap_2.FirstPersonMap_2 up for play (max tick rate 30) at 2022.12.04-01.48.37
+[2022.12.04-00.48.37:221][992]LogWorld: Bringing up level for play took: 0.006129
+[2022.12.04-00.48.37:225][992]LogOnline: OSS: Created online subsystem instance for: :Context_60
+[2022.12.04-00.48.37:228][992]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=2110.000 Y=2320.000 Z=114.841
+[2022.12.04-00.48.37:228][992]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.12.04-00.48.37:249][992]PIE: Server logged in
+[2022.12.04-00.48.37:257][992]PIE: Play in editor total start time 0.375 seconds.
+[2022.12.04-00.48.37:424][992]LogViewport: Scene viewport resized to 1913x980, mode Windowed.
+[2022.12.04-00.48.38:048][  5]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.48.46:744][214]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-00.48.46:744][214]LogWorld: BeginTearingDown for /Game/Cosas/mapa/UEDPIE_0_FirstPersonMap_2
+[2022.12.04-00.48.46:746][214]LogSlate: Window 'MyProject Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.12.04-00.48.46:822][214]LogWorld: UWorld::CleanupWorld for FirstPersonMap_2, bSessionEnded=true, bCleanupResources=true
+[2022.12.04-00.48.46:823][214]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-00.48.46:853][214]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.04-00.48.46:872][214]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-00.48.47:006][214]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.04-00.48.47:007][214]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=47
+[2022.12.04-00.48.47:011][214]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=47
+[2022.12.04-00.48.47:028][214]LogUObjectHash: Compacting FUObjectHashTables data took   6.17ms
+[2022.12.04-00.48.47:180][215]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2022.12.04-00.49.45:932][693]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.12.04-00.49.46:109][693]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2022.12.04-00.49.46:662][695]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2022.12.04-00.49.46:665][695]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/BP_FirstPersonCharacter28A8F1E84D05A3660FC81AA40AE57325.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.12.04-00.49.46:713][695]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.12.04-00.49.46:713][695]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.12.04-00.49.52:571][861]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.12.04-00.49.52:595][861]LogWorldPartition: Display: GenerateStreaming started...
+[2022.12.04-00.49.52:595][861]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.12.04-00.49.52:595][861]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.12.04-00.49.52:595][861]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.12.04-00.49.52:595][861]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.12.04-00.49.52:595][861]LogWorldPartition: Display: GetPartitionedActors took 196 us
+[2022.12.04-00.49.52:596][861]LogWorldPartition: Display: GenerateStreaming took 852 us
+[2022.12.04-00.49.52:596][861]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.04-00.49.52:597][861]PIE: New page: PIE session: FirstPersonMap_2 (Dec 4, 2022, 2:49:52 AM)
+[2022.12.04-00.49.52:597][861]LogPlayLevel: Creating play world package: /Game/Cosas/mapa/UEDPIE_0_FirstPersonMap_2
+[2022.12.04-00.49.52:611][861]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.12.04-00.49.52:611][861]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013850s)
+[2022.12.04-00.49.52:611][861]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cosas/mapa/FirstPersonMap_2.FirstPersonMap_2 to /Game/Cosas/mapa/UEDPIE_0_FirstPersonMap_2.FirstPersonMap_2 (0.014140s)
+[2022.12.04-00.49.52:612][861]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.04-00.49.52:612][861]LogAIModule: Creating AISystem for world FirstPersonMap_2
+[2022.12.04-00.49.52:613][861]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.12.04-00.49.52:614][861]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.12.04-00.49.52:617][861]LogWorldPartition: Display: WorldPartition initialize took 3 ms
+[2022.12.04-00.49.52:617][861]LogPlayLevel: PIE: World Init took: (0.006088s)
+[2022.12.04-00.49.52:692][861]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2022.12.04-00.49.52:697][861]LogAudio: Display: Creating Audio Device:                 Id: 48, Scope: Unique, Realtime: True
+[2022.12.04-00.49.52:698][861]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.04-00.49.52:698][861]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.04-00.49.52:698][861]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.04-00.49.52:698][861]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.04-00.49.52:698][861]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.04-00.49.52:698][861]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.04-00.49.52:698][861]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.04-00.49.52:698][861]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.04-00.49.52:699][861]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.04-00.49.52:699][861]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.04-00.49.52:699][861]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.04-00.49.52:705][861]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.04-00.49.52:748][861]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (2- Black Shark Goblin X4 USB Dongle)
+[2022.12.04-00.49.52:748][861]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.04-00.49.52:748][861]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.04-00.49.52:748][861]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.04-00.49.52:751][861]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=48
+[2022.12.04-00.49.52:751][861]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=48
+[2022.12.04-00.49.52:755][861]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=48
+[2022.12.04-00.49.52:755][861]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=48
+[2022.12.04-00.49.52:755][861]LogInit: FAudioDevice initialized.
+[2022.12.04-00.49.52:755][861]LogAudio: Display: Audio Device (ID: 48) registered with world 'FirstPersonMap_2'.
+[2022.12.04-00.49.52:850][861]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-00.49.52:850][861]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.12.04-00.49.52:857][861]LogWorld: Bringing World /Game/Cosas/mapa/UEDPIE_0_FirstPersonMap_2.FirstPersonMap_2 up for play (max tick rate 30) at 2022.12.04-01.49.52
+[2022.12.04-00.49.52:858][861]LogWorld: Bringing up level for play took: 0.006994
+[2022.12.04-00.49.52:864][861]LogOnline: OSS: Created online subsystem instance for: :Context_61
+[2022.12.04-00.49.52:870][861]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=2110.000 Y=2320.000 Z=114.841
+[2022.12.04-00.49.52:870][861]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.12.04-00.49.52:878][861]PIE: Server logged in
+[2022.12.04-00.49.52:885][861]PIE: Play in editor total start time 0.295 seconds.
+[2022.12.04-00.49.53:022][861]LogViewport: Scene viewport resized to 1913x980, mode Windowed.
+[2022.12.04-00.49.53:629][875]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.49.54:655][902]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.49.55:688][929]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.49.56:694][956]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.49.57:718][984]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.49.58:724][ 12]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.49.59:733][ 39]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.50.00:736][ 65]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.50.01:737][ 90]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.50.02:767][116]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.50.11:784][347]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-00.50.11:784][347]LogWorld: BeginTearingDown for /Game/Cosas/mapa/UEDPIE_0_FirstPersonMap_2
+[2022.12.04-00.50.11:786][347]LogSlate: Window 'MyProject Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.12.04-00.50.11:859][347]LogWorld: UWorld::CleanupWorld for FirstPersonMap_2, bSessionEnded=true, bCleanupResources=true
+[2022.12.04-00.50.11:860][347]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-00.50.11:885][347]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.04-00.50.11:900][347]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-00.50.12:027][347]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.04-00.50.12:029][347]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=48
+[2022.12.04-00.50.12:033][347]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=48
+[2022.12.04-00.50.12:059][347]LogUObjectHash: Compacting FUObjectHashTables data took   6.45ms
+[2022.12.04-00.50.12:185][348]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2022.12.04-00.50.21:034][542]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.12.04-00.50.21:221][542]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2022.12.04-00.50.22:129][551]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2022.12.04-00.50.22:131][551]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/BP_FirstPersonCharacter81B6F4D24080AEDAABA8BB9E616F3B81.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.12.04-00.50.22:189][551]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.12.04-00.50.22:189][551]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.12.04-00.50.23:577][587]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.12.04-00.50.23:608][587]LogWorldPartition: Display: GenerateStreaming started...
+[2022.12.04-00.50.23:608][587]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.12.04-00.50.23:608][587]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.12.04-00.50.23:609][587]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.12.04-00.50.23:609][587]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.12.04-00.50.23:609][587]LogWorldPartition: Display: GetPartitionedActors took 136 us
+[2022.12.04-00.50.23:609][587]LogWorldPartition: Display: GenerateStreaming took 499 us
+[2022.12.04-00.50.23:609][587]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.04-00.50.23:609][587]PIE: New page: PIE session: FirstPersonMap_2 (Dec 4, 2022, 2:50:23 AM)
+[2022.12.04-00.50.23:610][587]LogPlayLevel: Creating play world package: /Game/Cosas/mapa/UEDPIE_0_FirstPersonMap_2
+[2022.12.04-00.50.23:625][587]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.12.04-00.50.23:625][587]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015396s)
+[2022.12.04-00.50.23:625][587]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cosas/mapa/FirstPersonMap_2.FirstPersonMap_2 to /Game/Cosas/mapa/UEDPIE_0_FirstPersonMap_2.FirstPersonMap_2 (0.015569s)
+[2022.12.04-00.50.23:625][587]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.04-00.50.23:626][587]LogAIModule: Creating AISystem for world FirstPersonMap_2
+[2022.12.04-00.50.23:627][587]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.12.04-00.50.23:627][587]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.12.04-00.50.23:634][587]LogWorldPartition: Display: WorldPartition initialize took 6 ms
+[2022.12.04-00.50.23:634][587]LogPlayLevel: PIE: World Init took: (0.009069s)
+[2022.12.04-00.50.23:721][587]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2022.12.04-00.50.23:727][587]LogAudio: Display: Creating Audio Device:                 Id: 49, Scope: Unique, Realtime: True
+[2022.12.04-00.50.23:727][587]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.04-00.50.23:727][587]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.04-00.50.23:727][587]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.04-00.50.23:727][587]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.04-00.50.23:727][587]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.04-00.50.23:727][587]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.04-00.50.23:727][587]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.04-00.50.23:727][587]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.04-00.50.23:729][587]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.04-00.50.23:729][587]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.04-00.50.23:729][587]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.04-00.50.23:735][587]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.04-00.50.23:785][587]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (2- Black Shark Goblin X4 USB Dongle)
+[2022.12.04-00.50.23:786][587]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.04-00.50.23:786][587]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.04-00.50.23:786][587]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.04-00.50.23:788][587]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=49
+[2022.12.04-00.50.23:788][587]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=49
+[2022.12.04-00.50.23:791][587]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=49
+[2022.12.04-00.50.23:791][587]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=49
+[2022.12.04-00.50.23:791][587]LogInit: FAudioDevice initialized.
+[2022.12.04-00.50.23:791][587]LogAudio: Display: Audio Device (ID: 49) registered with world 'FirstPersonMap_2'.
+[2022.12.04-00.50.23:886][587]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-00.50.23:886][587]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.12.04-00.50.23:891][587]LogWorld: Bringing World /Game/Cosas/mapa/UEDPIE_0_FirstPersonMap_2.FirstPersonMap_2 up for play (max tick rate 30) at 2022.12.04-01.50.23
+[2022.12.04-00.50.23:892][587]LogWorld: Bringing up level for play took: 0.005107
+[2022.12.04-00.50.23:898][587]LogOnline: OSS: Created online subsystem instance for: :Context_62
+[2022.12.04-00.50.23:903][587]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=2110.000 Y=2320.000 Z=114.841
+[2022.12.04-00.50.23:903][587]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.12.04-00.50.23:913][587]PIE: Server logged in
+[2022.12.04-00.50.23:923][587]PIE: Play in editor total start time 0.317 seconds.
+[2022.12.04-00.50.24:047][587]LogViewport: Scene viewport resized to 1913x980, mode Windowed.
+[2022.12.04-00.50.25:745][626]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.50.26:187][637]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.50.26:616][648]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.50.27:033][658]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.50.27:464][669]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.50.27:864][679]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.50.28:286][690]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.50.28:704][701]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.50.29:137][712]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.50.29:567][723]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.50.29:987][734]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.50.30:411][744]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.50.30:817][754]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.50.31:243][764]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.50.31:677][775]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.50.32:089][785]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.50.32:504][795]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.50.32:910][805]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.50.33:325][815]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.50.33:738][825]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.50.34:141][835]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.50.34:547][845]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.50.34:958][855]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.50.35:389][866]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.50.35:809][876]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.50.36:218][886]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.50.36:635][896]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.50.37:058][906]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.50.37:484][916]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.50.37:905][926]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.50.38:334][936]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.50.38:744][946]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.50.39:153][956]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.50.39:583][967]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.50.40:168][981]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.50.40:606][992]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.50.41:042][  3]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.50.41:469][ 14]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.50.41:910][ 25]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.50.42:316][ 35]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.50.42:748][ 45]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.50.43:175][ 55]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.50.43:605][ 65]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.50.44:014][ 75]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.50.44:436][ 85]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.50.44:873][ 96]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.50.48:403][183]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.50.48:868][195]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.50.49:819][219]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.50.52:505][285]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.50.53:444][307]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.50.56:746][385]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.51.00:860][485]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2022.12.04-00.51.01:933][509]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-00.51.01:933][509]LogWorld: BeginTearingDown for /Game/Cosas/mapa/UEDPIE_0_FirstPersonMap_2
+[2022.12.04-00.51.01:934][509]LogSlate: Window 'MyProject Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.12.04-00.51.01:967][509]LogWorld: UWorld::CleanupWorld for FirstPersonMap_2, bSessionEnded=true, bCleanupResources=true
+[2022.12.04-00.51.01:968][509]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-00.51.01:998][509]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.04-00.51.02:015][509]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-00.51.02:159][509]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.04-00.51.02:160][509]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=49
+[2022.12.04-00.51.02:165][509]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=49
+[2022.12.04-00.51.02:198][509]LogUObjectHash: Compacting FUObjectHashTables data took   5.13ms
+[2022.12.04-00.51.02:332][510]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2022.12.04-00.51.25:827][822]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.12.04-00.51.25:994][822]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2022.12.04-00.51.26:817][832]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2022.12.04-00.51.26:818][832]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/BP_FirstPersonCharacter3923B9A248ED9538877D77AA1E7EB365.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.12.04-00.51.26:870][832]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.12.04-00.51.26:870][832]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.12.04-00.51.32:918][977]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2022.12.04-00.51.32:920][977]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/BP_FirstPersonCharacterD9922F48426A2E4310D92A82DE96476E.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.12.04-00.51.32:965][977]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.12.04-00.51.32:965][977]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.12.04-00.51.36:685][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2022.12.04-00.51.39:008][ 83]LogSlate: Window 'Save Content' being destroyed
+[2022.12.04-00.51.39:188][ 83]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cosas/sonido/paso_metal" FILE="../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/Cosas/sonido/paso_metal.uasset" SILENT=true
+[2022.12.04-00.51.39:193][ 83]LogSavePackage: Moving output files for package: /Game/Cosas/sonido/paso_metal
+[2022.12.04-00.51.39:193][ 83]LogSavePackage: Moving '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Saved/paso_metal31C1B9EC424B162292E6CF820ECEFF45.tmp' to '../../../../../../Users/Josué/Documents/Unreal Projects/MyProject/Content/Cosas/sonido/paso_metal.uasset'
+[2022.12.04-00.51.39:246][ 83]AssetCheck: New page: Asset Save: paso_metal
+[2022.12.04-00.51.39:247][ 83]LogContentValidation: Display: Validating SoundWave /Game/Cosas/sonido/paso_metal.paso_metal
