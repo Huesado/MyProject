@@ -3284,3 +3284,198 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.12.05-16.02.27:423][724]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
 [2022.12.05-16.02.27:432][724]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
 [2022.12.05-16.02.27:467][725]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.12.05-16.04.14:029][336]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.12.05-16.04.14:042][336]LogWorldPartition: Display: GenerateStreaming started...
+[2022.12.05-16.04.14:043][336]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.12.05-16.04.14:043][336]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.12.05-16.04.14:043][336]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.12.05-16.04.14:043][336]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.12.05-16.04.14:043][336]LogWorldPartition: Display: GetPartitionedActors took 115 us
+[2022.12.05-16.04.14:044][336]LogWorldPartition: Display: GenerateStreaming took 1 ms
+[2022.12.05-16.04.14:044][336]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.05-16.04.14:044][336]PIE: New page: PIE session: Lvl1_2 (Dec 5, 2022, 6:04:14 PM)
+[2022.12.05-16.04.14:044][336]LogPlayLevel: Creating play world package: /Game/Cosas/mapa/UEDPIE_0_Lvl1_2
+[2022.12.05-16.04.14:062][336]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.12.05-16.04.14:062][336]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018022s)
+[2022.12.05-16.04.14:062][336]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cosas/mapa/Lvl1_2.Lvl1_2 to /Game/Cosas/mapa/UEDPIE_0_Lvl1_2.Lvl1_2 (0.018093s)
+[2022.12.05-16.04.14:062][336]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.05-16.04.14:063][336]LogAIModule: Creating AISystem for world Lvl1_2
+[2022.12.05-16.04.14:064][336]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.12.05-16.04.14:064][336]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.12.05-16.04.14:068][336]LogWorldPartition: Display: WorldPartition initialize took 4 ms
+[2022.12.05-16.04.14:068][336]LogPlayLevel: PIE: World Init took: (0.005646s)
+[2022.12.05-16.04.14:078][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.12.05-16.04.14:079][336]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.12.05-16.04.14:079][336]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.05-16.04.14:079][336]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.05-16.04.14:079][336]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.05-16.04.14:079][336]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.05-16.04.14:079][336]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.05-16.04.14:079][336]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.05-16.04.14:079][336]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.05-16.04.14:079][336]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.05-16.04.14:080][336]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.05-16.04.14:080][336]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.05-16.04.14:080][336]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.05-16.04.14:082][336]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.05-16.04.14:106][336]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (2- Black Shark Goblin X4 USB Dongle)
+[2022.12.05-16.04.14:106][336]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.05-16.04.14:106][336]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.05-16.04.14:106][336]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.05-16.04.14:107][336]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2022.12.05-16.04.14:107][336]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2022.12.05-16.04.14:110][336]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2022.12.05-16.04.14:110][336]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2022.12.05-16.04.14:110][336]LogInit: FAudioDevice initialized.
+[2022.12.05-16.04.14:110][336]LogAudio: Display: Audio Device (ID: 11) registered with world 'Lvl1_2'.
+[2022.12.05-16.04.14:199][336]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-16.04.14:199][336]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.12.05-16.04.14:212][336]LogWorld: Bringing World /Game/Cosas/mapa/UEDPIE_0_Lvl1_2.Lvl1_2 up for play (max tick rate 60) at 2022.12.05-17.04.14
+[2022.12.05-16.04.14:213][336]LogWorld: Bringing up level for play took: 0.013683
+[2022.12.05-16.04.14:216][336]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2022.12.05-16.04.14:218][336]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1915.000 Y=-7404.000 Z=152.013
+[2022.12.05-16.04.14:218][336]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.12.05-16.04.14:220][336]PIE: Server logged in
+[2022.12.05-16.04.14:222][336]PIE: Play in editor total start time 0.183 seconds.
+[2022.12.05-16.04.14:318][336]LogViewport: Scene viewport resized to 1913x980, mode Windowed.
+[2022.12.05-16.04.29:192][222]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-16.04.29:193][222]LogWorld: BeginTearingDown for /Game/Cosas/mapa/UEDPIE_0_Lvl1_2
+[2022.12.05-16.04.29:193][222]LogSlate: Window 'MyProject Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.12.05-16.04.29:219][222]LogWorld: UWorld::CleanupWorld for Lvl1_2, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-16.04.29:221][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-16.04.29:236][222]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.05-16.04.29:239][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-16.04.29:251][222]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2022.12.05-16.04.29:253][222]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2022.12.05-16.04.29:262][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.12.05-16.04.29:299][223]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.12.05-16.04.36:894][392]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.12.05-16.04.36:915][392]LogWorldPartition: Display: GenerateStreaming started...
+[2022.12.05-16.04.36:915][392]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.12.05-16.04.36:915][392]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.12.05-16.04.36:915][392]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.12.05-16.04.36:915][392]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.12.05-16.04.36:915][392]LogWorldPartition: Display: GetPartitionedActors took 113 us
+[2022.12.05-16.04.36:916][392]LogWorldPartition: Display: GenerateStreaming took 1 ms
+[2022.12.05-16.04.36:916][392]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.05-16.04.36:916][392]PIE: New page: PIE session: Lvl1_2 (Dec 5, 2022, 6:04:36 PM)
+[2022.12.05-16.04.36:917][392]LogPlayLevel: Creating play world package: /Game/Cosas/mapa/UEDPIE_0_Lvl1_2
+[2022.12.05-16.04.36:940][392]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.12.05-16.04.36:941][392]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024028s)
+[2022.12.05-16.04.36:941][392]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cosas/mapa/Lvl1_2.Lvl1_2 to /Game/Cosas/mapa/UEDPIE_0_Lvl1_2.Lvl1_2 (0.024157s)
+[2022.12.05-16.04.36:941][392]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.05-16.04.36:941][392]LogAIModule: Creating AISystem for world Lvl1_2
+[2022.12.05-16.04.36:942][392]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.12.05-16.04.36:942][392]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.12.05-16.04.36:948][392]LogWorldPartition: Display: WorldPartition initialize took 5 ms
+[2022.12.05-16.04.36:948][392]LogPlayLevel: PIE: World Init took: (0.006949s)
+[2022.12.05-16.04.36:958][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.12.05-16.04.36:960][392]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2022.12.05-16.04.36:960][392]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.05-16.04.36:960][392]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.05-16.04.36:960][392]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.05-16.04.36:960][392]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.05-16.04.36:960][392]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.05-16.04.36:960][392]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.05-16.04.36:960][392]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.05-16.04.36:960][392]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.05-16.04.36:961][392]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.05-16.04.36:961][392]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.05-16.04.36:961][392]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.05-16.04.36:963][392]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.05-16.04.36:991][392]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (2- Black Shark Goblin X4 USB Dongle)
+[2022.12.05-16.04.36:992][392]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.05-16.04.36:992][392]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.05-16.04.36:992][392]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.05-16.04.36:993][392]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2022.12.05-16.04.36:993][392]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2022.12.05-16.04.36:994][392]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2022.12.05-16.04.36:995][392]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2022.12.05-16.04.36:995][392]LogInit: FAudioDevice initialized.
+[2022.12.05-16.04.36:995][392]LogAudio: Display: Audio Device (ID: 12) registered with world 'Lvl1_2'.
+[2022.12.05-16.04.37:075][392]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-16.04.37:075][392]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.12.05-16.04.37:089][392]LogWorld: Bringing World /Game/Cosas/mapa/UEDPIE_0_Lvl1_2.Lvl1_2 up for play (max tick rate 60) at 2022.12.05-17.04.37
+[2022.12.05-16.04.37:090][392]LogWorld: Bringing up level for play took: 0.014614
+[2022.12.05-16.04.37:093][392]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2022.12.05-16.04.37:095][392]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1915.000 Y=-7404.000 Z=152.013
+[2022.12.05-16.04.37:095][392]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.12.05-16.04.37:099][392]PIE: Server logged in
+[2022.12.05-16.04.37:101][392]PIE: Play in editor total start time 0.193 seconds.
+[2022.12.05-16.04.37:219][392]LogViewport: Scene viewport resized to 1913x980, mode Windowed.
+[2022.12.05-16.04.39:003][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-16.04.39:003][444]LogWorld: BeginTearingDown for /Game/Cosas/mapa/UEDPIE_0_Lvl1_2
+[2022.12.05-16.04.39:004][444]LogSlate: Window 'MyProject Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.12.05-16.04.39:028][444]LogWorld: UWorld::CleanupWorld for Lvl1_2, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-16.04.39:030][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-16.04.39:045][444]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.05-16.04.39:049][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-16.04.39:067][444]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2022.12.05-16.04.39:069][444]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2022.12.05-16.04.39:083][444]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.12.05-16.04.39:135][445]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2022.12.05-16.05.09:259][924]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.12.05-16.05.09:280][924]LogWorldPartition: Display: GenerateStreaming started...
+[2022.12.05-16.05.09:280][924]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.12.05-16.05.09:280][924]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.12.05-16.05.09:280][924]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.12.05-16.05.09:280][924]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.12.05-16.05.09:280][924]LogWorldPartition: Display: GetPartitionedActors took 110 us
+[2022.12.05-16.05.09:282][924]LogWorldPartition: Display: GenerateStreaming took 1 ms
+[2022.12.05-16.05.09:282][924]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.05-16.05.09:282][924]PIE: New page: PIE session: Lvl1_2 (Dec 5, 2022, 6:05:09 PM)
+[2022.12.05-16.05.09:282][924]LogPlayLevel: Creating play world package: /Game/Cosas/mapa/UEDPIE_0_Lvl1_2
+[2022.12.05-16.05.09:306][924]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.12.05-16.05.09:307][924]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025382s)
+[2022.12.05-16.05.09:307][924]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cosas/mapa/Lvl1_2.Lvl1_2 to /Game/Cosas/mapa/UEDPIE_0_Lvl1_2.Lvl1_2 (0.025477s)
+[2022.12.05-16.05.09:307][924]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.05-16.05.09:307][924]LogAIModule: Creating AISystem for world Lvl1_2
+[2022.12.05-16.05.09:308][924]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.12.05-16.05.09:309][924]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.12.05-16.05.09:315][924]LogWorldPartition: Display: WorldPartition initialize took 6 ms
+[2022.12.05-16.05.09:315][924]LogPlayLevel: PIE: World Init took: (0.008286s)
+[2022.12.05-16.05.09:327][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.12.05-16.05.09:328][924]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2022.12.05-16.05.09:328][924]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.05-16.05.09:328][924]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.05-16.05.09:328][924]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.05-16.05.09:328][924]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.05-16.05.09:328][924]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.05-16.05.09:328][924]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.05-16.05.09:328][924]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.05-16.05.09:328][924]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.05-16.05.09:329][924]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.05-16.05.09:329][924]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.05-16.05.09:329][924]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.05-16.05.09:332][924]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.05-16.05.09:359][924]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (2- Black Shark Goblin X4 USB Dongle)
+[2022.12.05-16.05.09:360][924]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.05-16.05.09:360][924]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.05-16.05.09:360][924]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.05-16.05.09:361][924]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2022.12.05-16.05.09:361][924]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2022.12.05-16.05.09:362][924]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2022.12.05-16.05.09:362][924]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2022.12.05-16.05.09:362][924]LogInit: FAudioDevice initialized.
+[2022.12.05-16.05.09:363][924]LogAudio: Display: Audio Device (ID: 13) registered with world 'Lvl1_2'.
+[2022.12.05-16.05.09:434][924]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-16.05.09:434][924]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.12.05-16.05.09:451][924]LogWorld: Bringing World /Game/Cosas/mapa/UEDPIE_0_Lvl1_2.Lvl1_2 up for play (max tick rate 60) at 2022.12.05-17.05.09
+[2022.12.05-16.05.09:451][924]LogWorld: Bringing up level for play took: 0.016782
+[2022.12.05-16.05.09:454][924]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2022.12.05-16.05.09:455][924]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1915.000 Y=-7404.000 Z=152.013
+[2022.12.05-16.05.09:455][924]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.12.05-16.05.09:457][924]PIE: Server logged in
+[2022.12.05-16.05.09:459][924]PIE: Play in editor total start time 0.187 seconds.
+[2022.12.05-16.05.09:566][924]LogViewport: Scene viewport resized to 1913x980, mode Windowed.
+[2022.12.05-16.05.15:723][981]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-16.05.15:723][981]LogWorld: BeginTearingDown for /Game/Cosas/mapa/UEDPIE_0_Lvl1_2
+[2022.12.05-16.05.15:723][981]LogSlate: Window 'MyProject Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.12.05-16.05.15:734][981]LogWorld: UWorld::CleanupWorld for Lvl1_2, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-16.05.15:737][981]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-16.05.15:756][981]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.05-16.05.15:760][981]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-16.05.15:772][981]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2022.12.05-16.05.15:774][981]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2022.12.05-16.05.15:783][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.12.05-16.05.16:032][982]LogPlayLevel: Display: Destroying online subsystem :Context_15
